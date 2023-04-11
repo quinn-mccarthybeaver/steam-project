@@ -26,7 +26,7 @@ for prod in prod_status:
         # load date lists
         year_option = soup.find("select", {"name": "released"}).findAll("option")[1:]
         for year_selection in year_option:
-            time.sleep(randint(10,25))
+            time.sleep(randint(9, 20))
             driver.get(link + f"&mfgr={drop_val}&released={year_selection.get('value')}")
             # reset page source
             page_source = driver.page_source
@@ -48,8 +48,8 @@ for prod in prod_status:
                          "Production.Status": prod
                          }
                 df = df.append(dicst, ignore_index=True)
-                df.to_csv("TechPowerUp.csv")
-        time.sleep(randint(15, 30))
-    time.sleep(randint(7,14))
+                df.to_csv("TechPowerUpEOL.csv")
+        time.sleep(randint(30, 65))
+    time.sleep(randint(40, 60))
 
 driver.close()

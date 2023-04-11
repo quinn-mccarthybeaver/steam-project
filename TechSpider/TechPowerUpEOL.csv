@@ -1,0 +1,1192 @@
+,Product,Manufacturer,Architecture,Released,BUS,Memory,GPU.Clock,Memory.Clock,Shaders.TMUs.ROPs,Production.Status
+0,Spectre 1000,3dfx,Rampage,Never Released,AGP 4x,"64 MB, DDR, 128 bit",200 MHz,200 MHz,4 / 0 / 4 / 4,End-of-life
+1,Spectre 2000,3dfx,Rampage,Never Released,AGP 4x,"64 MB, DDR, 128 bit",200 MHz,200 MHz,4 / 1 / 4 / 4,End-of-life
+2,Spectre 3000,3dfx,Rampage,Never Released,AGP 4x,"64 MB, DDR, 128 bit",200 MHz,200 MHz,4 / 1 / 4 / 4,End-of-life
+3,Voodoo4 4000 AGP,3dfx,VSA-100,Never Released,AGP 4x,"16 MB, SDR, 128 bit",166 MHz,166 MHz,2 / 0 / 2 / 2,End-of-life
+4,Voodoo4 4500 AGP,3dfx,VSA-100,"Oct 13th, 2000",AGP 4x,"32 MB, SDR, 128 bit",166 MHz,166 MHz,2 / 0 / 2 / 2,End-of-life
+5,Voodoo4 4500 PCI,3dfx,VSA-100,"Oct 13th, 2000",PCI,"32 MB, SDR, 128 bit",166 MHz,166 MHz,2 / 0 / 2 / 2,End-of-life
+6,Voodoo4 4800 AGP,3dfx,VSA-100,Never Released,AGP 4x,"64 MB, SDR, 128 bit",166 MHz,166 MHz,2 / 0 / 2 / 2,End-of-life
+7,Voodoo4-2 4000 AGP,3dfx,VSA-101,Never Released,AGP 4x,"16 MB, SDR, 128 bit",166 MHz,166 MHz,2 / 0 / 2 / 2,End-of-life
+8,Voodoo4-2 4200 AGP,3dfx,VSA-101,Never Released,AGP 4x,"16 MB, DDR, 128 bit",143 MHz,143 MHz,2 / 0 / 2 / 2,End-of-life
+9,Voodoo4-2 4200 PCI 16 MB,3dfx,VSA-101,Never Released,AGP 4x,"16 MB, DDR, 128 bit",166 MHz,166 MHz,2 / 0 / 2 / 2,End-of-life
+10,Voodoo4-2 4200 PCI 32 MB,3dfx,VSA-101,Never Released,AGP 4x,"32 MB, DDR, 128 bit",166 MHz,166 MHz,2 / 0 / 2 / 2,End-of-life
+11,Voodoo4-2 4800 AGP,3dfx,VSA-101,Never Released,AGP 4x,"32 MB, SDR, 128 bit",166 MHz,166 MHz,2 / 0 / 2 / 2,End-of-life
+12,Voodoo5 5000 AGP,3dfx,VSA-100,Never Released,AGP 4x,"16 MB, SDR, 128 bit",166 MHz,166 MHz,2 / 0 / 2 / 2,End-of-life
+13,Voodoo5 5000 PCI,3dfx,VSA-100,Never Released,PCI,"16 MB, SDR, 128 bit",166 MHz,166 MHz,2 / 0 / 2 / 2,End-of-life
+14,Voodoo5 5500 AGP,3dfx,VSA-100,"Jun 22nd, 2000",AGP 2x,"32 MB, SDR, 128 bit",166 MHz,166 MHz,2 / 0 / 2 / 2,End-of-life
+15,Voodoo5 5500 PCI,3dfx,VSA-100,"Jun 22nd, 2000",PCI,"32 MB, SDR, 128 bit",166 MHz,166 MHz,2 / 0 / 2 / 2,End-of-life
+16,Voodoo5 6000,3dfx,VSA-100,Never Released,AGP 4x,"32 MB, SDR, 128 bit",166 MHz,166 MHz,2 / 0 / 2 / 2,End-of-life
+17,Velocity 100,3dfx,Avenger,"Jul 26th, 1999",AGP 2x,"8 MB, SDR, 128 bit",143 MHz,143 MHz,1 / 0 / 2 / 1,End-of-life
+18,Velocity 200,3dfx,Avenger,Never Released,AGP 2x,"12 MB, SDR, 128 bit",143 MHz,143 MHz,1 / 0 / 2 / 1,End-of-life
+19,Voodoo3 1000 AGP,3dfx,Avenger,Mar 1999,AGP 2x,"16 MB, SDR, 128 bit",143 MHz,143 MHz,1 / 0 / 2 / 1,End-of-life
+20,Voodoo3 2000 AGP,3dfx,Avenger,"Apr 3rd, 1999",AGP 2x,"16 MB, SDR, 128 bit",143 MHz,143 MHz,1 / 0 / 2 / 1,End-of-life
+21,Voodoo3 2000 PCI,3dfx,Avenger,"Apr 3rd, 1999",PCI,"16 MB, SDR, 128 bit",143 MHz,143 MHz,1 / 0 / 2 / 1,End-of-life
+22,Voodoo3 3000 AGP,3dfx,Avenger,"Apr 3rd, 1999",AGP 2x,"16 MB, SDR, 128 bit",166 MHz,166 MHz,1 / 0 / 2 / 1,End-of-life
+23,Voodoo3 3000 PCI,3dfx,Avenger,"Apr 3rd, 1999",PCI,"16 MB, SDR, 128 bit",166 MHz,166 MHz,1 / 0 / 2 / 1,End-of-life
+24,Voodoo3 3500 TV AGP,3dfx,Avenger,Jun 1999,AGP 2x,"16 MB, SDR, 128 bit",183 MHz,183 MHz,1 / 0 / 2 / 1,End-of-life
+25,Voodoo Banshee AGP 16 MB,3dfx,Banshee,"Jun 22nd, 1998",AGP 2x,"16 MB, SDR, 128 bit",100 MHz,100 MHz,1 / 0 / 1 / 1,End-of-life
+26,Voodoo Banshee PCI 16 MB,3dfx,Banshee,"Jun 22nd, 1998",PCI,"16 MB, SDR, 128 bit",100 MHz,100 MHz,1 / 0 / 1 / 1,End-of-life
+27,Voodoo2 12 MB,3dfx,SST2,"Feb 2nd, 1998",PCI,"12 MB, EDO, 192 bit",90 MHz,90 MHz,1 / 0 / 2 / 1,End-of-life
+28,Voodoo2 8 MB,3dfx,SST2,"Feb 2nd, 1998",PCI,"8 MB, EDO, 192 bit",90 MHz,90 MHz,1 / 0 / 2 / 1,End-of-life
+29,Voodoo Graphics 4 MB,3dfx,SST1,"Oct 7th, 1996",PCI,"4 MB, EDO, 128 bit",50 MHz,50 MHz,1 / 0 / 1 / 1,End-of-life
+30,AeroBox GPU,AMD,Kryptos,"Mar 13th, 2020",IGP,"8 GB, DDR3, 256 bit",935 MHz,1066 MHz,896 / 56 / 16,End-of-life
+31,Atari VCS 400 GPU,AMD,Banded Kestrel,"Dec 14th, 2020",IGP,"4 GB, DDR4, 128 bit",300 MHz,1200 MHz,192 / 12 / 4,End-of-life
+32,Atari VCS 800 GPU,AMD,Banded Kestrel,"Dec 14th, 2020",IGP,"8 GB, DDR4, 128 bit",300 MHz,1200 MHz,192 / 12 / 4,End-of-life
+33,Radeon 540 Mobile,AMD,Lexa,"Mar 26th, 2019",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1046 MHz,1300 MHz,512 / 32 / 16,End-of-life
+34,Radeon 540X Mobile,AMD,Polaris 23,"Feb 11th, 2019",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",980 MHz,1000 MHz,512 / 32 / 16,End-of-life
+35,Radeon 550X,AMD,Lexa,"Mar 27th, 2019",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1082 MHz,1750 MHz,512 / 32 / 16,End-of-life
+36,Radeon 610 Mobile,AMD,Banks,"May 23rd, 2019",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1030 MHz,1000 MHz,320 / 20 / 8,End-of-life
+37,Radeon 620 Mobile,AMD,Polaris 24,"May 13th, 2019",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",920 MHz,1000 MHz,384 / 24 / 8,End-of-life
+38,Radeon 625 Mobile,AMD,Polaris 24,"May 13th, 2019",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",730 MHz,1125 MHz,384 / 24 / 8,End-of-life
+39,Radeon 625 OEM,AMD,Polaris 24,"May 13th, 2019",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1024 MHz,1125 MHz,384 / 24 / 8,End-of-life
+40,Radeon R7 350 640SP,AMD,Cape Verde,"Jan 7th, 2019",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",925 MHz,1125 MHz,640 / 40 / 16,End-of-life
+41,Radeon 540X Mobile,AMD,Lexa,"Sep 5th, 2018",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",980 MHz,1500 MHz,512 / 32 / 16,End-of-life
+42,Radeon 550X 640SP,AMD,Lexa,"Apr 11th, 2018",PCIe 3.0 x8,"4 GB, GDDR5, 64 bit",1019 MHz,1500 MHz,640 / 40 / 16,End-of-life
+43,Radeon RX 550X,AMD,Lexa,"Dec 16th, 2018",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1100 MHz,1500 MHz,512 / 32 / 16,End-of-life
+44,Zhongshan Subor Z+ GPU,AMD,Fenghuang,"Aug 3rd, 2018",IGP,"8 GB, GDDR5, 256 bit",1300 MHz,1200 MHz,1536 / 96 / 32,End-of-life
+45,Radeon 520 Mobile DDR3,AMD,Banks,"Apr 18th, 2017",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",1030 MHz,1000 MHz,320 / 20 / 8,End-of-life
+46,Radeon 520 Mobile GDDR5,AMD,Banks,"Apr 18th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1030 MHz,1125 MHz,320 / 20 / 8,End-of-life
+47,Radeon 520 OEM,AMD,Banks,"Apr 18th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1030 MHz,1125 MHz,320 / 20 / 8,End-of-life
+48,Radeon 530 Mobile DDR3,AMD,Weston,"Apr 18th, 2017",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",730 MHz,900 MHz,384 / 24 / 8,End-of-life
+49,Radeon 530 Mobile GDDR5,AMD,Weston,"Apr 18th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",730 MHz,900 MHz,384 / 24 / 8,End-of-life
+50,Radeon 530X Mobile,AMD,Polaris 24,"Apr 18th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",730 MHz,1125 MHz,384 / 24 / 8,End-of-life
+51,Radeon 535 Mobile,AMD,Polaris 24,"Apr 18th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",730 MHz,1125 MHz,384 / 24 / 8,End-of-life
+52,Radeon 550,AMD,Lexa,"Apr 20th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1100 MHz,1750 MHz,512 / 32 / 16,End-of-life
+53,Radeon E9171 MCM,AMD,Lexa,"Oct 3rd, 2017",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1124 MHz,1500 MHz,512 / 32 / 16,End-of-life
+54,Radeon E9172 MXM,AMD,Lexa,"Oct 3rd, 2017",MXM-A (3.0),"2 GB, GDDR5, 64 bit",1124 MHz,1500 MHz,512 / 32 / 16,End-of-life
+55,Radeon E9173 PCIe,AMD,Lexa,"Oct 3rd, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1124 MHz,1500 MHz,512 / 32 / 16,End-of-life
+56,Radeon E9174 MXM,AMD,Lexa,"Oct 3rd, 2017",MXM-A (3.0),"4 GB, GDDR5, 128 bit",1124 MHz,1500 MHz,512 / 32 / 16,End-of-life
+57,Radeon E9175 PCIe,AMD,Lexa,"Oct 3rd, 2017",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1124 MHz,1500 MHz,512 / 32 / 16,End-of-life
+58,Radeon Pro WX 2100,AMD,Lexa,"Jun 4th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",925 MHz,1500 MHz,512 / 32 / 16,End-of-life
+59,Radeon Pro WX 3100,AMD,Lexa,"Jun 12th, 2017",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",925 MHz,1500 MHz,512 / 32 / 16,End-of-life
+60,Radeon R5 Graphics,AMD,Wani,"Sep 5th, 2017",IGP,System Shared,200 MHz,System Shared,384 / 24 / 8,End-of-life
+61,Radeon R8 M535DX,AMD,Meso,"Apr 18th, 2017",IGP,System Shared,780 MHz,System Shared,320 / 20 / 8,End-of-life
+62,Radeon RX 540 Mobile,AMD,Lexa,"Nov 11th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1046 MHz,1250 MHz,512 / 32 / 16,End-of-life
+63,Radeon RX 550,AMD,Lexa,"Apr 20th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1100 MHz,1750 MHz,512 / 32 / 16,End-of-life
+64,Radeon RX 550 Mobile,AMD,Lexa,"Jul 2nd, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1100 MHz,1500 MHz,640 / 40 / 16,End-of-life
+65,Xbox One X GPU,AMD,Scorpio,"Nov 7th, 2017",IGP,"12 GB, GDDR5, 384 bit",1172 MHz,1700 MHz,2560 / 160 / 32,End-of-life
+66,FirePro S7100X,AMD,Amethyst,"May 25th, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",725 MHz,1250 MHz,2048 / 128 / 32,End-of-life
+67,FirePro S7150,AMD,Tonga,"Feb 1st, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",920 MHz,1250 MHz,2048 / 128 / 32,End-of-life
+68,FirePro S7150 x2,AMD,Tonga,"Feb 1st, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1050 MHz,1250 MHz,1792 / 112 / 32,End-of-life
+69,FirePro S9300 X2,AMD,Capsaicin,"Mar 31st, 2016",PCIe 3.0 x16,"4 GB, HBM, 4096 bit",975 MHz,500 MHz,4096 / 256 / 64,End-of-life
+70,Playstation 4 Pro GPU,AMD,Neo,"Nov 10th, 2016",IGP,"8 GB, GDDR5, 256 bit",911 MHz,1700 MHz,2304 / 144 / 32,End-of-life
+71,Playstation 4 Slim GPU,AMD,Liverpool 16nm,"Sep 7th, 2016",IGP,"8 GB, GDDR5, 256 bit",800 MHz,1375 MHz,1152 / 72 / 32,End-of-life
+72,Radeon Instinct MI8,AMD,Fiji,"Dec 12th, 2016",PCIe 3.0 x16,"4 GB, HBM, 4096 bit",1000 MHz,500 MHz,4096 / 256 / 64,End-of-life
+73,Radeon Pro Duo,AMD,Capsaicin,"Apr 26th, 2016",PCIe 3.0 x16,"4 GB, HBM, 4096 bit",1000 MHz,500 MHz,4096 / 256 / 64,End-of-life
+74,Radeon Pro V5300X,AMD,Baffin,Never Released,PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1125 MHz,1500 MHz,1024 / 64 / 16,End-of-life
+75,Radeon Pro V7300X,AMD,Ellesmere,Never Released,PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1188 MHz,1750 MHz,2304 / 144 / 32,End-of-life
+76,Radeon Pro V7350X2,AMD,Ellesmere,Never Released,PCIe 3.0 x16,"16 GB, GDDR5, 256 bit",1188 MHz,1750 MHz,2304 / 144 / 32,End-of-life
+77,Radeon R1E Mobile Graphics,AMD,Beema,"Feb 23rd, 2016",IGP,System Shared,497 MHz,System Shared,64 / 8 / 4,End-of-life
+78,Radeon R1E Mobile Graphics,AMD,Beema,"Feb 23rd, 2016",IGP,System Shared,497 MHz,System Shared,64 / 8 / 4,End-of-life
+79,Radeon R1E Mobile Graphics,AMD,Stoney,"Jun 1st, 2016",IGP,System Shared,300 MHz,System Shared,64 / 8 / 4,End-of-life
+80,Radeon R2 Mobile Graphics,AMD,Stoney,"Jun 1st, 2016",IGP,System Shared,200 MHz,System Shared,128 / 8 / 4,End-of-life
+81,Radeon R2E Mobile Graphics,AMD,Stoney,"Jun 1st, 2016",IGP,System Shared,200 MHz,System Shared,128 / 8 / 4,End-of-life
+82,Radeon R3 Mobile Graphics,AMD,Stoney,"Jun 1st, 2016",IGP,System Shared,200 MHz,System Shared,128 / 8 / 4,End-of-life
+83,Radeon R4 Mobile Graphics,AMD,Stoney,"Jun 1st, 2016",IGP,System Shared,200 MHz,System Shared,192 / 12 / 8,End-of-life
+84,Radeon R4E Mobile Graphics,AMD,Stoney,"Jun 1st, 2016",IGP,System Shared,400 MHz,System Shared,192 / 12 / 8,End-of-life
+85,Radeon R5 430 OEM,AMD,Oland,"Jun 30th, 2016",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",730 MHz,1150 MHz,384 / 24 / 8,End-of-life
+86,Radeon R5 435 OEM,AMD,Banks,"Jun 30th, 2016",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",1030 MHz,1125 MHz,320 / 20 / 8,End-of-life
+87,Radeon R5 M420,AMD,Jet,"May 15th, 2016",PCIe 3.0 x8,"4 GB, DDR3, 64 bit",780 MHz,1000 MHz,320 / 20 / 8,End-of-life
+88,Radeon R5 M430,AMD,Jet,"May 15th, 2016",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",780 MHz,1125 MHz,320 / 20 / 8,End-of-life
+89,Radeon R5 M430,AMD,Jet,2016,PCIe 3.0 x8,"4 GB, DDR3, 64 bit",780 MHz,1000 MHz,320 / 20 / 8,End-of-life
+90,Radeon R5 M430,AMD,Exo,"May 15th, 2016",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",1030 MHz,900 MHz,320 / 20 / 8,End-of-life
+91,Radeon R5 M435,AMD,Jet,"May 15th, 2016",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",780 MHz,1125 MHz,320 / 20 / 8,End-of-life
+92,Radeon R5 M445,AMD,Meso,2016,PCIe 3.0 x8,"4 GB, GDDR5, 64 bit",920 MHz,1000 MHz,384 / 24 / 8,End-of-life
+93,Radeon R5 M465,AMD,Meso,2016,PCIe 3.0 x8,"4 GB, DDR3, 64 bit",1000 MHz,1000 MHz,384 / 24 / 8,End-of-life
+94,Radeon R5 Mobile Graphics,AMD,Stoney,"Jun 1st, 2016",IGP,System Shared,200 MHz,System Shared,192 / 12 / 8,End-of-life
+95,Radeon R5E Mobile Graphics,AMD,Stoney,"Jun 1st, 2016",IGP,System Shared,200 MHz,System Shared,192 / 12 / 8,End-of-life
+96,Radeon R6 M435DX,AMD,Jet,"Dec 12th, 2016",IGP,System Shared,955 MHz,System Shared,384 / 24 / 8,End-of-life
+97,Radeon R6E Mobile Graphics,AMD,Wani,2016,IGP,System Shared,200 MHz,System Shared,384 / 24 / 8,End-of-life
+98,Radeon R7 350,AMD,Cape Verde,"Jul 6th, 2016",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",800 MHz,1125 MHz,512 / 32 / 16,End-of-life
+99,Radeon R7 430 OEM,AMD,Oland,"Jun 30th, 2016",PCIe 3.0 x8,"2 GB, DDR3, 128 bit",730 MHz,900 MHz,384 / 24 / 8,End-of-life
+100,Radeon R7 435 OEM,AMD,Oland,"Jun 30th, 2016",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",920 MHz,1000 MHz,320 / 20 / 8,End-of-life
+101,Radeon R7 450 OEM,AMD,Cape Verde,"Jun 30th, 2016",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",925 MHz,1125 MHz,512 / 32 / 16,End-of-life
+102,Radeon R7 M440,AMD,Meso,"May 15th, 2016",PCIe 3.0 x8,"4 GB, DDR3, 64 bit",891 MHz,900 MHz,320 / 20 / 8,End-of-life
+103,Radeon R7 M445,AMD,Meso,"May 15th, 2016",PCIe 3.0 x8,"4 GB, GDDR5, 64 bit",780 MHz,1000 MHz,320 / 20 / 8,End-of-life
+104,Radeon R7 M460,AMD,Meso,"May 15th, 2016",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",730 MHz,1125 MHz,384 / 24 / 8,End-of-life
+105,Radeon R7 M465,AMD,Litho,"May 15th, 2016",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",825 MHz,1000 MHz,384 / 24 / 8,End-of-life
+106,Radeon R7 M465,AMD,Topaz,"May 15th, 2016",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",730 MHz,1125 MHz,384 / 24 / 8,End-of-life
+107,Radeon R7 M465X,AMD,Tropo,"May 15th, 2016",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",900 MHz,1125 MHz,512 / 32 / 16,End-of-life
+108,Radeon R7E Mobile Graphics,AMD,Wani,2016,IGP,System Shared,200 MHz,System Shared,384 / 24 / 8,End-of-life
+109,Radeon R8 M435DX,AMD,Jet,"Dec 12th, 2016",IGP,System Shared,955 MHz,System Shared,384 / 24 / 8,End-of-life
+110,Radeon R8 M445DX,AMD,Meso,"May 15th, 2016",IGP,System Shared,780 MHz,System Shared,320 / 20 / 8,End-of-life
+111,Radeon R9 M470,AMD,Emerald,"May 15th, 2016",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",900 MHz,1375 MHz,768 / 48 / 16,End-of-life
+112,Radeon R9 M470X,AMD,Emerald,"May 15th, 2016",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1000 MHz,1200 MHz,896 / 56 / 16,End-of-life
+113,Radeon R9 M485X,AMD,Amethyst,"May 15th, 2016",MXM-B (3.0),"8 GB, GDDR5, 256 bit",723 MHz,1250 MHz,2048 / 128 / 32,End-of-life
+114,Radeon RX 455 OEM,AMD,Tobago,"Jun 30th, 2016",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1050 MHz,1625 MHz,768 / 48 / 16,End-of-life
+115,Xbox One S GPU,AMD,Durango 2,"Aug 2nd, 2016",IGP,"8 GB, DDR3, 256 bit",914 MHz,1066 MHz,768 / 48 / 16,End-of-life
+116,FirePro M4170,AMD,Opal,"Apr 23rd, 2015",PCIe 3.0 x8,"1024 MB, GDDR5, 128 bit",825 MHz,1000 MHz,384 / 24 / 8,End-of-life
+117,FirePro S9170,AMD,Hawaii,"Jul 8th, 2015",PCIe 3.0 x16,"32 GB, GDDR5, 512 bit",930 MHz,1250 MHz,2816 / 176 / 64,End-of-life
+118,FirePro W4130M,AMD,Mars,Unknown,PCIe 3.0 x8,"1024 MB, GDDR5, 128 bit",775 MHz,1000 MHz,384 / 24 / 8,End-of-life
+119,FirePro W4150M,AMD,Mars,Unknown,PCIe 3.0 x8,"1024 MB, GDDR5, 128 bit",800 MHz,1000 MHz,384 / 24 / 8,End-of-life
+120,FirePro W4170M,AMD,Opal,"Apr 23rd, 2015",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",825 MHz,1000 MHz,384 / 24 / 8,End-of-life
+121,FirePro W4190M,AMD,Opal,"Nov 12th, 2015",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",825 MHz,1000 MHz,384 / 24 / 8,End-of-life
+122,FirePro W4300,AMD,Bonaire,"Dec 1st, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",930 MHz,1500 MHz,768 / 48 / 16,End-of-life
+123,FirePro W5130M,AMD,Tropo,"Oct 2nd, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",900 MHz,1000 MHz,512 / 32 / 16,End-of-life
+124,FirePro W6150M,AMD,Emerald,"Nov 12th, 2015",MXM-B (3.0),"4 GB, GDDR5, 128 bit",1075 MHz,1375 MHz,768 / 48 / 16,End-of-life
+125,FirePro W7170M,AMD,Amethyst,"Oct 2nd, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",723 MHz,1250 MHz,2048 / 128 / 32,End-of-life
+126,Radeon E6465,AMD,Caicos,"Sep 29th, 2015",PCIe 2.0 x16,"2 GB, GDDR5, 64 bit",600 MHz,800 MHz,160 / 8 / 4,End-of-life
+127,Radeon E8870 MXM,AMD,Saturn,"Sep 29th, 2015",MXM-B (3.0),"4 GB, GDDR5, 128 bit",1000 MHz,1500 MHz,768 / 48 / 16,End-of-life
+128,Radeon E8870 PCIe,AMD,Saturn,"Sep 29th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1000 MHz,1500 MHz,768 / 48 / 16,End-of-life
+129,Radeon E8950,AMD,Amethyst,"Sep 29th, 2015",MXM-B (3.0),"8 GB, GDDR5, 256 bit",735 MHz,1500 MHz,2048 / 128 / 32,End-of-life
+130,Radeon R2 Mobile Graphics,AMD,Beema,"Jan 28th, 2015",IGP,System Shared,497 MHz,System Shared,128 / 8 / 4,End-of-life
+131,Radeon R2 Mobile Graphics,AMD,Beema,"Jan 28th, 2015",IGP,System Shared,300 MHz,System Shared,128 / 8 / 4,End-of-life
+132,Radeon R2E Mobile Graphics,AMD,Beema,"Jan 28th, 2015",IGP,System Shared,300 MHz,System Shared,128 / 8 / 4,End-of-life
+133,Radeon R3 Mobile Graphics,AMD,Beema,"Jan 28th, 2015",IGP,System Shared,600 MHz,System Shared,128 / 8 / 4,End-of-life
+134,Radeon R3E Mobile Graphics,AMD,Beema,"Jan 28th, 2015",IGP,System Shared,351 MHz,System Shared,128 / 8 / 4,End-of-life
+135,Radeon R5 310 OEM,AMD,Caicos,"May 5th, 2015",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",875 MHz,900 MHz,160 / 8 / 4,End-of-life
+136,Radeon R5 310 OEM,AMD,Caicos,"May 5th, 2015",PCIe 2.0 x16,"2 GB, DDR3, 64 bit",775 MHz,805 MHz,160 / 8 / 4,End-of-life
+137,Radeon R5 330 OEM,AMD,Exo,"May 5th, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",830 MHz,900 MHz,320 / 20 / 8,End-of-life
+138,Radeon R5 340 OEM,AMD,Oland,"May 5th, 2015",PCIe 3.0 x8,"1024 MB, GDDR5, 64 bit",730 MHz,1150 MHz,384 / 24 / 8,End-of-life
+139,Radeon R5 340X OEM,AMD,Oland,"May 5th, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",900 MHz,1000 MHz,384 / 24 / 8,End-of-life
+140,Radeon R5 A320,AMD,Jet,2015,PCIe 3.0 x8,"1024 MB, DDR3, 64 bit",750 MHz,1000 MHz,320 / 20 / 8,End-of-life
+141,Radeon R5 A330,AMD,Exo,"Oct 21st, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",1030 MHz,900 MHz,320 / 20 / 8,End-of-life
+142,Radeon R5 A335,AMD,Exo,"Oct 21st, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",1070 MHz,900 MHz,320 / 20 / 8,End-of-life
+143,Radeon R5 M315,AMD,Meso,"May 5th, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",970 MHz,900 MHz,384 / 24 / 8,End-of-life
+144,Radeon R5 M320,AMD,Jet,"May 5th, 2015",PCIe 3.0 x8,"4 GB, DDR3, 64 bit",780 MHz,1000 MHz,320 / 20 / 8,End-of-life
+145,Radeon R5 M330,AMD,Exo,"May 5th, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",955 MHz,900 MHz,320 / 20 / 8,End-of-life
+146,Radeon R5 M335,AMD,Exo,"Oct 21st, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",1030 MHz,900 MHz,320 / 20 / 8,End-of-life
+147,Radeon R5 Mobile Graphics,AMD,Wani,"Nov 7th, 2015",IGP,System Shared,200 MHz,System Shared,384 / 24 / 8,End-of-life
+148,Radeon R6 M335DX,AMD,Jet,"Dec 12th, 2015",IGP,System Shared,955 MHz,System Shared,384 / 24 / 8,End-of-life
+149,Radeon R6 M340DX,AMD,Jet,"Dec 12th, 2015",IGP,System Shared,955 MHz,System Shared,384 / 24 / 8,End-of-life
+150,Radeon R6 Mobile Graphics,AMD,Wani,"Nov 7th, 2015",IGP,System Shared,200 MHz,System Shared,384 / 24 / 8,End-of-life
+151,Radeon R7 340 OEM,AMD,Oland,"May 5th, 2015",PCIe 3.0 x8,"2 GB, DDR3, 128 bit",730 MHz,900 MHz,384 / 24 / 8,End-of-life
+152,Radeon R7 340 OEM,AMD,Oland,"May 5th, 2015",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",730 MHz,1000 MHz,384 / 24 / 8,End-of-life
+153,Radeon R7 350 Fake Card,AMD,Opal,2015,PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",1050 MHz,1150 MHz,384 / 24 / 8,End-of-life
+154,Radeon R7 350 OEM,AMD,Oland,"May 5th, 2015",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1000 MHz,1150 MHz,384 / 24 / 8,End-of-life
+155,Radeon R7 350X OEM,AMD,Oland,"May 5th, 2015",PCIe 3.0 x8,"4 GB, DDR3, 128 bit",1000 MHz,1000 MHz,384 / 24 / 8,End-of-life
+156,Radeon R7 360,AMD,Tobago,"Jun 18th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1000 MHz,1500 MHz,768 / 48 / 16,End-of-life
+157,Radeon R7 360 896SP,AMD,Tobago,"Jun 18th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1100 MHz,1500 MHz,896 / 56 / 16,End-of-life
+158,Radeon R7 360E,AMD,Tobago,"Dec 30th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1050 MHz,1500 MHz,768 / 48 / 16,End-of-life
+159,Radeon R7 370,AMD,Trinidad,"Jun 18th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",925 MHz,1400 MHz,1024 / 64 / 32,End-of-life
+160,Radeon R7 A360,AMD,Opal,2015,PCIe 3.0 x8,"2 GB, DDR3, 128 bit",725 MHz,900 MHz,384 / 24 / 8,End-of-life
+161,Radeon R7 A360,AMD,Meso,"May 5th, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",1100 MHz,900 MHz,384 / 24 / 8,End-of-life
+162,Radeon R7 M260X,AMD,Opal,"Dec 6th, 2015",PCIe 3.0 x8,"1024 MB, GDDR5, 128 bit",620 MHz,1000 MHz,384 / 24 / 8,End-of-life
+163,Radeon R7 M340,AMD,Meso,"May 5th, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",943 MHz,1000 MHz,320 / 20 / 8,End-of-life
+164,Radeon R7 M340,AMD,Opal,"Dec 6th, 2015",PCIe 3.0 x8,"1024 MB, DDR3, 64 bit",620 MHz,1000 MHz,384 / 24 / 8,End-of-life
+165,Radeon R7 M350,AMD,Meso,"May 5th, 2015",PCIe 3.0 x8,"4 GB, DDR3, 64 bit",1000 MHz,1000 MHz,384 / 24 / 8,End-of-life
+166,Radeon R7 M360,AMD,Meso,"May 5th, 2015",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",1100 MHz,900 MHz,384 / 24 / 8,End-of-life
+167,Radeon R7 M365X,AMD,Litho,"May 5th, 2015",PCIe 3.0 x8,"1024 MB, GDDR5, 128 bit",825 MHz,1000 MHz,384 / 24 / 8,End-of-life
+168,Radeon R7 M370,AMD,Litho,"May 5th, 2015",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",875 MHz,900 MHz,384 / 24 / 8,End-of-life
+169,Radeon R7 M380,AMD,Tropo,"May 5th, 2015",PCIe 3.0 x16,"4 GB, DDR3, 128 bit",900 MHz,1000 MHz,640 / 40 / 16,End-of-life
+170,Radeon R7 Mobile Graphics,AMD,Wani,"Nov 15th, 2015",IGP,System Shared,200 MHz,System Shared,512 / 32 / 8,End-of-life
+171,Radeon R8 M350DX,AMD,Jet,"Dec 12th, 2015",IGP,System Shared,955 MHz,System Shared,384 / 24 / 8,End-of-life
+172,Radeon R8 M365DX,AMD,Meso,"Jun 3rd, 2015",IGP,System Shared,900 MHz,System Shared,384 / 24 / 8,End-of-life
+173,Radeon R9 270 1024SP,AMD,Pitcairn,"Mar 13th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",900 MHz,1200 MHz,1024 / 64 / 32,End-of-life
+174,Radeon R9 360 OEM,AMD,Tobago,"May 5th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1000 MHz,1625 MHz,768 / 48 / 16,End-of-life
+175,Radeon R9 370,AMD,Trinidad,"May 5th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",925 MHz,1400 MHz,1280 / 80 / 32,End-of-life
+176,Radeon R9 370 1024SP,AMD,Trinidad,"Jun 12th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",925 MHz,1400 MHz,1024 / 64 / 32,End-of-life
+177,Radeon R9 370X,AMD,Trinidad,"Aug 27th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",980 MHz,1400 MHz,1280 / 80 / 32,End-of-life
+178,Radeon R9 380,AMD,Antigua,"Jun 18th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",970 MHz,1375 MHz,1792 / 112 / 32,End-of-life
+179,Radeon R9 380 OEM,AMD,Antigua,"May 5th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",918 MHz,1375 MHz,1792 / 112 / 32,End-of-life
+180,Radeon R9 380X,AMD,Antigua,"Nov 19th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",970 MHz,1425 MHz,2048 / 128 / 32,End-of-life
+181,Radeon R9 390,AMD,Grenada,"Jun 18th, 2015",PCIe 3.0 x16,"8 GB, GDDR5, 512 bit",1000 MHz,1500 MHz,2560 / 160 / 64,End-of-life
+182,Radeon R9 390 X2,AMD,Grenada,"Sep 3rd, 2015",PCIe 3.0 x16,"8 GB, GDDR5, 512 bit",1000 MHz,1350 MHz,2560 / 160 / 64,End-of-life
+183,Radeon R9 390X,AMD,Grenada,"Jun 18th, 2015",PCIe 3.0 x16,"8 GB, GDDR5, 512 bit",1050 MHz,1500 MHz,2816 / 176 / 64,End-of-life
+184,Radeon R9 A375,AMD,Venus,2015,PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1015 MHz,1125 MHz,640 / 40 / 16,End-of-life
+185,Radeon R9 FURY,AMD,Fiji,"Jul 10th, 2015",PCIe 3.0 x16,"4 GB, HBM, 4096 bit",1000 MHz,500 MHz,3584 / 224 / 64,End-of-life
+186,Radeon R9 FURY X,AMD,Fiji,"Jun 24th, 2015",PCIe 3.0 x16,"4 GB, HBM, 4096 bit",1050 MHz,500 MHz,4096 / 256 / 64,End-of-life
+187,Radeon R9 FURY X2,AMD,Capsaicin,Never Released,PCIe 3.0 x16,"4 GB, HBM, 4096 bit",1050 MHz,500 MHz,4096 / 256 / 64,End-of-life
+188,Radeon R9 M270X,AMD,Saturn,"Feb 5th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",900 MHz,1375 MHz,768 / 48 / 16,End-of-life
+189,Radeon R9 M280X,AMD,Saturn,"Feb 5th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",900 MHz,1375 MHz,896 / 56 / 16,End-of-life
+190,Radeon R9 M280X,AMD,Saturn,"Feb 5th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1000 MHz,1500 MHz,896 / 56 / 16,End-of-life
+191,Radeon R9 M360,AMD,Tropo,"May 5th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",900 MHz,1125 MHz,512 / 32 / 16,End-of-life
+192,Radeon R9 M365X,AMD,Tropo,"May 5th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",900 MHz,1125 MHz,640 / 40 / 16,End-of-life
+193,Radeon R9 M370X Mac Edition,AMD,Tropo,"May 5th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",775 MHz,1125 MHz,640 / 40 / 16,End-of-life
+194,Radeon R9 M375,AMD,Tropo,"May 5th, 2015",PCIe 3.0 x16,"2 GB, DDR3, 128 bit",1000 MHz,900 MHz,640 / 40 / 16,End-of-life
+195,Radeon R9 M375X,AMD,Tropo,"May 5th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",925 MHz,1125 MHz,640 / 40 / 16,End-of-life
+196,Radeon R9 M380,AMD,Strato,"May 5th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",900 MHz,1500 MHz,768 / 48 / 16,End-of-life
+197,Radeon R9 M380 Mac Edition,AMD,Strato,"May 5th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",900 MHz,1568 MHz,768 / 48 / 16,End-of-life
+198,Radeon R9 M385,AMD,Strato,"May 5th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",900 MHz,1200 MHz,896 / 56 / 16,End-of-life
+199,Radeon R9 M385X,AMD,Strato,"May 5th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1000 MHz,1200 MHz,896 / 56 / 16,End-of-life
+200,Radeon R9 M390 Mac Edition,AMD,Pitcairn,"May 5th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",958 MHz,1365 MHz,1024 / 64 / 32,End-of-life
+201,Radeon R9 M390X,AMD,Amethyst,"May 5th, 2015",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",723 MHz,1250 MHz,2048 / 128 / 32,End-of-life
+202,Radeon R9 M395 Mac Edition,AMD,Amethyst,"May 5th, 2015",MXM-B (3.0),"2 GB, GDDR5, 256 bit",834 MHz,1365 MHz,1792 / 112 / 32,End-of-life
+203,Radeon R9 M395X,AMD,Amethyst,"May 5th, 2015",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",723 MHz,1250 MHz,2048 / 128 / 32,End-of-life
+204,Radeon R9 M395X Mac Edition,AMD,Amethyst,"May 5th, 2015",MXM-B (3.0),"4 GB, GDDR5, 256 bit",909 MHz,1365 MHz,2048 / 128 / 32,End-of-life
+205,Radeon R9 Nano,AMD,Fiji,"Aug 27th, 2015",PCIe 3.0 x16,"4 GB, HBM, 4096 bit",1000 MHz,500 MHz,4096 / 256 / 64,End-of-life
+206,FirePro D300,AMD,Pitcairn,"Jan 18th, 2014",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",850 MHz,1270 MHz,1280 / 80 / 32,End-of-life
+207,FirePro D500,AMD,Tahiti,"Jan 18th, 2014",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",725 MHz,1270 MHz,1536 / 96 / 32,End-of-life
+208,FirePro D700,AMD,Tahiti,"Jan 18th, 2014",PCIe 3.0 x16,"6 GB, GDDR5, 384 bit",850 MHz,1370 MHz,2048 / 128 / 32,End-of-life
+209,FirePro M6100,AMD,Emerald,"May 27th, 2014",MXM-B (3.0),"2 GB, GDDR5, 128 bit",1100 MHz,1500 MHz,896 / 56 / 16,End-of-life
+210,FirePro S10000 Passive 12GB,AMD,Tahiti,"Mar 1st, 2014",PCIe 3.0 x16,"6 GB, GDDR5, 384 bit",825 MHz,1250 MHz,1792 / 112 / 32,End-of-life
+211,FirePro S4000X,AMD,Venus,"Aug 7th, 2014",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",725 MHz,1125 MHz,640 / 40 / 16,End-of-life
+212,FirePro S9050,AMD,Tahiti,"Aug 7th, 2014",PCIe 3.0 x16,"12 GB, GDDR5, 384 bit",900 MHz,1375 MHz,1792 / 112 / 32,End-of-life
+213,FirePro S9100,AMD,Hawaii,"Oct 2nd, 2014",PCIe 3.0 x16,"12 GB, GDDR5, 512 bit",824 MHz,1250 MHz,2560 / 160 / 64,End-of-life
+214,FirePro S9150,AMD,Hawaii,"Aug 7th, 2014",PCIe 3.0 x16,"16 GB, GDDR5, 512 bit",900 MHz,1250 MHz,2816 / 176 / 64,End-of-life
+215,FirePro W2100,AMD,Oland,"Aug 12th, 2014",PCIe 3.0 x8,"2 GB, DDR3, 128 bit",630 MHz,900 MHz,320 / 20 / 8,End-of-life
+216,FirePro W4100,AMD,Cape Verde,"Aug 13th, 2014",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",630 MHz,1000 MHz,512 / 32 / 16,End-of-life
+217,FirePro W4170M,AMD,Mars,"Apr 28th, 2014",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",825 MHz,1000 MHz,384 / 24 / 8,End-of-life
+218,FirePro W5100,AMD,Bonaire,"Mar 31st, 2014",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",930 MHz,1500 MHz,768 / 48 / 16,End-of-life
+219,FirePro W5170M,AMD,Tropo,"Aug 25th, 2014",MXM-A (3.0),"2 GB, GDDR5, 128 bit",900 MHz,1125 MHz,640 / 40 / 16,End-of-life
+220,FirePro W6170M,AMD,Emerald,"Aug 25th, 2014",MXM-B (3.0),"2 GB, GDDR5, 128 bit",1100 MHz,1500 MHz,896 / 56 / 16,End-of-life
+221,FirePro W7100,AMD,Tonga,"Aug 12th, 2014",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",920 MHz,1250 MHz,1792 / 112 / 32,End-of-life
+222,FirePro W8100,AMD,Hawaii,"Jun 23rd, 2014",PCIe 3.0 x16,"8 GB, GDDR5, 512 bit",824 MHz,1250 MHz,2560 / 160 / 64,End-of-life
+223,FirePro W9100,AMD,Hawaii,"Mar 26th, 2014",PCIe 3.0 x16,"16 GB, GDDR5, 512 bit",930 MHz,1250 MHz,2816 / 176 / 64,End-of-life
+224,Radeon E8860,AMD,Venus,"Jan 25th, 2014",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",575 MHz,1125 MHz,640 / 40 / 16,End-of-life
+225,Radeon HD 8210 IGP,AMD,Kalindi,"Jan 31st, 2014",IGP,System Shared,300 MHz,System Shared,128 / 8 / 4,End-of-life
+226,Radeon HD 8530M,AMD,Mars,"Jan 10th, 2014",PCIe 3.0 x8,"1024 MB, DDR3, 64 bit",650 MHz,900 MHz,320 / 16 / 8,End-of-life
+227,Radeon HD 8550M,AMD,Sun,"Jul 13th, 2014",PCIe 3.0 x8,"1024 MB, DDR3, 64 bit",650 MHz,900 MHz,320 / 20 / 8,End-of-life
+228,Radeon R4 Mobile Graphics,AMD,Spectre SL,"Sep 17th, 2014",IGP,System Shared,533 MHz,System Shared,192 / 12 / 8,End-of-life
+229,Radeon R4 Mobile Graphics,AMD,Beema,"Jun 11th, 2014",IGP,System Shared,800 MHz,System Shared,128 / 8 / 4,End-of-life
+230,Radeon R4E Mobile Graphics,AMD,Beema,"Jun 6th, 2014",IGP,System Shared,800 MHz,System Shared,128 / 8 / 4,End-of-life
+231,Radeon R5 230,AMD,Caicos,"Apr 3rd, 2014",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",625 MHz,667 MHz,160 / 8 / 4,End-of-life
+232,Radeon R5 A220,AMD,Caicos,2014,PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",775 MHz,900 MHz,160 / 8 / 4,End-of-life
+233,Radeon R5 A230,AMD,Jet,"Jan 7th, 2014",PCIe 3.0 x8,"4 GB, DDR3, 64 bit",780 MHz,1000 MHz,320 / 20 / 8,End-of-life
+234,Radeon R5 A240,AMD,Oland,2014,PCIe 3.0 x8,"2 GB, DDR3, 128 bit",730 MHz,900 MHz,320 / 20 / 8,End-of-life
+235,Radeon R5 A240,AMD,Jet,2014,PCIe 3.0 x8,"1024 MB, DDR3, 64 bit",1030 MHz,900 MHz,320 / 20 / 8,End-of-life
+236,Radeon R5 A255,AMD,Topaz,2014,PCIe 3.0 x8,"1024 MB, GDDR5, 128 bit",925 MHz,1000 MHz,384 / 24 / 8,End-of-life
+237,Radeon R5 Graphics,AMD,Spectre SL,"Sep 17th, 2014",IGP,System Shared,758 MHz,System Shared,256 / 16 / 4,End-of-life
+238,Radeon R5 Graphics,AMD,Spectre SL,"Sep 17th, 2014",IGP,System Shared,497 MHz,System Shared,256 / 16 / 4,End-of-life
+239,Radeon R5 M230,AMD,Jet,"Jan 7th, 2014",PCIe 3.0 x8,"4 GB, DDR3, 64 bit",780 MHz,1000 MHz,320 / 20 / 8,End-of-life
+240,Radeon R5 M230,AMD,Jet,"Jan 7th, 2014",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",610 MHz,1000 MHz,320 / 20 / 8,End-of-life
+241,Radeon R5 M230 Rebrand,AMD,Sun,"May 31st, 2014",PCIe 3.0 x8,"1024 MB, DDR3, 64 bit",780 MHz,900 MHz,320 / 20 / 8,End-of-life
+242,Radeon R5 M240,AMD,Jet,"Sep 18th, 2014",PCIe 3.0 x8,"1024 MB, DDR3, 64 bit",1000 MHz,900 MHz,320 / 20 / 8,End-of-life
+243,Radeon R5 M240 Rebrand,AMD,Mars,"Jan 10th, 2014",PCIe 3.0 x8,"1024 MB, DDR3, 64 bit",650 MHz,900 MHz,384 / 24 / 8,End-of-life
+244,Radeon R5 M255,AMD,Topaz,"Oct 12th, 2014",PCIe 3.0 x8,"2 GB, DDR3, 128 bit",925 MHz,1000 MHz,384 / 24 / 8,End-of-life
+245,Radeon R5 Mobile Graphics,AMD,Beema,"Jun 14th, 2014",IGP,System Shared,800 MHz,System Shared,128 / 8 / 4,End-of-life
+246,Radeon R5 Mobile Graphics,AMD,Spectre SL,"Sep 17th, 2014",IGP,System Shared,626 MHz,System Shared,256 / 16 / 8,End-of-life
+247,Radeon R5E Mobile Graphics,AMD,Beema,"Jun 6th, 2014",IGP,System Shared,800 MHz,System Shared,128 / 8 / 4,End-of-life
+248,Radeon R6 M255DX,AMD,Jet,"Jan 7th, 2014",IGP,System Shared,780 MHz,System Shared,320 / 20 / 8,End-of-life
+249,Radeon R6 M255DX,AMD,Topaz,"Oct 12th, 2014",IGP,System Shared,925 MHz,System Shared,384 / 24 / 8,End-of-life
+250,Radeon R6 Mobile Graphics,AMD,Spectre Lite,"Sep 17th, 2014",IGP,System Shared,533 MHz,System Shared,384 / 24 / 8,End-of-life
+251,Radeon R7 250X,AMD,Cape Verde,"Feb 13th, 2014",PCIe 3.0 x16,"1024 MB, GDDR5, 128 bit",950 MHz,1125 MHz,640 / 40 / 16,End-of-life
+252,Radeon R7 250XE,AMD,Cape Verde,"Aug 21st, 2014",PCIe 3.0 x16,"1024 MB, GDDR5, 128 bit",860 MHz,1125 MHz,640 / 40 / 16,End-of-life
+253,Radeon R7 265,AMD,Pitcairn,"Feb 13th, 2014",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",900 MHz,1400 MHz,1024 / 64 / 32,End-of-life
+254,Radeon R7 265X OEM,AMD,Curacao,"Aug 12th, 2014",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",900 MHz,1400 MHz,1280 / 80 / 32,End-of-life
+255,Radeon R7 A260,AMD,Topaz,2014,PCIe 3.0 x8,"1024 MB, GDDR5, 128 bit",900 MHz,900 MHz,384 / 24 / 8,End-of-life
+256,Radeon R7 A265,AMD,Opal,"Jan 9th, 2014",PCIe 3.0 x8,"2 GB, DDR3, 128 bit",725 MHz,900 MHz,384 / 24 / 8,End-of-life
+257,Radeon R7 Graphics,AMD,Spectre,"Jan 11th, 2014",IGP,System Shared,720 MHz,System Shared,512 / 32 / 8,End-of-life
+258,Radeon R7 Graphics,AMD,Spectre Lite,"Feb 17th, 2014",IGP,System Shared,720 MHz,System Shared,384 / 24 / 8,End-of-life
+259,Radeon R7 M260,AMD,Topaz,"Jun 11th, 2014",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",940 MHz,900 MHz,384 / 24 / 8,End-of-life
+260,Radeon R7 M260DX,AMD,Jet,"Jan 7th, 2014",IGP,System Shared,780 MHz,System Shared,320 / 20 / 8,End-of-life
+261,Radeon R7 M260DX,AMD,Topaz,"Oct 12th, 2014",IGP,System Shared,925 MHz,System Shared,384 / 24 / 8,End-of-life
+262,Radeon R7 M260DX,AMD,Jet,"Jan 7th, 2014",IGP,System Shared,955 MHz,System Shared,320 / 20 / 8,End-of-life
+263,Radeon R7 M265,AMD,Opal,"Jan 9th, 2014",PCIe 3.0 x8,"2 GB, DDR3, 128 bit",725 MHz,900 MHz,384 / 24 / 8,End-of-life
+264,Radeon R7 M265,AMD,Topaz,"May 20th, 2014",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",900 MHz,900 MHz,384 / 24 / 8,End-of-life
+265,Radeon R7 M265DX,AMD,Topaz,"Jun 11th, 2014",IGP,System Shared,900 MHz,System Shared,384 / 24 / 8,End-of-life
+266,Radeon R7 M265DX,AMD,Jet,"Jan 7th, 2014",IGP,System Shared,780 MHz,System Shared,320 / 20 / 8,End-of-life
+267,Radeon R7 M265DX,AMD,Topaz,"Oct 12th, 2014",IGP,System Shared,925 MHz,System Shared,384 / 24 / 8,End-of-life
+268,Radeon R7 M270,AMD,Opal,"Jan 9th, 2014",PCIe 3.0 x8,"2 GB, DDR3, 128 bit",725 MHz,900 MHz,384 / 24 / 8,End-of-life
+269,Radeon R7 M270DX,AMD,Topaz,"Jun 11th, 2014",IGP,System Shared,900 MHz,System Shared,384 / 24 / 8,End-of-life
+270,Radeon R7 M270DX,AMD,Jet,"Jan 7th, 2014",IGP,System Shared,780 MHz,System Shared,320 / 20 / 8,End-of-life
+271,Radeon R7 Mobile Graphics,AMD,Spectre Lite,"Feb 17th, 2014",IGP,System Shared,554 MHz,System Shared,384 / 24 / 8,End-of-life
+272,Radeon R9 280,AMD,Tahiti,"Mar 4th, 2014",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",827 MHz,1250 MHz,1792 / 112 / 32,End-of-life
+273,Radeon R9 285,AMD,Tonga,"Sep 2nd, 2014",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",918 MHz,1375 MHz,1792 / 112 / 32,End-of-life
+274,Radeon R9 285X,AMD,Tonga,Never Released,PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",1002 MHz,1375 MHz,2048 / 128 / 32,End-of-life
+275,Radeon R9 290X2,AMD,Hawaii,"Jun 24th, 2014",PCIe 3.0 x16,"4 GB, GDDR5, 512 bit",1000 MHz,1350 MHz,2816 / 176 / 64,End-of-life
+276,Radeon R9 295X2,AMD,Vesuvius,"Apr 29th, 2014",PCIe 3.0 x16,"4 GB, GDDR5, 512 bit",1018 MHz,1250 MHz,2816 / 176 / 64,End-of-life
+277,Radeon R9 M265X,AMD,Venus,"Mar 21st, 2014",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",575 MHz,1000 MHz,640 / 40 / 16,End-of-life
+278,Radeon R9 M270X,AMD,Venus,"Mar 21st, 2014",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",725 MHz,1000 MHz,640 / 40 / 16,End-of-life
+279,Radeon R9 M275,AMD,Venus,"Jan 28th, 2014",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",900 MHz,1000 MHz,640 / 40 / 16,End-of-life
+280,Radeon R9 M275X,AMD,Venus,"Jan 28th, 2014",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",900 MHz,1125 MHz,640 / 40 / 16,End-of-life
+281,Radeon R9 M290X,AMD,Neptune,"Jan 9th, 2014",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",850 MHz,1200 MHz,1280 / 80 / 32,End-of-life
+282,Radeon R9 M290X Mac Edition,AMD,Pitcairn,"Nov 23rd, 2014",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",850 MHz,1365 MHz,1024 / 64 / 32,End-of-life
+283,Radeon R9 M295X,AMD,Amethyst,"Nov 23rd, 2014",MXM-B (3.0),"4 GB, GDDR5, 256 bit",723 MHz,1250 MHz,2048 / 128 / 32,End-of-life
+284,Radeon R9 M295X Mac Edition,AMD,Amethyst,"Nov 23rd, 2014",MXM-B (3.0),"4 GB, GDDR5, 256 bit",850 MHz,1362 MHz,2048 / 128 / 32,End-of-life
+285,FirePro M4100,AMD,Mars,"Oct 16th, 2013",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",670 MHz,1000 MHz,384 / 24 / 8,End-of-life
+286,FirePro M4150,AMD,Opal,"Oct 16th, 2013",PCIe 3.0 x8,"1024 MB, GDDR5, 128 bit",715 MHz,1000 MHz,384 / 24 / 8,End-of-life
+287,FirePro M5100,AMD,Venus,"Oct 16th, 2013",MXM-A (3.0),"2 GB, GDDR5, 128 bit",725 MHz,1125 MHz,640 / 40 / 16,End-of-life
+288,FirePro M6100,AMD,Saturn,"Oct 16th, 2013",MXM-B (3.0),"2 GB, GDDR5, 128 bit",1075 MHz,1375 MHz,768 / 48 / 16,End-of-life
+289,FirePro R5000,AMD,Pitcairn,"Feb 25th, 2013",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",825 MHz,800 MHz,768 / 48 / 32,End-of-life
+290,FirePro W5000 DVI,AMD,Pitcairn,"Feb 25th, 2013",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",825 MHz,800 MHz,768 / 48 / 32,End-of-life
+291,Playstation 4 GPU,AMD,Liverpool,"Nov 24th, 2013",IGP,"8 GB, GDDR5, 256 bit",800 MHz,1375 MHz,1152 / 72 / 32,End-of-life
+292,Radeon HD 6610,AMD,Redwood,"Mar 20th, 2013",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,800 MHz,400 / 20 / 8,End-of-life
+293,Radeon HD 6770 Green Edition,AMD,Juniper,"Apr 19th, 2013",PCIe 2.0 x16,"2 GB, GDDR3, 128 bit",700 MHz,667 MHz,720 / 36 / 16,End-of-life
+294,Radeon HD 6870 1600SP Edition,AMD,Cypress,"Jan 14th, 2013",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",850 MHz,1050 MHz,1600 / 80 / 32,End-of-life
+295,Radeon HD 7510 OEM,AMD,Turks,"Feb 1st, 2013",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,667 MHz,320 / 16 / 4,End-of-life
+296,Radeon HD 7570 OEM,AMD,Redwood,"Mar 20th, 2013",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,800 MHz,400 / 20 / 8,End-of-life
+297,Radeon HD 7720 OEM,AMD,Barts,"Mar 15th, 2013",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",840 MHz,1050 MHz,800 / 40 / 32,End-of-life
+298,Radeon HD 7730,AMD,Cape Verde,"May 1st, 2013",PCIe 3.0 x16,"1024 MB, GDDR5, 128 bit",800 MHz,1125 MHz,384 / 24 / 8,End-of-life
+299,Radeon HD 7790,AMD,Bonaire,"Mar 22nd, 2013",PCIe 3.0 x16,"1024 MB, GDDR5, 128 bit",1000 MHz,1500 MHz,896 / 56 / 16,End-of-life
+300,Radeon HD 7950 Mac Edition,AMD,Tahiti,"Mar 7th, 2013",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",800 MHz,1250 MHz,1792 / 112 / 32,End-of-life
+301,Radeon HD 7990,AMD,Malta,"Apr 24th, 2013",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",950 MHz,1500 MHz,2048 / 128 / 32,End-of-life
+302,Radeon HD 8180 IGP,AMD,Kalindi,Nov 2013,IGP,System Shared,225 MHz,System Shared,128 / 8 / 4,End-of-life
+303,Radeon HD 8210E,AMD,Kalindi,"Apr 23rd, 2013",IGP,System Shared,300 MHz,System Shared,128 / 8 / 4,End-of-life
+304,Radeon HD 8240 Mobile IGP,AMD,Kalindi,"Nov 1st, 2013",IGP,System Shared,400 MHz,System Shared,128 / 8 / 4,End-of-life
+305,Radeon HD 8250 IGP,AMD,Kalindi,"May 23rd, 2013",IGP,System Shared,300 MHz,System Shared,128 / 8 / 4,End-of-life
+306,Radeon HD 8280 IGP,AMD,Kalindi,"Sep 18th, 2013",IGP,System Shared,450 MHz,System Shared,128 / 8 / 4,End-of-life
+307,Radeon HD 8280 Mobile IGP,AMD,Kalindi,"Sep 18th, 2013",IGP,System Shared,450 MHz,System Shared,128 / 8 / 4,End-of-life
+308,Radeon HD 8280E,AMD,Kalindi,"Apr 23rd, 2013",IGP,System Shared,450 MHz,System Shared,128 / 8 / 4,End-of-life
+309,Radeon HD 8310G IGP,AMD,Scrapper Lite,Jul 2013,IGP,System Shared,424 MHz,System Shared,128 / 8 / 4,End-of-life
+310,Radeon HD 8330 Mobile IGP,AMD,Kalindi,"Aug 13th, 2013",IGP,System Shared,497 MHz,System Shared,128 / 8 / 4,End-of-life
+311,Radeon HD 8330E,AMD,Kalindi,"Apr 23rd, 2013",IGP,System Shared,497 MHz,System Shared,128 / 8 / 4,End-of-life
+312,Radeon HD 8350G IGP,AMD,Scrapper Lite,"Mar 12th, 2013",IGP,System Shared,514 MHz,System Shared,128 / 8 / 4,End-of-life
+313,Radeon HD 8370D IGP,AMD,Scrapper Lite,Jul 2013,IGP,System Shared,760 MHz,System Shared,128 / 8 / 4,End-of-life
+314,Radeon HD 8400 IGP,AMD,Kalindi,"Nov 23rd, 2013",IGP,System Shared,600 MHz,System Shared,128 / 8 / 4,End-of-life
+315,Radeon HD 8400 Mobile IGP,AMD,Kalindi,"Nov 23rd, 2013",IGP,System Shared,600 MHz,System Shared,128 / 8 / 4,End-of-life
+316,Radeon HD 8400E,AMD,Kalindi,"Apr 23rd, 2013",IGP,System Shared,600 MHz,System Shared,128 / 8 / 4,End-of-life
+317,Radeon HD 8410G IGP,AMD,Scrapper,"May 23rd, 2013",IGP,System Shared,450 MHz,System Shared,192 / 12 / 4,End-of-life
+318,Radeon HD 8450G IGP,AMD,Scrapper,"May 23rd, 2013",IGP,System Shared,533 MHz,System Shared,192 / 12 / 4,End-of-life
+319,Radeon HD 8470D IGP,AMD,Scrapper,"Jul 29th, 2013",IGP,System Shared,800 MHz,System Shared,192 / 12 / 4,End-of-life
+320,Radeon HD 8490 OEM,AMD,Caicos,"Jul 23rd, 2013",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",875 MHz,900 MHz,160 / 8 / 4,End-of-life
+321,Radeon HD 8510 OEM,AMD,Redwood,"Apr 24th, 2013",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,500 MHz,400 / 20 / 8,End-of-life
+322,Radeon HD 8510 OEM,AMD,Turks,"Jul 23rd, 2013",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,800 MHz,480 / 24 / 8,End-of-life
+323,Radeon HD 8510G IGP,AMD,Devastator,"May 23rd, 2013",IGP,System Shared,554 MHz,System Shared,384 / 24 / 8,End-of-life
+324,Radeon HD 8550 OEM,AMD,Turks,"Oct 25th, 2013",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,800 MHz,480 / 24 / 8,End-of-life
+325,Radeon HD 8550D IGP,AMD,Scrapper,"May 23rd, 2013",IGP,System Shared,720 MHz,System Shared,256 / 16 / 8,End-of-life
+326,Radeon HD 8550G IGP,AMD,Devastator Lite,"May 23rd, 2013",IGP,System Shared,515 MHz,System Shared,256 / 16 / 8,End-of-life
+327,Radeon HD 8570 OEM Rebrand,AMD,Turks,"Jul 23rd, 2013",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,800 MHz,480 / 24 / 8,End-of-life
+328,Radeon HD 8570A,AMD,Sun,"Mar 1st, 2013",MXM-A (3.0),"1024 MB, DDR3, 64 bit",750 MHz,1000 MHz,320 / 20 / 8,End-of-life
+329,Radeon HD 8570D IGP,AMD,Devastator Lite,"Jul 10th, 2013",IGP,System Shared,800 MHz,System Shared,256 / 16 / 8,End-of-life
+330,Radeon HD 8570M,AMD,Sun,"Mar 1st, 2013",PCIe 3.0 x8,"1024 MB, DDR3, 64 bit",750 MHz,1000 MHz,320 / 20 / 8,End-of-life
+331,Radeon HD 8590M,AMD,Sun,"Mar 1st, 2013",PCIe 3.0 x8,"1024 MB, GDDR5, 64 bit",750 MHz,1125 MHz,320 / 20 / 8,End-of-life
+332,Radeon HD 8610G IGP,AMD,Devastator,"May 23rd, 2013",IGP,System Shared,533 MHz,System Shared,384 / 24 / 8,End-of-life
+333,Radeon HD 8650D IGP,AMD,Scrapper,"Dec 28th, 2013",IGP,System Shared,720 MHz,System Shared,384 / 24 / 8,End-of-life
+334,Radeon HD 8650G IGP,AMD,Devastator,"May 23rd, 2013",IGP,System Shared,533 MHz,System Shared,384 / 24 / 8,End-of-life
+335,Radeon HD 8670 OEM,AMD,Oland,"Jan 8th, 2013",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1000 MHz,1150 MHz,384 / 24 / 8,End-of-life
+336,Radeon HD 8670A,AMD,Sun,"Feb 2nd, 2013",MXM-A (3.0),"1024 MB, DDR3, 64 bit",600 MHz,1000 MHz,320 / 20 / 8,End-of-life
+337,Radeon HD 8670A,AMD,Mars,"Feb 2nd, 2013",MXM-A (3.0),"1024 MB, DDR3, 64 bit",600 MHz,1000 MHz,384 / 24 / 8,End-of-life
+338,Radeon HD 8670D IGP,AMD,Devastator,"Mar 12th, 2013",IGP,System Shared,844 MHz,System Shared,384 / 24 / 8,End-of-life
+339,Radeon HD 8670M,AMD,Sun,"Mar 1st, 2013",PCIe 3.0 x8,"1024 MB, DDR3, 64 bit",925 MHz,900 MHz,320 / 20 / 8,End-of-life
+340,Radeon HD 8670M,AMD,Mars,"Mar 1st, 2013",PCIe 3.0 x8,"1024 MB, DDR3, 64 bit",775 MHz,900 MHz,384 / 24 / 8,End-of-life
+341,Radeon HD 8690M,AMD,Sun,"Mar 1st, 2013",PCIe 3.0 x8,"2 GB, GDDR5, 64 bit",925 MHz,1000 MHz,320 / 20 / 8,End-of-life
+342,Radeon HD 8730 OEM,AMD,Cape Verde,"Sep 5th, 2013",PCIe 3.0 x16,"1024 MB, GDDR5, 128 bit",800 MHz,1125 MHz,384 / 24 / 8,End-of-life
+343,Radeon HD 8730A,AMD,Mars,"Apr 1st, 2013",PCIe 3.0 x8,"1024 MB, DDR3, 128 bit",650 MHz,1000 MHz,384 / 24 / 8,End-of-life
+344,Radeon HD 8730M,AMD,Mars,"Apr 1st, 2013",PCIe 3.0 x8,"2 GB, DDR3, 128 bit",650 MHz,900 MHz,384 / 24 / 8,End-of-life
+345,Radeon HD 8740 OEM,AMD,Cape Verde,"Sep 5th, 2013",PCIe 3.0 x16,"1024 MB, GDDR5, 128 bit",800 MHz,1125 MHz,512 / 32 / 16,End-of-life
+346,Radeon HD 8750A,AMD,Mars,"Feb 2nd, 2013",MXM-A (3.0),"1024 MB, DDR3, 64 bit",600 MHz,1000 MHz,384 / 24 / 8,End-of-life
+347,Radeon HD 8750M,AMD,Mars,"Feb 26th, 2013",PCIe 3.0 x8,"1024 MB, DDR3, 128 bit",775 MHz,900 MHz,384 / 24 / 8,End-of-life
+348,Radeon HD 8750M,AMD,Mars,"Feb 26th, 2013",PCIe 3.0 x8,"1024 MB, GDDR5, 128 bit",670 MHz,1000 MHz,384 / 24 / 8,End-of-life
+349,Radeon HD 8770 OEM,AMD,Bonaire,"Sep 2nd, 2013",PCIe 3.0 x16,"1024 MB, GDDR5, 128 bit",1050 MHz,1500 MHz,896 / 56 / 16,End-of-life
+350,Radeon HD 8770M,AMD,Mars,"Apr 1st, 2013",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",775 MHz,1125 MHz,384 / 24 / 8,End-of-life
+351,Radeon HD 8790M,AMD,Mars,"Apr 1st, 2013",MXM-A (3.0),"2 GB, GDDR5, 128 bit",850 MHz,1000 MHz,384 / 24 / 8,End-of-life
+352,Radeon HD 8830M,AMD,Venus,"Apr 1st, 2013",PCIe 3.0 x16,"2 GB, DDR3, 128 bit",575 MHz,1000 MHz,640 / 40 / 16,End-of-life
+353,Radeon HD 8850M,AMD,Venus,"Apr 1st, 2013",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",575 MHz,1000 MHz,640 / 40 / 16,End-of-life
+354,Radeon HD 8870M,AMD,Venus,"Apr 1st, 2013",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",725 MHz,1125 MHz,640 / 40 / 16,End-of-life
+355,Radeon HD 8950M,AMD,Saturn,"May 14th, 2013",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1075 MHz,1375 MHz,768 / 48 / 16,End-of-life
+356,Radeon HD 8970M,AMD,Neptune,"May 14th, 2013",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",850 MHz,1200 MHz,1280 / 80 / 32,End-of-life
+357,Radeon HD 8990 OEM,AMD,Malta,"Apr 24th, 2013",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",950 MHz,1500 MHz,2048 / 128 / 32,End-of-life
+358,Radeon R5 220 OEM,AMD,Cedar,"Dec 21st, 2013",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",650 MHz,533 MHz,80 / 8 / 4,End-of-life
+359,Radeon R5 230 OEM,AMD,Caicos,"Dec 21st, 2013",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",625 MHz,667 MHz,160 / 8 / 4,End-of-life
+360,Radeon R5 235 OEM,AMD,Caicos,"Dec 21st, 2013",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",775 MHz,900 MHz,160 / 8 / 4,End-of-life
+361,Radeon R5 235X OEM,AMD,Caicos,"Dec 21st, 2013",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",875 MHz,900 MHz,160 / 8 / 4,End-of-life
+362,Radeon R5 240 OEM,AMD,Oland,"Nov 1st, 2013",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",730 MHz,900 MHz,384 / 24 / 8,End-of-life
+363,Radeon R5 M230 Rebrand,AMD,Sun,"Mar 1st, 2013",PCIe 3.0 x8,"2 GB, DDR3, 64 bit",750 MHz,900 MHz,320 / 20 / 8,End-of-life
+364,Radeon R7 240,AMD,Oland,"Oct 8th, 2013",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",650 MHz,1150 MHz,320 / 20 / 8,End-of-life
+365,Radeon R7 240,AMD,Oland,"Oct 8th, 2013",PCIe 3.0 x8,"2 GB, DDR3, 128 bit",730 MHz,900 MHz,320 / 20 / 8,End-of-life
+366,Radeon R7 240 OEM,AMD,Oland,"Nov 1st, 2013",PCIe 3.0 x8,"2 GB, DDR3, 128 bit",730 MHz,900 MHz,320 / 20 / 8,End-of-life
+367,Radeon R7 250,AMD,Oland,"Oct 8th, 2013",PCIe 3.0 x8,"1024 MB, GDDR5, 128 bit",1000 MHz,1150 MHz,384 / 24 / 8,End-of-life
+368,Radeon R7 250,AMD,Cape Verde,"Oct 8th, 2013",PCIe 3.0 x16,"1024 MB, DDR3, 128 bit",925 MHz,900 MHz,512 / 32 / 16,End-of-life
+369,Radeon R7 250,AMD,Cape Verde,"Oct 8th, 2013",PCIe 3.0 x16,"1024 MB, DDR3, 128 bit",700 MHz,900 MHz,512 / 32 / 16,End-of-life
+370,Radeon R7 250 OEM,AMD,Oland,"Oct 8th, 2013",PCIe 3.0 x8,"2 GB, DDR3, 128 bit",1000 MHz,1000 MHz,384 / 24 / 8,End-of-life
+371,Radeon R7 250E,AMD,Cape Verde,"Dec 20th, 2013",PCIe 3.0 x16,"1024 MB, GDDR5, 128 bit",800 MHz,1125 MHz,512 / 32 / 16,End-of-life
+372,Radeon R7 260,AMD,Bonaire,"Dec 17th, 2013",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1000 MHz,1500 MHz,768 / 48 / 16,End-of-life
+373,Radeon R7 260X,AMD,Bonaire,"Oct 8th, 2013",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1100 MHz,1625 MHz,896 / 56 / 16,End-of-life
+374,Radeon R9 255 OEM,AMD,Cape Verde,"Dec 21st, 2013",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",900 MHz,1150 MHz,512 / 32 / 16,End-of-life
+375,Radeon R9 260 OEM,AMD,Bonaire,"Dec 21st, 2013",PCIe 3.0 x16,"1024 MB, GDDR5, 128 bit",1100 MHz,1625 MHz,896 / 56 / 16,End-of-life
+376,Radeon R9 270,AMD,Curacao,"Nov 13th, 2013",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",900 MHz,1400 MHz,1280 / 80 / 32,End-of-life
+377,Radeon R9 270X,AMD,Curacao,"Oct 8th, 2013",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",1000 MHz,1400 MHz,1280 / 80 / 32,End-of-life
+378,Radeon R9 280X,AMD,Tahiti,"Oct 8th, 2013",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",850 MHz,1500 MHz,2048 / 128 / 32,End-of-life
+379,Radeon R9 280X2,AMD,Tahiti,Unknown,PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",950 MHz,1500 MHz,2048 / 128 / 32,End-of-life
+380,Radeon R9 290,AMD,Hawaii,"Nov 5th, 2013",PCIe 3.0 x16,"4 GB, GDDR5, 512 bit",947 MHz,1250 MHz,2560 / 160 / 64,End-of-life
+381,Radeon R9 290X,AMD,Hawaii,"Oct 24th, 2013",PCIe 3.0 x16,"4 GB, GDDR5, 512 bit",1000 MHz,1250 MHz,2816 / 176 / 64,End-of-life
+382,Radeon Sky 500,AMD,Pitcairn,"Mar 27th, 2013",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",950 MHz,1200 MHz,1280 / 80 / 32,End-of-life
+383,Radeon Sky 700,AMD,Tahiti,"Mar 27th, 2013",PCIe 3.0 x16,"6 GB, GDDR5, 384 bit",900 MHz,1375 MHz,1792 / 112 / 32,End-of-life
+384,Radeon Sky 900,AMD,Tahiti,"Mar 27th, 2013",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",825 MHz,1250 MHz,1792 / 112 / 32,End-of-life
+385,Xbox One GPU,AMD,Durango,"Nov 22nd, 2013",IGP,"8 GB, DDR3, 256 bit",853 MHz,1066 MHz,768 / 48 / 16,End-of-life
+386,FirePro A300,AMD,Devastator,"Jun 6th, 2012",PCIe 2.0 x16,System Shared,760 MHz,System Shared,384 / 24 / 8,End-of-life
+387,FirePro A320,AMD,Devastator,"Jun 6th, 2012",PCIe 2.0 x16,System Shared,800 MHz,System Shared,384 / 24 / 8,End-of-life
+388,FirePro M2000,AMD,Turks,"Jul 1st, 2012",PCIe 2.0 x16,"1024 MB, GDDR5, 64 bit",500 MHz,800 MHz,480 / 24 / 8,End-of-life
+389,FirePro M4000,AMD,Chelsea,"Jun 27th, 2012",MXM-A (3.0),"1024 MB, GDDR5, 128 bit",675 MHz,1000 MHz,512 / 32 / 16,End-of-life
+390,FirePro M6000,AMD,Heathrow,"Jul 1st, 2012",MXM-B (3.0),"2 GB, GDDR5, 128 bit",800 MHz,1000 MHz,640 / 40 / 16,End-of-life
+391,FirePro S10000,AMD,Tahiti,"Nov 12th, 2012",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",825 MHz,1250 MHz,1792 / 112 / 32,End-of-life
+392,FirePro S10000 Passive,AMD,Tahiti,"Nov 12th, 2012",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",825 MHz,1250 MHz,1792 / 112 / 32,End-of-life
+393,FirePro S7000,AMD,Pitcairn,"Aug 27th, 2012",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",950 MHz,1200 MHz,1280 / 80 / 32,End-of-life
+394,FirePro S9000,AMD,Tahiti,"Aug 24th, 2012",PCIe 3.0 x16,"6 GB, GDDR5, 384 bit",900 MHz,1375 MHz,1792 / 112 / 32,End-of-life
+395,FirePro S9010,AMD,Tahiti,"Aug 24th, 2012",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",800 MHz,1250 MHz,1792 / 112 / 32,End-of-life
+396,FirePro V3900,AMD,Turks,"Feb 7th, 2012",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,900 MHz,480 / 24 / 8,End-of-life
+397,FirePro W4000,AMD,Pitcairn,"Aug 7th, 2012",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",825 MHz,800 MHz,768 / 48 / 32,End-of-life
+398,FirePro W5000,AMD,Pitcairn,"Aug 7th, 2012",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",825 MHz,800 MHz,768 / 48 / 32,End-of-life
+399,FirePro W600,AMD,Cape Verde,"Jun 13th, 2012",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",750 MHz,1000 MHz,512 / 32 / 16,End-of-life
+400,FirePro W7000,AMD,Pitcairn,"Jun 13th, 2012",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",950 MHz,1200 MHz,1280 / 80 / 32,End-of-life
+401,FirePro W8000,AMD,Tahiti,"Jun 14th, 2012",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",900 MHz,1375 MHz,1792 / 112 / 32,End-of-life
+402,FirePro W9000,AMD,Tahiti,"Jun 14th, 2012",PCIe 3.0 x16,"6 GB, GDDR5, 384 bit",975 MHz,1375 MHz,2048 / 128 / 32,End-of-life
+403,FirePro W9000 X2,AMD,Tahiti,Never Released,PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",825 MHz,1250 MHz,1792 / 112 / 32,End-of-life
+404,Radeon HD 6250 IGP,AMD,Loveland,"Oct 9th, 2012",IGP,System Shared,276 MHz,System Shared,80 / 8 / 4,End-of-life
+405,Radeon HD 6250 IGP,AMD,Loveland,"Apr 4th, 2012",IGP,System Shared,277 MHz,System Shared,80 / 8 / 4,End-of-life
+406,Radeon HD 6850 1440SP Edition,AMD,Cypress,"Aug 21st, 2012",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",725 MHz,1000 MHz,1440 / 72 / 32,End-of-life
+407,Radeon HD 7290 IGP,AMD,Loveland,"Jun 6th, 2012",IGP,System Shared,276 MHz,System Shared,80 / 8 / 4,End-of-life
+408,Radeon HD 7310 IGP,AMD,Loveland,"Jun 6th, 2012",IGP,System Shared,500 MHz,System Shared,80 / 8 / 4,End-of-life
+409,Radeon HD 7330M,AMD,Robson,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, GDDR3, 64 bit",650 MHz,500 MHz,80 / 8 / 4,End-of-life
+410,Radeon HD 7340 IGP,AMD,Loveland,"Jun 6th, 2012",IGP,System Shared,523 MHz,System Shared,80 / 8 / 4,End-of-life
+411,Radeon HD 7350 OEM,AMD,Cedar,"Jan 5th, 2012",PCIe 2.0 x16,"512 MB, GDDR3, 64 bit",650 MHz,800 MHz,80 / 8 / 4,End-of-life
+412,Radeon HD 7350 OEM PCI,AMD,Cedar,"Jan 5th, 2012",PCI,"512 MB, GDDR3, 64 bit",650 MHz,500 MHz,80 / 8 / 4,End-of-life
+413,Radeon HD 7350M,AMD,Robson,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, GDDR3, 64 bit",650 MHz,500 MHz,80 / 8 / 4,End-of-life
+414,Radeon HD 7370M,AMD,Robson,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",750 MHz,800 MHz,80 / 8 / 4,End-of-life
+415,Radeon HD 7400G IGP,AMD,Scrapper,"Oct 2nd, 2012",IGP,System Shared,327 MHz,System Shared,192 / 12 / 4,End-of-life
+416,Radeon HD 7420G IGP,AMD,Scrapper Lite,"Jun 6th, 2012",IGP,System Shared,480 MHz,System Shared,128 / 8 / 4,End-of-life
+417,Radeon HD 7430M,AMD,Seymour,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",600 MHz,800 MHz,160 / 8 / 4,End-of-life
+418,Radeon HD 7450 OEM,AMD,Caicos,"Jan 5th, 2012",PCIe 2.0 x16,"512 MB, GDDR3, 64 bit",625 MHz,533 MHz,160 / 8 / 4,End-of-life
+419,Radeon HD 7450A,AMD,Caicos,"Jan 5th, 2012",MXM-A (3.0),"512 MB, GDDR3, 64 bit",625 MHz,800 MHz,160 / 8 / 4,End-of-life
+420,Radeon HD 7450M,AMD,Seymour,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",750 MHz,900 MHz,160 / 8 / 4,End-of-life
+421,Radeon HD 7470 OEM,AMD,Caicos,"Jan 5th, 2012",PCIe 2.0 x16,"1024 MB, GDDR5, 64 bit",750 MHz,900 MHz,160 / 8 / 4,End-of-life
+422,Radeon HD 7470A,AMD,Caicos,"Jan 5th, 2012",MXM-A (3.0),"512 MB, GDDR3, 64 bit",625 MHz,800 MHz,160 / 8 / 4,End-of-life
+423,Radeon HD 7470A,AMD,Redwood,"Jan 5th, 2012",MXM-A (3.0),"1024 MB, DDR3, 64 bit",775 MHz,800 MHz,400 / 20 / 8,End-of-life
+424,Radeon HD 7470M,AMD,Seymour,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",750 MHz,900 MHz,160 / 8 / 4,End-of-life
+425,Radeon HD 7480D IGP,AMD,Scrapper Lite,"Oct 2nd, 2012",IGP,System Shared,720 MHz,System Shared,128 / 8 / 4,End-of-life
+426,Radeon HD 7490M,AMD,Seymour,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, GDDR5, 64 bit",800 MHz,950 MHz,160 / 8 / 4,End-of-life
+427,Radeon HD 7500G IGP,AMD,Devastator Lite,"May 15th, 2012",IGP,System Shared,327 MHz,System Shared,256 / 16 / 8,End-of-life
+428,Radeon HD 7510M,AMD,Thames,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",450 MHz,800 MHz,400 / 20 / 8,End-of-life
+429,Radeon HD 7520G IGP,AMD,Scrapper,"Jun 6th, 2012",IGP,System Shared,496 MHz,System Shared,192 / 12 / 4,End-of-life
+430,Radeon HD 7530M,AMD,Thames,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",450 MHz,900 MHz,400 / 20 / 8,End-of-life
+431,Radeon HD 7540D IGP,AMD,Scrapper,"Oct 2nd, 2012",IGP,System Shared,760 MHz,System Shared,192 / 12 / 4,End-of-life
+432,Radeon HD 7550M,AMD,Thames,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, DDR3, 128 bit",500 MHz,900 MHz,480 / 24 / 16,End-of-life
+433,Radeon HD 7550M,AMD,Thames,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",450 MHz,900 MHz,480 / 24 / 16,End-of-life
+434,Radeon HD 7560D IGP,AMD,Devastator Lite,"Oct 2nd, 2012",IGP,System Shared,760 MHz,System Shared,256 / 16 / 8,End-of-life
+435,Radeon HD 7560G IGP,AMD,Devastator Lite,"May 15th, 2012",IGP,System Shared,496 MHz,System Shared,256 / 16 / 8,End-of-life
+436,Radeon HD 7570,AMD,Turks,"Jan 5th, 2012",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,800 MHz,480 / 24 / 8,End-of-life
+437,Radeon HD 7570M,AMD,Thames,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, GDDR5, 64 bit",500 MHz,800 MHz,480 / 24 / 16,End-of-life
+438,Radeon HD 7590M,AMD,Thames,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, GDDR5, 64 bit",600 MHz,800 MHz,480 / 24 / 16,End-of-life
+439,Radeon HD 7600G IGP,AMD,Devastator,"Sep 1st, 2012",IGP,System Shared,320 MHz,System Shared,384 / 24 / 8,End-of-life
+440,Radeon HD 7610M,AMD,Whistler,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",500 MHz,800 MHz,400 / 20 / 8,End-of-life
+441,Radeon HD 7620G IGP,AMD,Devastator,"May 15th, 2012",IGP,System Shared,360 MHz,System Shared,384 / 24 / 8,End-of-life
+442,Radeon HD 7630M,AMD,Thames,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, DDR3, 128 bit",450 MHz,800 MHz,480 / 24 / 16,End-of-life
+443,Radeon HD 7640G IGP,AMD,Devastator Lite,"May 15th, 2012",IGP,System Shared,496 MHz,System Shared,256 / 16 / 8,End-of-life
+444,Radeon HD 7650A,AMD,Onega,"Jan 5th, 2012",MXM-A (3.0),"1024 MB, DDR3, 128 bit",600 MHz,900 MHz,480 / 24 / 8,End-of-life
+445,Radeon HD 7650M,AMD,Thames,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, DDR3, 128 bit",500 MHz,800 MHz,480 / 24 / 16,End-of-life
+446,Radeon HD 7650M Rebrand,AMD,Whistler,"Mar 28th, 2012",PCIe 2.0 x16,"1024 MB, DDR3, 128 bit",485 MHz,800 MHz,480 / 24 / 8,End-of-life
+447,Radeon HD 7660D IGP,AMD,Devastator,"Oct 2nd, 2012",IGP,System Shared,760 MHz,System Shared,384 / 24 / 8,End-of-life
+448,Radeon HD 7660G IGP,AMD,Devastator,"May 15th, 2012",IGP,System Shared,686 MHz,System Shared,384 / 24 / 8,End-of-life
+449,Radeon HD 7670 OEM,AMD,Turks,"Jan 5th, 2012",PCIe 2.0 x16,"512 MB, GDDR5, 128 bit",800 MHz,1000 MHz,480 / 24 / 8,End-of-life
+450,Radeon HD 7670A,AMD,Turks,"Jan 5th, 2012",MXM-A (3.0),"1024 MB, GDDR5, 128 bit",600 MHz,1000 MHz,480 / 24 / 8,End-of-life
+451,Radeon HD 7670M,AMD,Thames,"Feb 17th, 2012",PCIe 2.0 x16,"1024 MB, DDR3, 128 bit",600 MHz,900 MHz,480 / 24 / 16,End-of-life
+452,Radeon HD 7670M Rebrand,AMD,Whistler,"Jul 1st, 2012",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",600 MHz,900 MHz,480 / 24 / 8,End-of-life
+453,Radeon HD 7690M Rebrand,AMD,Whistler,"Jan 7th, 2012",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",600 MHz,800 MHz,480 / 24 / 8,End-of-life
+454,Radeon HD 7690M XT Rebrand,AMD,Whistler,"Jan 4th, 2012",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",725 MHz,800 MHz,480 / 24 / 8,End-of-life
+455,Radeon HD 7730M,AMD,Chelsea,"Apr 24th, 2012",PCIe 2.0 x16,"2 GB, DDR3, 128 bit",575 MHz,900 MHz,512 / 32 / 16,End-of-life
+456,Radeon HD 7750,AMD,Cape Verde,"Feb 15th, 2012",PCIe 3.0 x16,"1024 MB, GDDR5, 128 bit",800 MHz,1125 MHz,512 / 32 / 16,End-of-life
+457,Radeon HD 7750M,AMD,Chelsea,"Apr 24th, 2012",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",575 MHz,1000 MHz,512 / 32 / 16,End-of-life
+458,Radeon HD 7770 GHz Edition,AMD,Cape Verde,"Feb 15th, 2012",PCIe 3.0 x16,"1024 MB, GDDR5, 128 bit",1000 MHz,1125 MHz,640 / 40 / 16,End-of-life
+459,Radeon HD 7770M,AMD,Chelsea,"Apr 24th, 2012",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",675 MHz,1000 MHz,512 / 32 / 16,End-of-life
+460,Radeon HD 7850,AMD,Pitcairn,"Mar 5th, 2012",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",860 MHz,1200 MHz,1024 / 64 / 32,End-of-life
+461,Radeon HD 7850M,AMD,Heathrow,"Apr 24th, 2012",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",675 MHz,1000 MHz,640 / 40 / 16,End-of-life
+462,Radeon HD 7870 GHz Edition,AMD,Pitcairn,"Mar 5th, 2012",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",1000 MHz,1200 MHz,1280 / 80 / 32,End-of-life
+463,Radeon HD 7870 XT,AMD,Tahiti,"Nov 19th, 2012",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",925 MHz,1500 MHz,1536 / 96 / 32,End-of-life
+464,Radeon HD 7870M,AMD,Heathrow,"Apr 24th, 2012",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",800 MHz,1000 MHz,640 / 40 / 16,End-of-life
+465,Radeon HD 7950,AMD,Tahiti,"Jan 31st, 2012",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",800 MHz,1250 MHz,1792 / 112 / 32,End-of-life
+466,Radeon HD 7950 Boost,AMD,Tahiti,"Jun 22nd, 2012",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",850 MHz,1250 MHz,1792 / 112 / 32,End-of-life
+467,Radeon HD 7950 Monica BIOS 1,AMD,Tahiti,"Jan 31st, 2012",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",925 MHz,1250 MHz,1536 / 96 / 32,End-of-life
+468,Radeon HD 7950 Monica BIOS 2,AMD,Tahiti,"Jan 31st, 2012",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",800 MHz,1250 MHz,768 / 48 / 32,End-of-life
+469,Radeon HD 7950M,AMD,Wimbledon,"Apr 24th, 2012",MXM-B (3.0),"2 GB, GDDR5, 256 bit",700 MHz,1000 MHz,1280 / 80 / 32,End-of-life
+470,Radeon HD 7970 GHz Edition,AMD,Tahiti,"Jun 22nd, 2012",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",1000 MHz,1500 MHz,2048 / 128 / 32,End-of-life
+471,Radeon HD 7970 X2,AMD,New Zealand,"Aug 31st, 2012",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",925 MHz,1375 MHz,2048 / 128 / 32,End-of-life
+472,Radeon HD 7970M,AMD,Wimbledon,"Apr 24th, 2012",MXM-B (3.0),"2 GB, GDDR5, 256 bit",850 MHz,1200 MHz,1280 / 80 / 32,End-of-life
+473,Radeon HD 7970M X2,AMD,Wimbledon,"Apr 24th, 2012",MXM-B (3.0),"2 GB, GDDR5, 256 bit",850 MHz,1200 MHz,1280 / 80 / 32,End-of-life
+474,Wii U GPU,AMD,Latte,"Nov 18th, 2012",IGP,"2 GB, DDR3, 64 bit",550 MHz,800 MHz,160 / 16 / 8,End-of-life
+475,FirePro 2270,AMD,Cedar,"Jan 31st, 2011",PCIe 2.0 x16,"512 MB, GDDR3, 64 bit",600 MHz,600 MHz,80 / 8 / 4,End-of-life
+476,FirePro 2270 PCIe x1,AMD,Cedar,"Jan 31st, 2011",PCIe 2.0 x1,"512 MB, GDDR3, 64 bit",600 MHz,600 MHz,80 / 8 / 4,End-of-life
+477,FirePro M5950,AMD,Whistler,"Jan 4th, 2011",MXM-A (3.0),"1024 MB, GDDR5, 128 bit",725 MHz,900 MHz,480 / 24 / 8,End-of-life
+478,FirePro M8900,AMD,Blackcomb,"Apr 12th, 2011",MXM-B (3.0),"2 GB, GDDR5, 256 bit",680 MHz,900 MHz,960 / 48 / 32,End-of-life
+479,FirePro V4900,AMD,Turks,"Nov 1st, 2011",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",800 MHz,1000 MHz,480 / 24 / 8,End-of-life
+480,FirePro V5900,AMD,Cayman,"May 24th, 2011",PCIe 2.0 x16,"2 GB, GDDR5, 256 bit",600 MHz,500 MHz,512 / 32 / 32,End-of-life
+481,FirePro V7900,AMD,Cayman,"May 24th, 2011",PCIe 2.0 x16,"2 GB, GDDR5, 256 bit",725 MHz,1250 MHz,1280 / 80 / 32,End-of-life
+482,FirePro V7900 SDI,AMD,Cayman,"May 24th, 2011",PCIe 2.0 x16,"2 GB, GDDR5, 256 bit",725 MHz,1250 MHz,1280 / 80 / 32,End-of-life
+483,Radeon E6460,AMD,Caicos,"Apr 7th, 2011",PCIe 2.0 x16,"512 MB, GDDR5, 64 bit",600 MHz,800 MHz,160 / 8 / 4,End-of-life
+484,Radeon E6760 MXM,AMD,Whistler,"May 2nd, 2011",MXM-A (3.0),"1024 MB, GDDR5, 128 bit",600 MHz,800 MHz,480 / 24 / 8,End-of-life
+485,Radeon E6760 PCIe,AMD,Whistler,"May 2nd, 2011",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",600 MHz,800 MHz,480 / 24 / 8,End-of-life
+486,Radeon HD 6230,AMD,Park,"Jul 2nd, 2011",PCIe 2.0 x16,"512 MB, DDR2, 64 bit",650 MHz,667 MHz,80 / 8 / 4,End-of-life
+487,Radeon HD 6250,AMD,Cedar,"Jan 31st, 2011",PCIe 2.0 x16,"512 MB, GDDR3, 64 bit",650 MHz,500 MHz,80 / 8 / 4,End-of-life
+488,Radeon HD 6290,AMD,Cedar,"Dec 4th, 2011",PCIe 2.0 x16,"1024 MB, GDDR3, 64 bit",650 MHz,800 MHz,80 / 8 / 4,End-of-life
+489,Radeon HD 6290 IGP,AMD,Loveland,"Jan 7th, 2011",IGP,System Shared,276 MHz,System Shared,80 / 8 / 4,End-of-life
+490,Radeon HD 6320 IGP,AMD,Loveland,"Aug 15th, 2011",IGP,System Shared,508 MHz,System Shared,80 / 8 / 4,End-of-life
+491,Radeon HD 6350,AMD,Cedar,"Feb 7th, 2011",PCIe 2.0 x16,"512 MB, GDDR3, 64 bit",650 MHz,500 MHz,80 / 8 / 4,End-of-life
+492,Radeon HD 6350,AMD,Park,"Feb 7th, 2011",PCIe 2.0 x16,"512 MB, GDDR3, 64 bit",650 MHz,400 MHz,80 / 8 / 4,End-of-life
+493,Radeon HD 6350A,AMD,Cedar,"Apr 7th, 2011",MXM-A (3.0),"512 MB, DDR3, 64 bit",650 MHz,800 MHz,80 / 8 / 4,End-of-life
+494,Radeon HD 6370D IGP,AMD,SuperSumo,"Nov 1st, 2011",IGP,System Shared,444 MHz,System Shared,160 / 8 / 4,End-of-life
+495,Radeon HD 6380G IGP,AMD,SuperSumo,"Jun 14th, 2011",IGP,System Shared,400 MHz,System Shared,160 / 8 / 4,End-of-life
+496,Radeon HD 6390,AMD,Redwood,"Jul 4th, 2011",PCIe 2.0 x16,"1024 MB, DDR2, 128 bit",550 MHz,500 MHz,320 / 16 / 8,End-of-life
+497,Radeon HD 6410D IGP,AMD,SuperSumo,"Jun 20th, 2011",IGP,System Shared,444 MHz,System Shared,160 / 8 / 4,End-of-life
+498,Radeon HD 6430M,AMD,Seymour,"Jan 4th, 2011",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",480 MHz,800 MHz,160 / 8 / 4,End-of-life
+499,Radeon HD 6450,AMD,Caicos,"Apr 7th, 2011",PCIe 2.0 x16,"512 MB, GDDR3, 64 bit",625 MHz,500 MHz,160 / 8 / 4,End-of-life
+500,Radeon HD 6450 OEM,AMD,Caicos,"Feb 7th, 2011",PCIe 2.0 x16,"512 MB, GDDR3, 64 bit",625 MHz,533 MHz,160 / 8 / 4,End-of-life
+501,Radeon HD 6450A,AMD,Caicos,"Apr 7th, 2011",MXM-A (3.0),"512 MB, DDR3, 64 bit",625 MHz,533 MHz,160 / 8 / 4,End-of-life
+502,Radeon HD 6450M,AMD,Seymour,"Jan 4th, 2011",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",600 MHz,800 MHz,160 / 8 / 4,End-of-life
+503,Radeon HD 6470M,AMD,Seymour,"Jan 4th, 2011",PCIe 2.0 x16,"512 MB, DDR3, 64 bit",700 MHz,800 MHz,160 / 8 / 4,End-of-life
+504,Radeon HD 6480G IGP,AMD,Sumo,"Jun 14th, 2011",IGP,System Shared,444 MHz,System Shared,240 / 12 / 4,End-of-life
+505,Radeon HD 6480G IGP,AMD,SuperSumo,"Jun 14th, 2011",IGP,System Shared,593 MHz,System Shared,160 / 8 / 4,End-of-life
+506,Radeon HD 6490,AMD,Redwood,"Jul 4th, 2011",PCIe 2.0 x16,"1024 MB, DDR2, 128 bit",550 MHz,500 MHz,320 / 16 / 8,End-of-life
+507,Radeon HD 6490M,AMD,Seymour,"Jan 4th, 2011",PCIe 2.0 x16,"512 MB, GDDR5, 64 bit",800 MHz,800 MHz,160 / 8 / 4,End-of-life
+508,Radeon HD 6490M Mac Edition,AMD,Seymour,"May 2nd, 2011",PCIe 2.0 x16,"256 MB, GDDR5, 64 bit",750 MHz,794 MHz,160 / 8 / 4,End-of-life
+509,Radeon HD 6510,AMD,Turks,"May 14th, 2011",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,667 MHz,320 / 16 / 8,End-of-life
+510,Radeon HD 6510,AMD,Redwood,"May 14th, 2011",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,500 MHz,400 / 20 / 8,End-of-life
+511,Radeon HD 6520G IGP,AMD,Sumo,"Dec 7th, 2011",IGP,System Shared,400 MHz,System Shared,320 / 16 / 8,End-of-life
+512,Radeon HD 6530,AMD,Redwood,"May 14th, 2011",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,600 MHz,400 / 20 / 8,End-of-life
+513,Radeon HD 6530D IGP,AMD,Sumo,"Jun 20th, 2011",IGP,System Shared,444 MHz,System Shared,320 / 16 / 8,End-of-life
+514,Radeon HD 6550A,AMD,Pinewood,"Feb 7th, 2011",MXM-A (3.0),"2 GB, GDDR3, 128 bit",550 MHz,800 MHz,480 / 24 / 8,End-of-life
+515,Radeon HD 6550D IGP,AMD,Sumo,"Jun 20th, 2011",IGP,System Shared,600 MHz,System Shared,400 / 20 / 8,End-of-life
+516,Radeon HD 6570,AMD,Turks,"Apr 19th, 2011",PCIe 2.0 x16,"2 GB, GDDR5, 128 bit",650 MHz,1000 MHz,480 / 24 / 8,End-of-life
+517,Radeon HD 6570,AMD,Thames,"Feb 7th, 2011",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,500 MHz,480 / 24 / 8,End-of-life
+518,Radeon HD 6570 OEM,AMD,Turks,"Feb 7th, 2011",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,900 MHz,480 / 24 / 8,End-of-life
+519,Radeon HD 6570M,AMD,Whistler,"Apr 25th, 2011",MXM-A (3.0),"1024 MB, GDDR3, 128 bit",600 MHz,800 MHz,480 / 24 / 8,End-of-life
+520,Radeon HD 6610M,AMD,Whistler,"Jan 4th, 2011",PCIe 2.0 x16,"1024 MB, DDR3, 128 bit",450 MHz,800 MHz,400 / 20 / 8,End-of-life
+521,Radeon HD 6620G IGP,AMD,Sumo,"Dec 7th, 2011",IGP,System Shared,444 MHz,System Shared,400 / 20 / 8,End-of-life
+522,Radeon HD 6625M,AMD,Whistler,"Jan 4th, 2011",PCIe 2.0 x16,"1024 MB, DDR3, 128 bit",450 MHz,800 MHz,480 / 20 / 8,End-of-life
+523,Radeon HD 6630M,AMD,Whistler,"Jan 4th, 2011",PCIe 2.0 x16,"1024 MB, DDR3, 128 bit",500 MHz,800 MHz,480 / 24 / 8,End-of-life
+524,Radeon HD 6630M Mac Edition,AMD,Whistler,"Jan 4th, 2011",PCIe 2.0 x16,"256 MB, GDDR5, 64 bit",500 MHz,600 MHz,480 / 24 / 8,End-of-life
+525,Radeon HD 6650A,AMD,Onega,"Apr 19th, 2011",MXM-A (3.0),"1024 MB, DDR3, 128 bit",600 MHz,900 MHz,480 / 24 / 8,End-of-life
+526,Radeon HD 6650M,AMD,Whistler,"Jan 4th, 2011",PCIe 2.0 x16,"1024 MB, DDR3, 128 bit",600 MHz,800 MHz,480 / 24 / 8,End-of-life
+527,Radeon HD 6670,AMD,Turks,"Apr 19th, 2011",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",800 MHz,1000 MHz,480 / 24 / 8,End-of-life
+528,Radeon HD 6670A,AMD,Turks,"Apr 19th, 2011",MXM-A (3.0),"1024 MB, GDDR5, 128 bit",600 MHz,1000 MHz,480 / 24 / 8,End-of-life
+529,Radeon HD 6730M,AMD,Whistler,"Jan 4th, 2011",MXM-A (3.0),"1024 MB, GDDR3, 128 bit",725 MHz,800 MHz,480 / 24 / 8,End-of-life
+530,Radeon HD 6750,AMD,Juniper,"Jan 21st, 2011",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",700 MHz,1150 MHz,720 / 36 / 16,End-of-life
+531,Radeon HD 6750M,AMD,Whistler,"Jan 4th, 2011",MXM-A (3.0),"1024 MB, GDDR3, 128 bit",600 MHz,800 MHz,480 / 24 / 8,End-of-life
+532,Radeon HD 6750M Mac Edition,AMD,Whistler,"Apr 18th, 2011",MXM-A (3.0),"512 MB, GDDR5, 128 bit",598 MHz,794 MHz,480 / 24 / 8,End-of-life
+533,Radeon HD 6770,AMD,Juniper,"Jan 21st, 2011",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",850 MHz,1200 MHz,800 / 40 / 16,End-of-life
+534,Radeon HD 6770M,AMD,Whistler,"Jan 4th, 2011",MXM-A (3.0),"1024 MB, GDDR5, 128 bit",725 MHz,900 MHz,480 / 24 / 8,End-of-life
+535,Radeon HD 6770M Mac Edition,AMD,Whistler,"Jan 28th, 2011",MXM-A (3.0),"1024 MB, GDDR5, 128 bit",675 MHz,794 MHz,480 / 24 / 8,End-of-life
+536,Radeon HD 6790,AMD,Barts,"Apr 4th, 2011",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",840 MHz,1050 MHz,800 / 40 / 16,End-of-life
+537,Radeon HD 6830M,AMD,Granville,"Jan 4th, 2011",PCIe 2.0 x16,"1024 MB, DDR3, 128 bit",575 MHz,800 MHz,800 / 40 / 16,End-of-life
+538,Radeon HD 6850 X2,AMD,Barts,"Sep 19th, 2011",PCIe 2.0 x16,"2 GB, GDDR5, 256 bit",800 MHz,1050 MHz,960 / 48 / 32,End-of-life
+539,Radeon HD 6850M,AMD,Granville,"Jan 4th, 2011",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",675 MHz,800 MHz,800 / 40 / 16,End-of-life
+540,Radeon HD 6870 X2,AMD,Barts,"Jul 8th, 2011",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",900 MHz,1050 MHz,1120 / 56 / 32,End-of-life
+541,Radeon HD 6870M,AMD,Granville,"Jan 4th, 2011",MXM-B (3.0),"1024 MB, GDDR5, 128 bit",675 MHz,1000 MHz,800 / 40 / 16,End-of-life
+542,Radeon HD 6930,AMD,Cayman,"Dec 1st, 2011",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",750 MHz,1200 MHz,1280 / 80 / 32,End-of-life
+543,Radeon HD 6950M,AMD,Blackcomb,"Jan 4th, 2011",MXM-B (3.0),"1024 MB, GDDR5, 256 bit",580 MHz,900 MHz,960 / 48 / 32,End-of-life
+544,Radeon HD 6970 X2,AMD,Antilles,Never Released,PCIe 2.0 x16,"2 GB, GDDR5, 256 bit",880 MHz,1375 MHz,1536 / 96 / 32,End-of-life
+545,Radeon HD 6970M,AMD,Blackcomb,"Jan 4th, 2011",MXM-B (3.0),"1024 MB, GDDR5, 256 bit",680 MHz,900 MHz,960 / 48 / 32,End-of-life
+546,Radeon HD 6970M Mac Edition,AMD,Blackcomb,"Aug 25th, 2011",MXM-B (3.0),"2 GB, GDDR5, 256 bit",680 MHz,900 MHz,960 / 48 / 32,End-of-life
+547,Radeon HD 6970M Rebrand,AMD,Broadway,"Jan 4th, 2011",MXM-B (3.0),"1024 MB, GDDR5, 128 bit",800 MHz,1000 MHz,800 / 40 / 16,End-of-life
+548,Radeon HD 6970M X2,AMD,Blackcomb,"Jan 4th, 2011",MXM-B (3.0),"2 GB, GDDR5, 256 bit",680 MHz,900 MHz,960 / 48 / 32,End-of-life
+549,Radeon HD 6990,AMD,Antilles,"Mar 8th, 2011",PCIe 2.0 x16,"2 GB, GDDR5, 256 bit",830 MHz,1250 MHz,1536 / 96 / 32,End-of-life
+550,Radeon HD 6990M,AMD,Blackcomb,"Jul 12th, 2011",MXM-B (3.0),"2 GB, GDDR5, 256 bit",715 MHz,900 MHz,1120 / 56 / 32,End-of-life
+551,Radeon HD 6990M Rebrand,AMD,Broadway,"Jul 12th, 2011",MXM-B (3.0),"1024 MB, GDDR5, 128 bit",700 MHz,1000 MHz,800 / 40 / 16,End-of-life
+552,Radeon HD 7410M,AMD,Seymour,"Jan 4th, 2011",PCIe 2.0 x16,"1024 MB, DDR3, 64 bit",480 MHz,800 MHz,160 / 8 / 4,End-of-life
+553,Radeon HD 7690M,AMD,Thames,"Dec 25th, 2011",MXM-A (3.0),"1024 MB, DDR3, 128 bit",725 MHz,900 MHz,480 / 24 / 16,End-of-life
+554,Radeon HD 7970,AMD,Tahiti,"Dec 22nd, 2011",PCIe 3.0 x16,"3 GB, GDDR5, 384 bit",925 MHz,1375 MHz,2048 / 128 / 32,End-of-life
+555,FirePro M3900,AMD,Seymour,"Oct 19th, 2010",PCIe 2.0 x16,"1024 MB, GDDR3, 64 bit",750 MHz,900 MHz,160 / 8 / 4,End-of-life
+556,FirePro RG220,AMD,RV711,"May 4th, 2010",PCIe 2.0 x16,"512 MB, GDDR3, 256 bit",500 MHz,800 MHz,80 / 8 / 4,End-of-life
+557,FirePro RG220A,AMD,RV711,"May 4th, 2010",PCIe 2.0 x16,"512 MB, GDDR3, 256 bit",500 MHz,800 MHz,80 / 8 / 4,End-of-life
+558,FireStream 9350,AMD,Cypress,"Jun 1st, 2010",PCIe 2.0 x16,"2 GB, GDDR5, 256 bit",700 MHz,1000 MHz,1440 / 72 / 32,End-of-life
+559,FireStream 9370,AMD,Cypress,"Jun 23rd, 2010",PCIe 2.0 x16,"4 GB, GDDR5, 256 bit",825 MHz,1150 MHz,1600 / 80 / 32,End-of-life
+560,Radeon HD 6250 IGP,AMD,Loveland,"Nov 9th, 2010",IGP,System Shared,500 MHz,System Shared,80 / 8 / 4,End-of-life
+561,Radeon HD 6310 IGP,AMD,Loveland,"Nov 9th, 2010",IGP,System Shared,276 MHz,System Shared,80 / 8 / 4,End-of-life
+562,Radeon HD 6310 IGP,AMD,Loveland,"Nov 9th, 2010",IGP,System Shared,488 MHz,System Shared,80 / 8 / 4,End-of-life
+563,Radeon HD 6330M,AMD,Robson,"Nov 26th, 2010",PCIe 2.0 x16,"1024 MB, GDDR3, 64 bit",500 MHz,800 MHz,80 / 8 / 4,End-of-life
+564,Radeon HD 6350M,AMD,Robson,"Nov 26th, 2010",PCIe 2.0 x16,"1024 MB, GDDR3, 64 bit",500 MHz,800 MHz,80 / 8 / 4,End-of-life
+565,Radeon HD 6370M,AMD,Robson,"Nov 26th, 2010",PCIe 2.0 x16,"1024 MB, GDDR3, 64 bit",750 MHz,800 MHz,80 / 8 / 4,End-of-life
+566,Radeon HD 6530M,AMD,Capilano,"Nov 26th, 2010",MXM-II,"1024 MB, DDR3, 128 bit",450 MHz,900 MHz,400 / 20 / 8,End-of-life
+567,Radeon HD 6550M,AMD,Lexington,"Nov 26th, 2010",MXM-II,"1024 MB, DDR3, 128 bit",650 MHz,900 MHz,400 / 20 / 8,End-of-life
+568,Radeon HD 6550M,AMD,Capilano,"Nov 26th, 2010",MXM-II,"1024 MB, DDR3, 128 bit",600 MHz,900 MHz,400 / 20 / 8,End-of-life
+569,Radeon HD 6570M,AMD,Capilano,"Nov 26th, 2010",MXM-II,"1024 MB, GDDR3, 128 bit",650 MHz,800 MHz,400 / 20 / 8,End-of-life
+570,Radeon HD 6850,AMD,Barts,"Oct 21st, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",775 MHz,1000 MHz,960 / 48 / 32,End-of-life
+571,Radeon HD 6870,AMD,Barts,"Oct 21st, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",900 MHz,1050 MHz,1120 / 56 / 32,End-of-life
+572,Radeon HD 6950,AMD,Cayman,"Dec 14th, 2010",PCIe 2.0 x16,"2 GB, GDDR5, 256 bit",800 MHz,1250 MHz,1408 / 88 / 32,End-of-life
+573,Radeon HD 6970,AMD,Cayman,"Dec 14th, 2010",PCIe 2.0 x16,"2 GB, GDDR5, 256 bit",880 MHz,1375 MHz,1536 / 96 / 32,End-of-life
+574,Radeon HD 6570M Mac Edition,AMD,Capilano,"Oct 28th, 2009",MXM-II,"1024 MB, GDDR3, 128 bit",600 MHz,800 MHz,400 / 20 / 8,End-of-life
+575,FireStream 9250,AMD,RV770,"Jun 16th, 2008",PCIe 2.0 x16,"1024 MB, GDDR3, 256 bit",625 MHz,993 MHz,800 / 40 / 16,End-of-life
+576,FireStream 9270,AMD,RV770,"Nov 13th, 2008",PCIe 2.0 x16,"2 GB, GDDR5, 256 bit",750 MHz,900 MHz,800 / 40 / 16,End-of-life
+577,FireStream 9170,AMD,RV670,"Nov 8th, 2007",PCIe 2.0 x16,"2 GB, GDDR3, 256 bit",777 MHz,802 MHz,320 / 16 / 16,End-of-life
+578,Stream Processor,AMD,R580,2006,PCIe 1.0 x16,"1024 MB, GDDR3, 256 bit",594 MHz,648 MHz,48 / 8 / 16 / 16,End-of-life
+579,Xbox 360 E GPU,ATI,Xenos Corona,"Jun 10th, 2013",IGP,"512 MB, GDDR3, 128 bit",500 MHz,700 MHz,240 / 16 / 8,End-of-life
+580,FirePro V7760,ATI,RV770,2012,PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",750 MHz,850 MHz,800 / 40 / 8,End-of-life
+581,FirePro V7770,ATI,RV770,2012,PCIe 2.0 x16,"1024 MB, GDDR4, 128 bit",625 MHz,1050 MHz,800 / 40 / 8,End-of-life
+582,Mobility Radeon HD 5570,ATI,Pinewood,"Nov 23rd, 2012",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",550 MHz,800 MHz,400 / 20 / 8,End-of-life
+583,Radeon HD 5470,ATI,Cedar,"Feb 13th, 2012",PCIe 2.0 x16,"512 MB, GDDR3, 64 bit",650 MHz,400 MHz,80 / 8 / 4,End-of-life
+584,Radeon HD 5490,ATI,Cedar,"Oct 28th, 2012",PCIe 2.0 x16,"1024 MB, GDDR3, 64 bit",650 MHz,500 MHz,80 / 8 / 4,End-of-life
+585,FirePro V7800P,ATI,Cypress,"May 16th, 2011",PCIe 2.0 x16,"2 GB, GDDR5, 256 bit",700 MHz,1000 MHz,1440 / 72 / 32,End-of-life
+586,Radeon HD 4450,ATI,RV710,"Nov 18th, 2011",PCIe 2.0 x16,"512 MB, DDR2, 64 bit",600 MHz,400 MHz,80 / 8 / 4,End-of-life
+587,Radeon HD 4580,ATI,RV635,"Nov 20th, 2011",PCIe 2.0 x16,"512 MB, GDDR3, 128 bit",796 MHz,693 MHz,120 / 8 / 4,End-of-life
+588,Radeon HD 4720,ATI,RV730,"Dec 11th, 2011",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",600 MHz,667 MHz,320 / 32 / 8,End-of-life
+589,Radeon HD 5530,ATI,Cedar,"Mar 17th, 2011",PCIe 2.0 x16,"1024 MB, GDDR3, 64 bit",650 MHz,600 MHz,80 / 8 / 4,End-of-life
+590,Radeon HD 5570,ATI,Turks,"Oct 11th, 2011",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,500 MHz,320 / 16 / 4,End-of-life
+591,Radeon HD 5630,ATI,Redwood,"Feb 15th, 2011",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,390 MHz,320 / 16 / 8,End-of-life
+592,Radeon HD 5690,ATI,Redwood,"Feb 1st, 2011",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",775 MHz,1000 MHz,400 / 20 / 8,End-of-life
+593,Radeon HD 5730,ATI,Redwood,"Feb 26th, 2011",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",775 MHz,1000 MHz,400 / 20 / 8,End-of-life
+594,FirePro 2460 Multi-View,ATI,Cedar,"Apr 1st, 2010",PCIe 2.0 x16,"512 MB, DDR3, 256 bit",500 MHz,500 MHz,80 / 8 / 4,End-of-life
+595,FirePro M5800,ATI,Madison,"Mar 1st, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",650 MHz,800 MHz,400 / 20 / 8,End-of-life
+596,FirePro M7820,ATI,Broadway,"May 1st, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",700 MHz,1000 MHz,800 / 40 / 16,End-of-life
+597,FirePro V3800,ATI,Redwood,"Apr 26th, 2010",PCIe 2.0 x16,"512 MB, DDR3, 64 bit",650 MHz,900 MHz,400 / 20 / 8,End-of-life
+598,FirePro V4800,ATI,Redwood,"Apr 26th, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",775 MHz,900 MHz,400 / 20 / 8,End-of-life
+599,FirePro V5800,ATI,Juniper,"Apr 26th, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",690 MHz,1000 MHz,800 / 40 / 16,End-of-life
+600,FirePro V5800 DVI,ATI,Juniper,"Apr 26th, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",690 MHz,1000 MHz,800 / 40 / 16,End-of-life
+601,FirePro V7800,ATI,Cypress,"Apr 26th, 2010",PCIe 2.0 x16,"2 GB, GDDR5, 256 bit",700 MHz,1000 MHz,1440 / 72 / 32,End-of-life
+602,FirePro V8800,ATI,Cypress,"Apr 7th, 2010",PCIe 2.0 x16,"2 GB, GDDR5, 256 bit",825 MHz,1150 MHz,1600 / 80 / 32,End-of-life
+603,FirePro V9800,ATI,Cypress,"Sep 9th, 2010",PCIe 2.0 x16,"4 GB, GDDR5, 256 bit",850 MHz,1150 MHz,1600 / 80 / 32,End-of-life
+604,FirePro V9800P,ATI,Cypress,"Sep 9th, 2010",PCIe 2.0 x16,"4 GB, GDDR5, 256 bit",850 MHz,1150 MHz,1600 / 80 / 32,End-of-life
+605,Mobility Radeon HD 4225 IGP,ATI,RS880,"May 1st, 2010",PCIe 1.0 x16,System Shared,380 MHz,System Shared,40 / 4 / 4,End-of-life
+606,Mobility Radeon HD 4250 IGP,ATI,RS880,"May 1st, 2010",PCI,System Shared,500 MHz,System Shared,40 / 4 / 4,End-of-life
+607,Mobility Radeon HD 4270 IGP,ATI,RS880,"May 1st, 2010",PCIe 1.0 x16,System Shared,590 MHz,System Shared,40 / 4 / 4,End-of-life
+608,Mobility Radeon HD 4550,ATI,M93,2010,MXM-II,"512 MB, GDDR3, 64 bit",550 MHz,700 MHz,80 / 8 / 4,End-of-life
+609,Mobility Radeon HD 5145,ATI,M92,"Jan 7th, 2010",PCIe 2.0 x16,"512 MB, GDDR3, 64 bit",720 MHz,900 MHz,80 / 8 / 4,End-of-life
+610,Mobility Radeon HD 5165,ATI,M96,"Jan 7th, 2010",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",600 MHz,800 MHz,320 / 32 / 8,End-of-life
+611,Mobility Radeon HD 530v,ATI,M92,"May 5th, 2010",MXM-A (3.0),"512 MB, GDDR3, 64 bit",450 MHz,500 MHz,80 / 8 / 4,End-of-life
+612,Mobility Radeon HD 530v,ATI,M93,"May 5th, 2010",MXM-A (3.0),"512 MB, GDDR3, 64 bit",450 MHz,600 MHz,80 / 8 / 4,End-of-life
+613,Mobility Radeon HD 540v,ATI,M92,"May 5th, 2010",MXM-A (3.0),"512 MB, GDDR3, 64 bit",500 MHz,700 MHz,80 / 8 / 4,End-of-life
+614,Mobility Radeon HD 540v,ATI,M93,"May 5th, 2010",MXM-A (3.0),"512 MB, GDDR3, 64 bit",550 MHz,800 MHz,80 / 8 / 4,End-of-life
+615,Mobility Radeon HD 5430,ATI,Park,"Jan 7th, 2010",PCIe 2.0 x16,"1024 MB, GDDR3, 64 bit",500 MHz,800 MHz,80 / 8 / 4,End-of-life
+616,Mobility Radeon HD 5450,ATI,Park,"Jan 7th, 2010",PCIe 2.0 x16,"1024 MB, GDDR3, 64 bit",650 MHz,667 MHz,80 / 8 / 4,End-of-life
+617,Mobility Radeon HD 5450,ATI,Park,"Jan 7th, 2010",PCIe 2.0 x16,"1024 MB, GDDR3, 64 bit",675 MHz,800 MHz,80 / 8 / 4,End-of-life
+618,Mobility Radeon HD 545v,ATI,M93,"May 5th, 2010",MXM-A (3.0),"512 MB, GDDR3, 64 bit",680 MHz,750 MHz,80 / 8 / 4,End-of-life
+619,Mobility Radeon HD 545v,ATI,M92,"May 5th, 2010",MXM-A (3.0),"512 MB, GDDR3, 64 bit",720 MHz,800 MHz,80 / 8 / 4,End-of-life
+620,Mobility Radeon HD 5470,ATI,Park,"Jan 7th, 2010",PCIe 2.0 x16,"512 MB, GDDR5, 64 bit",750 MHz,800 MHz,80 / 8 / 4,End-of-life
+621,Mobility Radeon HD 550v,ATI,M96,"May 5th, 2010",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",450 MHz,600 MHz,320 / 32 / 8,End-of-life
+622,Mobility Radeon HD 560v,ATI,M96,"May 5th, 2010",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",550 MHz,700 MHz,320 / 32 / 8,End-of-life
+623,Mobility Radeon HD 5650,ATI,Madison,"Jan 7th, 2010",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",450 MHz,800 MHz,400 / 20 / 8,End-of-life
+624,Mobility Radeon HD 565v,ATI,M96,"May 5th, 2010",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",675 MHz,800 MHz,320 / 32 / 8,End-of-life
+625,Mobility Radeon HD 5670 Mac Edition,ATI,Madison,"Apr 22nd, 2010",PCIe 2.0 x16,"512 MB, GDDR3, 128 bit",650 MHz,795 MHz,400 / 20 / 8,End-of-life
+626,Mobility Radeon HD 5730,ATI,Madison,"Jan 7th, 2010",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,800 MHz,400 / 20 / 8,End-of-life
+627,Mobility Radeon HD 5750,ATI,Madison,"Jan 7th, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",550 MHz,800 MHz,400 / 20 / 8,End-of-life
+628,Mobility Radeon HD 5770,ATI,Madison,"Jan 7th, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",650 MHz,800 MHz,400 / 20 / 8,End-of-life
+629,Mobility Radeon HD 5830,ATI,Broadway,"Jan 7th, 2010",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",500 MHz,800 MHz,800 / 40 / 16,End-of-life
+630,Mobility Radeon HD 5850,ATI,Broadway,"Jan 7th, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",500 MHz,1000 MHz,800 / 40 / 16,End-of-life
+631,Mobility Radeon HD 5850 Mac Edition,ATI,Broadway,"Jan 7th, 2010",MXM-B (3.0),"1024 MB, GDDR5, 128 bit",628 MHz,1000 MHz,800 / 40 / 16,End-of-life
+632,Mobility Radeon HD 5870,ATI,Broadway,"Jan 7th, 2010",MXM-B (3.0),"1024 MB, GDDR5, 128 bit",700 MHz,1000 MHz,800 / 40 / 16,End-of-life
+633,Radeon HD 3570,ATI,RV620,"Jul 5th, 2010",PCIe 2.0 x16,"512 MB, DDR2, 64 bit",796 MHz,495 MHz,40 / 4 / 4,End-of-life
+634,Radeon HD 4250 IGP,ATI,RS880,"Mar 1st, 2010",PCIe 1.0 x16,System Shared,560 MHz,System Shared,40 / 4 / 4,End-of-life
+635,Radeon HD 4290 IGP,ATI,RS880,"Mar 1st, 2010",PCIe 1.0 x16,System Shared,500 MHz,System Shared,40 / 4 / 4,End-of-life
+636,Radeon HD 4700,ATI,RV730,"Feb 11th, 2010",PCIe 2.0 x16,"512 MB, DDR2, 128 bit",600 MHz,400 MHz,320 / 32 / 8,End-of-life
+637,Radeon HD 4855,ATI,RV770,"Jan 3rd, 2010",PCIe 2.0 x16,"512 MB, GDDR5, 256 bit",575 MHz,900 MHz,640 / 32 / 16,End-of-life
+638,Radeon HD 5450,ATI,Cedar,"Feb 4th, 2010",PCIe 2.0 x16,"512 MB, DDR2, 64 bit",650 MHz,400 MHz,80 / 8 / 4,End-of-life
+639,Radeon HD 5450 PCI,ATI,Cedar,"Feb 4th, 2010",PCI,"512 MB, DDR2, 64 bit",650 MHz,333 MHz,80 / 8 / 4,End-of-life
+640,Radeon HD 5450 PCIe x1,ATI,Cedar,"Feb 4th, 2010",PCIe 2.0 x1,"512 MB, DDR3, 64 bit",650 MHz,500 MHz,80 / 8 / 4,End-of-life
+641,Radeon HD 5550,ATI,Redwood,"Feb 9th, 2010",PCIe 2.0 x16,"512 MB, GDDR5, 128 bit",550 MHz,800 MHz,320 / 16 / 8,End-of-life
+642,Radeon HD 5570,ATI,Redwood,"Feb 9th, 2010",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",650 MHz,800 MHz,400 / 20 / 8,End-of-life
+643,Radeon HD 5570,ATI,Pinewood,"Feb 9th, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",625 MHz,800 MHz,400 / 20 / 8,End-of-life
+644,Radeon HD 5570 OEM,ATI,Redwood,"Feb 9th, 2010",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",550 MHz,667 MHz,320 / 16 / 8,End-of-life
+645,Radeon HD 5670,ATI,Redwood,"Jan 14th, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",775 MHz,1000 MHz,400 / 20 / 8,End-of-life
+646,Radeon HD 5670 640SP Edition,ATI,Juniper,"Jul 18th, 2010",PCIe 2.0 x16,"512 MB, GDDR5, 128 bit",750 MHz,1000 MHz,640 / 32 / 8,End-of-life
+647,Radeon HD 5770 Mac Edition,ATI,Juniper,"Jul 4th, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",850 MHz,1195 MHz,800 / 40 / 16,End-of-life
+648,Radeon HD 5770 X2,ATI,Juniper,"Oct 13th, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",850 MHz,1200 MHz,800 / 40 / 16,End-of-life
+649,Radeon HD 5830,ATI,Cypress,"Feb 25th, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",800 MHz,1000 MHz,1120 / 56 / 16,End-of-life
+650,Radeon HD 5870 Eyefinity 6,ATI,Cypress,"Mar 11th, 2010",PCIe 2.0 x16,"2 GB, GDDR5, 256 bit",850 MHz,1200 MHz,1600 / 80 / 32,End-of-life
+651,Radeon HD 5870 Mac Edition,ATI,Cypress,"Jun 30th, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",850 MHz,1195 MHz,1600 / 80 / 32,End-of-life
+652,Xbox 360 S GPU,ATI,Xenos Vejle,"Jun 19th, 2010",IGP,"512 MB, GDDR3, 128 bit",500 MHz,700 MHz,240 / 16 / 8,End-of-life
+653,FirePro 2450 Multi-View,ATI,RV620,2009,PCIe 2.0 x16,"256 MB, DDR3, 64 bit",400 MHz,400 MHz,40 / 4 / 4,End-of-life
+654,FirePro 2450 Multi-View PCIe x1,ATI,RV620,2009,PCIe 2.0 x1,"256 MB, DDR3, 64 bit",400 MHz,400 MHz,40 / 4 / 4,End-of-life
+655,FirePro M5725,ATI,M96,"Jan 9th, 2009",PCIe 2.0 x16,"512 MB, GDDR3, 128 bit",675 MHz,800 MHz,320 / 32 / 8,End-of-life
+656,FirePro M7740,ATI,M97,"Aug 4th, 2009",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",650 MHz,846 MHz,640 / 32 / 16,End-of-life
+657,FirePro V7750,ATI,RV730,"Mar 27th, 2009",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",800 MHz,900 MHz,320 / 32 / 8,End-of-life
+658,Mobility FireGL V5725,ATI,M86,2009,PCIe 2.0 x16,"256 MB, GDDR3, 128 bit",680 MHz,800 MHz,120 / 8 / 4,End-of-life
+659,Mobility Radeon HD 4100 IGP,ATI,RS880,"Nov 1st, 2009",PCIe 1.0 x16,System Shared,400 MHz,System Shared,40 / 4 / 4,End-of-life
+660,Mobility Radeon HD 4200 IGP,ATI,RS880,"Sep 10th, 2009",PCIe 1.0 x16,System Shared,500 MHz,System Shared,40 / 4 / 4,End-of-life
+661,Mobility Radeon HD 4330,ATI,M92,"Jan 9th, 2009",PCIe 2.0 x16,"512 MB, GDDR3, 64 bit",450 MHz,600 MHz,80 / 8 / 4,End-of-life
+662,Mobility Radeon HD 4350,ATI,M93,"Jan 9th, 2009",PCIe 2.0 x16,"512 MB, GDDR3, 64 bit",450 MHz,800 MHz,80 / 8 / 4,End-of-life
+663,Mobility Radeon HD 4530,ATI,M92,"Jan 9th, 2009",MXM-II,"512 MB, GDDR3, 64 bit",500 MHz,700 MHz,80 / 8 / 4,End-of-life
+664,Mobility Radeon HD 4570,ATI,M92,"Jan 9th, 2009",MXM-II,"512 MB, GDDR3, 64 bit",680 MHz,800 MHz,80 / 8 / 4,End-of-life
+665,Mobility Radeon HD 4650,ATI,M96,"Jan 9th, 2009",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",550 MHz,667 MHz,320 / 32 / 8,End-of-life
+666,Mobility Radeon HD 4670,ATI,M96,"Jan 9th, 2009",MXM-A (3.0),"512 MB, GDDR3, 128 bit",675 MHz,800 MHz,320 / 32 / 8,End-of-life
+667,Mobility Radeon HD 4670 Mac Edition,ATI,M96,"Sep 16th, 2009",MXM-A (3.0),"256 MB, GDDR3, 128 bit",680 MHz,790 MHz,320 / 32 / 8,End-of-life
+668,Mobility Radeon HD 4830,ATI,M97,"Mar 3rd, 2009",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",500 MHz,800 MHz,640 / 32 / 16,End-of-life
+669,Mobility Radeon HD 4850,ATI,M98,"Jan 9th, 2009",PCIe 2.0 x16,"1024 MB, GDDR3, 256 bit",503 MHz,850 MHz,800 / 40 / 16,End-of-life
+670,Mobility Radeon HD 4850 Mac Edition,ATI,M98,"Aug 28th, 2009",MXM-B (3.0),"512 MB, GDDR3, 256 bit",503 MHz,850 MHz,800 / 40 / 16,End-of-life
+671,Mobility Radeon HD 4850 X2,ATI,M98,"Jan 9th, 2009",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",500 MHz,700 MHz,800 / 40 / 16,End-of-life
+672,Mobility Radeon HD 4860,ATI,M97,"Mar 3rd, 2009",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",650 MHz,1000 MHz,640 / 32 / 16,End-of-life
+673,Mobility Radeon HD 4870,ATI,M98,"Jan 9th, 2009",PCIe 2.0 x16,"512 MB, GDDR3, 256 bit",550 MHz,888 MHz,800 / 40 / 16,End-of-life
+674,Mobility Radeon HD 4870 X2,ATI,M98,"Jan 9th, 2009",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",550 MHz,700 MHz,800 / 40 / 16,End-of-life
+675,Radeon 3000 IGP,ATI,RS780,2009,PCIe 1.0 x16,System Shared,350 MHz,System Shared,40 / 4 / 4,End-of-life
+676,Radeon E4690 MXM,ATI,M96,"Jun 1st, 2009",MXM-II,"512 MB, GDDR3, 128 bit",600 MHz,700 MHz,320 / 32 / 8,End-of-life
+677,Radeon E4690 MXM,ATI,M96,"Jun 1st, 2009",MXM-A (3.0),"512 MB, GDDR3, 128 bit",600 MHz,700 MHz,320 / 32 / 8,End-of-life
+678,Radeon E4690 PCIe,ATI,M96,"Jun 1st, 2009",PCIe 2.0 x16,"512 MB, GDDR3, 128 bit",600 MHz,700 MHz,320 / 32 / 8,End-of-life
+679,Radeon HD 3200 Mobile IGP,ATI,RS780,"Nov 1st, 2009",PCIe 1.0 x16,System Shared,380 MHz,System Shared,40 / 4 / 4,End-of-life
+680,Radeon HD 3410,ATI,RV610,"May 7th, 2009",PCIe 1.0 x16,"256 MB, DDR2, 64 bit",519 MHz,396 MHz,40 / 4 / 4,End-of-life
+681,Radeon HD 3610,ATI,RV630,"Sep 24th, 2009",PCIe 1.0 x16,"512 MB, DDR2, 128 bit",594 MHz,396 MHz,120 / 8 / 4,End-of-life
+682,Radeon HD 4200 IGP,ATI,RS880,"Aug 1st, 2009",PCIe 1.0 x16,System Shared,500 MHz,System Shared,40 / 4 / 4,End-of-life
+683,Radeon HD 4250,ATI,RV620,"Feb 25th, 2009",PCIe 2.0 x16,"512 MB, DDR2, 64 bit",594 MHz,396 MHz,40 / 4 / 4,End-of-life
+684,Radeon HD 4520,ATI,RV710,"Dec 2nd, 2009",PCIe 2.0 x16,"512 MB, DDR2, 64 bit",600 MHz,400 MHz,80 / 8 / 4,End-of-life
+685,Radeon HD 4570 Rebrand,ATI,RV635,"Nov 22nd, 2009",PCIe 2.0 x16,"1024 MB, DDR2, 128 bit",796 MHz,396 MHz,120 / 8 / 4,End-of-life
+686,Radeon HD 4670 AGP,ATI,RV730,"Jul 17th, 2009",AGP 8x,"1024 MB, GDDR3, 128 bit",750 MHz,800 MHz,320 / 32 / 8,End-of-life
+687,Radeon HD 4730,ATI,RV770,"Jun 8th, 2009",PCIe 2.0 x16,"512 MB, GDDR5, 128 bit",750 MHz,900 MHz,640 / 32 / 8,End-of-life
+688,Radeon HD 4750,ATI,RV740,"Sep 9th, 2009",PCIe 2.0 x16,"512 MB, GDDR5, 128 bit",730 MHz,800 MHz,640 / 32 / 16,End-of-life
+689,Radeon HD 4770,ATI,RV740,"Apr 28th, 2009",PCIe 2.0 x16,"512 MB, GDDR5, 128 bit",750 MHz,800 MHz,640 / 32 / 16,End-of-life
+690,Radeon HD 4810,ATI,RV770,"May 28th, 2009",PCIe 2.0 x16,"512 MB, GDDR5, 128 bit",625 MHz,900 MHz,640 / 32 / 8,End-of-life
+691,Radeon HD 4860,ATI,RV790,"Sep 9th, 2009",PCIe 2.0 x16,"512 MB, GDDR5, 256 bit",700 MHz,750 MHz,640 / 32 / 16,End-of-life
+692,Radeon HD 4870 Mac Edition,ATI,RV770,"Jan 6th, 2009",PCIe 2.0 x16,"512 MB, GDDR5, 256 bit",750 MHz,850 MHz,800 / 40 / 16,End-of-life
+693,Radeon HD 4890,ATI,RV790,"Apr 2nd, 2009",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",850 MHz,975 MHz,800 / 40 / 16,End-of-life
+694,Radeon HD 5750,ATI,Juniper,"Oct 13th, 2009",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",700 MHz,1150 MHz,720 / 36 / 16,End-of-life
+695,Radeon HD 5770,ATI,Juniper,"Oct 13th, 2009",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",850 MHz,1200 MHz,800 / 40 / 16,End-of-life
+696,Radeon HD 5850,ATI,Cypress,"Sep 30th, 2009",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",725 MHz,1000 MHz,1440 / 72 / 32,End-of-life
+697,Radeon HD 5870,ATI,Cypress,"Sep 23rd, 2009",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",850 MHz,1200 MHz,1600 / 80 / 32,End-of-life
+698,Radeon HD 5950,ATI,Hemlock,Never Released,PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",725 MHz,1000 MHz,1440 / 72 / 32,End-of-life
+699,Radeon HD 5970,ATI,Hemlock,"Nov 18th, 2009",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",725 MHz,1000 MHz,1600 / 80 / 32,End-of-life
+700,All-In-Wonder HD 3650,ATI,RV635,"Jun 28th, 2008",PCIe 2.0 x16,"512 MB, DDR2, 128 bit",725 MHz,600 MHz,120 / 8 / 4,End-of-life
+701,FireMV 2260,ATI,RV620,2008,PCIe 2.0 x16,"256 MB, DDR2, 64 bit",500 MHz,500 MHz,40 / 4 / 4,End-of-life
+702,FireMV 2260 PCIe x1,ATI,RV620,2008,PCIe 2.0 x1,"256 MB, DDR2, 64 bit",500 MHz,500 MHz,40 / 4 / 4,End-of-life
+703,FireMV 2400 PCI,ATI,RV380,2008,PCI,"128 MB, DDR, 128 bit",500 MHz,500 MHz,4 / 2 / 4 / 4,End-of-life
+704,FireMV 2400 PCIe x1,ATI,RV380,2008,PCIe 2.0 x1,"64 MB, DDR3, 128 bit",250 MHz,203 MHz,4 / 2 / 4 / 4,End-of-life
+705,FirePro 2260 PCI,ATI,RV620,2008,PCI,"256 MB, DDR2, 64 bit",500 MHz,500 MHz,40 / 4 / 4,End-of-life
+706,FirePro V3700,ATI,RV620,"Aug 8th, 2008",PCIe 2.0 x16,"256 MB, GDDR3, 64 bit",800 MHz,950 MHz,40 / 4 / 4,End-of-life
+707,FirePro V3750,ATI,RV730,"Sep 11th, 2008",PCIe 2.0 x16,"256 MB, GDDR3, 128 bit",550 MHz,700 MHz,320 / 32 / 8,End-of-life
+708,FirePro V5700,ATI,RV730,"Aug 8th, 2008",PCIe 2.0 x16,"512 MB, GDDR3, 128 bit",700 MHz,900 MHz,320 / 32 / 8,End-of-life
+709,FirePro V8700,ATI,RV770,"Sep 11th, 2008",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",750 MHz,850 MHz,800 / 40 / 16,End-of-life
+710,FirePro V8700 Duo,ATI,RV770,Never Released,PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",750 MHz,850 MHz,800 / 40 / 16,End-of-life
+711,FirePro V8750,ATI,RV770,"Jul 28th, 2008",PCIe 2.0 x16,"2 GB, GDDR5, 256 bit",750 MHz,900 MHz,800 / 40 / 16,End-of-life
+712,Mobility FireGL V5700,ATI,M86,"Jan 7th, 2008",PCIe 2.0 x16,"512 MB, GDDR3, 128 bit",600 MHz,700 MHz,120 / 8 / 4,End-of-life
+713,Mobility Radeon HD 3410,ATI,M82,"Jul 25th, 2008",MXM-II,"256 MB, DDR2, 64 bit",400 MHz,400 MHz,40 / 4 / 4,End-of-life
+714,Mobility Radeon HD 3430,ATI,M82,"Jul 25th, 2008",MXM-II,"256 MB, DDR2, 64 bit",450 MHz,400 MHz,40 / 4 / 4,End-of-life
+715,Mobility Radeon HD 3450,ATI,M82,"Jan 7th, 2008",MXM-II,"256 MB, DDR2, 64 bit",500 MHz,400 MHz,40 / 4 / 4,End-of-life
+716,Mobility Radeon HD 3470,ATI,M82,"Jan 7th, 2008",MXM-II,"256 MB, DDR2, 64 bit",680 MHz,400 MHz,40 / 4 / 4,End-of-life
+717,Mobility Radeon HD 3650,ATI,M86,"Jan 7th, 2008",MXM-II,"512 MB, GDDR3, 128 bit",500 MHz,700 MHz,120 / 8 / 4,End-of-life
+718,Mobility Radeon HD 3670,ATI,M86,"Jan 7th, 2008",MXM-II,"256 MB, GDDR3, 128 bit",680 MHz,800 MHz,120 / 8 / 4,End-of-life
+719,Mobility Radeon HD 3850,ATI,M88,"Jun 4th, 2008",PCIe 2.0 x16,"512 MB, GDDR3, 256 bit",580 MHz,750 MHz,320 / 16 / 16,End-of-life
+720,Mobility Radeon HD 3850 X2,ATI,M88,"Jun 4th, 2008",PCIe 2.0 x16,"512 MB, GDDR3, 256 bit",580 MHz,750 MHz,320 / 16 / 16,End-of-life
+721,Mobility Radeon HD 3870,ATI,M88,"Jun 4th, 2008",PCIe 2.0 x16,"512 MB, GDDR3, 256 bit",660 MHz,850 MHz,320 / 16 / 16,End-of-life
+722,Mobility Radeon HD 3870 X2,ATI,M88,"Sep 1st, 2008",PCIe 2.0 x16,"512 MB, GDDR3, 256 bit",660 MHz,850 MHz,320 / 16 / 16,End-of-life
+723,Radeon 2100 IGP,ATI,RS740,"Mar 4th, 2008",PCIe 1.0 x16,System Shared,400 MHz,System Shared,4 / 2 / 4 / 4,End-of-life
+724,Radeon 3100 IGP,ATI,RS780,"Mar 4th, 2008",PCIe 1.0 x16,System Shared,350 MHz,System Shared,40 / 4 / 4,End-of-life
+725,Radeon 3100 Mobile IGP,ATI,RS780,"Aug 15th, 2008",PCIe 1.0 x16,System Shared,350 MHz,System Shared,40 / 4 / 4,End-of-life
+726,Radeon HD 2400,ATI,RV610,"Feb 19th, 2008",PCIe 1.0 x16,"256 MB, DDR2, 64 bit",398 MHz,495 MHz,40 / 4 / 4,End-of-life
+727,Radeon HD 2600 XT Mac Edition,ATI,RV630,"Feb 21st, 2008",PCIe 1.0 x16,"256 MB, GDDR3, 128 bit",700 MHz,800 MHz,120 / 8 / 4,End-of-life
+728,Radeon HD 3200 IGP,ATI,RS780,"Mar 4th, 2008",PCIe 1.0 x16,System Shared,500 MHz,System Shared,40 / 4 / 4,End-of-life
+729,Radeon HD 3300 IGP,ATI,RS780,"Aug 6th, 2008",PCIe 1.0 x16,System Shared,500 MHz,System Shared,40 / 4 / 4,End-of-life
+730,Radeon HD 3450 AGP,ATI,RV620,"Jan 23rd, 2008",AGP 8x,"512 MB, DDR2, 64 bit",600 MHz,500 MHz,40 / 4 / 4,End-of-life
+731,Radeon HD 3450 PCI,ATI,RV620,"Jan 23rd, 2008",PCI,"512 MB, DDR2, 64 bit",600 MHz,400 MHz,40 / 4 / 4,End-of-life
+732,Radeon HD 3470,ATI,RV620,"Jan 23rd, 2008",PCIe 2.0 x16,"256 MB, GDDR3, 64 bit",800 MHz,950 MHz,40 / 4 / 4,End-of-life
+733,Radeon HD 3550,ATI,RV620,"Aug 4th, 2008",PCIe 2.0 x16,"512 MB, DDR2, 64 bit",594 MHz,396 MHz,40 / 4 / 4,End-of-life
+734,Radeon HD 3650,ATI,RV635,"Jan 20th, 2008",PCIe 2.0 x16,"256 MB, GDDR3, 128 bit",725 MHz,800 MHz,120 / 8 / 4,End-of-life
+735,Radeon HD 3650 AGP,ATI,RV635,"Jan 23rd, 2008",AGP 8x,"512 MB, DDR2, 128 bit",725 MHz,500 MHz,120 / 8 / 4,End-of-life
+736,Radeon HD 3690,ATI,RV670,"Mar 30th, 2008",PCIe 2.0 x16,"256 MB, GDDR3, 128 bit",670 MHz,830 MHz,320 / 16 / 16,End-of-life
+737,Radeon HD 3730,ATI,RV635,"Oct 5th, 2008",PCIe 2.0 x16,"512 MB, DDR2, 128 bit",722 MHz,396 MHz,120 / 8 / 4,End-of-life
+738,Radeon HD 3750,ATI,RV635,"Sep 11th, 2008",PCIe 2.0 x16,"512 MB, GDDR3, 128 bit",796 MHz,693 MHz,120 / 8 / 4,End-of-life
+739,Radeon HD 3830,ATI,RV670,"Apr 1st, 2008",PCIe 2.0 x16,"256 MB, GDDR3, 128 bit",668 MHz,828 MHz,320 / 16 / 16,End-of-life
+740,Radeon HD 3850 AGP,ATI,RV670,"Jan 3rd, 2008",AGP 8x,"512 MB, GDDR3, 256 bit",668 MHz,828 MHz,320 / 16 / 16,End-of-life
+741,Radeon HD 3850 X2,ATI,RV670,"Apr 4th, 2008",PCIe 2.0 x16,"512 MB, GDDR3, 256 bit",669 MHz,828 MHz,320 / 16 / 16,End-of-life
+742,Radeon HD 3850 X3,ATI,RV670,Never Released,PCIe 2.0 x16,"512 MB, GDDR3, 256 bit",669 MHz,850 MHz,320 / 16 / 16,End-of-life
+743,Radeon HD 3870 Mac Edition,ATI,RV670,"Jun 12th, 2008",PCIe 2.0 x16,"512 MB, GDDR4, 256 bit",777 MHz,1126 MHz,320 / 16 / 16,End-of-life
+744,Radeon HD 3870 X2,ATI,R680,"Jan 26th, 2008",PCIe 2.0 x16,"512 MB, GDDR3, 256 bit",825 MHz,901 MHz,320 / 16 / 16,End-of-life
+745,Radeon HD 4350,ATI,RV710,"Sep 30th, 2008",PCIe 2.0 x16,"512 MB, DDR3, 64 bit",600 MHz,400 MHz,80 / 8 / 4,End-of-life
+746,Radeon HD 4350 AGP,ATI,RV710,"Sep 30th, 2008",AGP 8x,"512 MB, DDR3, 64 bit",600 MHz,650 MHz,80 / 8 / 4,End-of-life
+747,Radeon HD 4350 PCI,ATI,RV710,"Sep 30th, 2008",PCI,"512 MB, DDR2, 64 bit",600 MHz,400 MHz,80 / 8 / 4,End-of-life
+748,Radeon HD 4350 PCIe x1,ATI,RV710,"Sep 30th, 2008",PCIe 2.0 x1,"512 MB, DDR2, 64 bit",600 MHz,400 MHz,80 / 8 / 4,End-of-life
+749,Radeon HD 4550,ATI,RV710,"Sep 30th, 2008",PCIe 2.0 x16,"256 MB, DDR2, 64 bit",600 MHz,655 MHz,80 / 8 / 4,End-of-life
+750,Radeon HD 4570,ATI,RV710,"Nov 25th, 2008",PCIe 2.0 x16,"1024 MB, DDR2, 64 bit",650 MHz,500 MHz,80 / 8 / 4,End-of-life
+751,Radeon HD 4650,ATI,RV730,"Sep 10th, 2008",PCIe 2.0 x16,"256 MB, GDDR3, 128 bit",600 MHz,700 MHz,320 / 32 / 8,End-of-life
+752,Radeon HD 4650 AGP,ATI,RV730,"Sep 10th, 2008",AGP 8x,"512 MB, DDR2, 128 bit",600 MHz,400 MHz,320 / 32 / 8,End-of-life
+753,Radeon HD 4670,ATI,RV730,"Sep 10th, 2008",PCIe 2.0 x16,"512 MB, GDDR3, 128 bit",750 MHz,1000 MHz,320 / 32 / 8,End-of-life
+754,Radeon HD 4670 X2,ATI,RV730,"Sep 10th, 2008",PCIe 2.0 x16,"512 MB, GDDR3, 128 bit",750 MHz,700 MHz,320 / 32 / 8,End-of-life
+755,Radeon HD 4710,ATI,RV730,"Sep 10th, 2008",PCIe 2.0 x16,"1024 MB, GDDR3, 128 bit",750 MHz,800 MHz,320 / 32 / 8,End-of-life
+756,Radeon HD 4730 OEM,ATI,RV670,"Dec 26th, 2008",PCIe 2.0 x16,"1024 MB, DDR2, 256 bit",669 MHz,396 MHz,320 / 16 / 16,End-of-life
+757,Radeon HD 4830,ATI,RV770,"Oct 21st, 2008",PCIe 2.0 x16,"512 MB, GDDR3, 256 bit",575 MHz,900 MHz,640 / 32 / 16,End-of-life
+758,Radeon HD 4850,ATI,RV770,"Jun 25th, 2008",PCIe 2.0 x16,"512 MB, GDDR3, 256 bit",625 MHz,993 MHz,800 / 40 / 16,End-of-life
+759,Radeon HD 4850 X2,ATI,R700,"Nov 7th, 2008",PCIe 2.0 x16,"512 MB, GDDR3, 256 bit",625 MHz,995 MHz,800 / 40 / 16,End-of-life
+760,Radeon HD 4870,ATI,RV770,"Jun 25th, 2008",PCIe 2.0 x16,"512 MB, GDDR5, 256 bit",750 MHz,900 MHz,800 / 40 / 16,End-of-life
+761,Radeon HD 4870 X2,ATI,R700,"Aug 12th, 2008",PCIe 2.0 x16,"1024 MB, GDDR5, 256 bit",750 MHz,900 MHz,800 / 40 / 16,End-of-life
+762,Radeon X1050,ATI,RV410,"Jan 25th, 2008",PCIe 1.0 x16,"128 MB, DDR, 64 bit",400 MHz,200 MHz,8 / 6 / 8 / 8,End-of-life
+763,Radeon Xpress 2100 IGP,ATI,RS780,"Mar 4th, 2008",PCIe 1.0 x16,System Shared,500 MHz,System Shared,40 / 4 / 4,End-of-life
+764,Xbox 360 GPU 65nm,ATI,Xenos Jasper,"Aug 1st, 2008",IGP,"512 MB, GDDR3, 128 bit",500 MHz,700 MHz,240 / 16 / 8,End-of-life
+765,ES1000,ATI,ES1000,"Oct 18th, 2007",PCI,System Shared,200 MHz,System Shared,0 / 0 / 3 / 1,End-of-life
+766,FireGL V3600,ATI,RV630,"Jun 28th, 2007",PCIe 1.0 x16,"256 MB, DDR2, 128 bit",600 MHz,500 MHz,120 / 8 / 4,End-of-life
+767,FireGL V5600,ATI,RV630,"Aug 6th, 2007",PCIe 1.0 x16,"512 MB, GDDR4, 128 bit",800 MHz,1100 MHz,120 / 8 / 4,End-of-life
+768,FireGL V7600,ATI,R600,"Aug 6th, 2007",PCIe 1.0 x16,"512 MB, GDDR3, 256 bit",600 MHz,800 MHz,320 / 16 / 16,End-of-life
+769,FireGL V7700,ATI,RV670,"Nov 19th, 2007",PCIe 2.0 x16,"512 MB, GDDR4, 256 bit",777 MHz,1126 MHz,320 / 16 / 16,End-of-life
+770,FireGL V8600,ATI,R600,"May 14th, 2007",PCIe 1.0 x16,"1024 MB, GDDR4, 512 bit",688 MHz,868 MHz,320 / 16 / 16,End-of-life
+771,FireGL V8650,ATI,R600,"Aug 6th, 2007",PCIe 1.0 x16,"2 GB, GDDR4, 512 bit",688 MHz,868 MHz,320 / 16 / 16,End-of-life
+772,FireMV 2250,ATI,RV516,2007,PCIe 1.0 x16,"256 MB, DDR2, 128 bit",600 MHz,400 MHz,4 / 2 / 4 / 4,End-of-life
+773,FireMV 2250 PCIe x1,ATI,RV516,2007,PCIe 1.0 x1,"256 MB, DDR2, 128 bit",600 MHz,400 MHz,4 / 2 / 4 / 4,End-of-life
+774,Mobility FireGL V5250,ATI,M66,2007,PCIe 1.0 x16,"256 MB, GDDR3, 128 bit",450 MHz,350 MHz,12 / 5 / 12 / 12,End-of-life
+775,Mobility FireGL V5600,ATI,M76,"May 14th, 2007",PCIe 2.0 x16,"256 MB, GDDR3, 128 bit",500 MHz,400 MHz,120 / 8 / 4,End-of-life
+776,Mobility Radeon HD 2300,ATI,M71,"Mar 1st, 2007",PCIe 1.0 x16,"128 MB, DDR2, 128 bit",480 MHz,400 MHz,4 / 2 / 4 / 4,End-of-life
+777,Mobility Radeon HD 2400,ATI,M72,"May 14th, 2007",PCIe 1.0 x16,"256 MB, DDR2, 64 bit",450 MHz,400 MHz,40 / 4 / 4,End-of-life
+778,Mobility Radeon HD 2400 XT,ATI,M74,"May 14th, 2007",PCIe 1.0 x16,"256 MB, DDR2, 64 bit",600 MHz,400 MHz,40 / 4 / 4,End-of-life
+779,Mobility Radeon HD 2400 XT Mac Edition,ATI,M74,"Jun 28th, 2007",PCIe 1.0 x16,"128 MB, GDDR3, 64 bit",650 MHz,800 MHz,40 / 4 / 4,End-of-life
+780,Mobility Radeon HD 2600,ATI,M76,"May 14th, 2007",MXM-II,"256 MB, DDR2, 128 bit",500 MHz,400 MHz,120 / 8 / 4,End-of-life
+781,Mobility Radeon HD 2600 XT,ATI,M76,"May 14th, 2007",MXM-II,"256 MB, GDDR3, 128 bit",680 MHz,750 MHz,120 / 8 / 4,End-of-life
+782,Mobility Radeon HD 2600 XT Mac Edition,ATI,M76,"Jul 26th, 2007",MXM-II,"256 MB, GDDR3, 128 bit",600 MHz,685 MHz,120 / 8 / 4,End-of-life
+783,Mobility Radeon HD 2700,ATI,M76,"Dec 12th, 2007",MXM-II,"256 MB, GDDR3, 128 bit",650 MHz,700 MHz,120 / 8 / 4,End-of-life
+784,Mobility Radeon X1600 Mac Edition,ATI,M56,"Nov 8th, 2007",PCIe 1.0 x16,"128 MB, GDDR3, 128 bit",398 MHz,396 MHz,12 / 5 / 4 / 4,End-of-life
+785,Mobility Radeon X1900,ATI,M68,"Jan 11th, 2007",MXM-III,"256 MB, GDDR3, 256 bit",400 MHz,470 MHz,36 / 8 / 12 / 12,End-of-life
+786,Mobility Radeon X2300,ATI,M64,"Mar 1st, 2007",PCIe 1.0 x16,"64 MB, DDR2, 64 bit",479 MHz,392 MHz,4 / 2 / 4 / 4,End-of-life
+787,Mobility Radeon X2300,ATI,M64,"Mar 1st, 2007",PCIe 1.0 x16,"128 MB, GDDR3, 64 bit",479 MHz,446 MHz,4 / 2 / 4 / 4,End-of-life
+788,Mobility Radeon X2300 HD,ATI,M71,"Mar 1st, 2007",PCIe 1.0 x16,"256 MB, DDR2, 32 bit",479 MHz,378 MHz,4 / 2 / 4 / 4,End-of-life
+789,Mobility Radeon X2500,ATI,M66,"Jun 1st, 2007",PCIe 1.0 x16,"256 MB, DDR2, 128 bit",460 MHz,400 MHz,12 / 5 / 4 / 4,End-of-life
+790,Radeon E2400,ATI,RV610,"Jun 28th, 2007",MXM-II,"128 MB, GDDR3, 64 bit",600 MHz,700 MHz,40 / 4 / 4,End-of-life
+791,Radeon HD 2350 PRO,ATI,RV610,2007,PCIe 1.0 x16,"256 MB, DDR2, 64 bit",525 MHz,400 MHz,40 / 4 / 4,End-of-life
+792,Radeon HD 2400 PRO,ATI,RV610,"Jun 28th, 2007",PCIe 1.0 x16,"256 MB, DDR2, 64 bit",525 MHz,400 MHz,40 / 4 / 4,End-of-life
+793,Radeon HD 2400 PRO AGP,ATI,RV610,"Jun 28th, 2007",AGP 8x,"256 MB, DDR2, 64 bit",525 MHz,400 MHz,40 / 4 / 4,End-of-life
+794,Radeon HD 2400 PRO PCI,ATI,RV610,"Jun 28th, 2007",PCI,"512 MB, DDR2, 64 bit",525 MHz,400 MHz,40 / 4 / 4,End-of-life
+795,Radeon HD 2400 XT,ATI,RV610,"Jun 28th, 2007",PCIe 1.0 x16,"256 MB, GDDR3, 64 bit",650 MHz,500 MHz,40 / 4 / 4,End-of-life
+796,Radeon HD 2600 PRO,ATI,RV630,"Jun 28th, 2007",PCIe 1.0 x16,"256 MB, DDR2, 128 bit",600 MHz,500 MHz,120 / 8 / 4,End-of-life
+797,Radeon HD 2600 PRO AGP,ATI,RV630,"Jun 28th, 2007",AGP 8x,"512 MB, DDR2, 128 bit",594 MHz,396 MHz,120 / 8 / 4,End-of-life
+798,Radeon HD 2600 XT,ATI,RV630,"Jun 28th, 2007",PCIe 1.0 x16,"256 MB, GDDR3, 128 bit",800 MHz,700 MHz,120 / 8 / 4,End-of-life
+799,Radeon HD 2600 XT,ATI,RV630,"Jun 28th, 2007",PCIe 1.0 x16,"256 MB, GDDR4, 128 bit",800 MHz,1100 MHz,120 / 8 / 4,End-of-life
+800,Radeon HD 2600 XT AGP,ATI,RV635,"Jun 28th, 2007",AGP 8x,"256 MB, DDR2, 128 bit",722 MHz,405 MHz,120 / 8 / 4,End-of-life
+801,Radeon HD 2600 XT AGP,ATI,RV630,"Jun 28th, 2007",AGP 8x,"256 MB, GDDR3, 128 bit",800 MHz,800 MHz,120 / 8 / 4,End-of-life
+802,Radeon HD 2600 XT X2,ATI,RV630,"Jul 26th, 2007",PCIe 1.0 x16,"512 MB, GDDR3, 128 bit",800 MHz,800 MHz,120 / 8 / 4,End-of-life
+803,Radeon HD 2900 GT,ATI,R600,"Nov 6th, 2007",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",601 MHz,800 MHz,240 / 12 / 12,End-of-life
+804,Radeon HD 2900 PRO,ATI,R600,"Dec 12th, 2007",PCIe 1.0 x16,"512 MB, GDDR3, 256 bit",600 MHz,800 MHz,320 / 16 / 16,End-of-life
+805,Radeon HD 2900 XT,ATI,R600,"May 14th, 2007",PCIe 1.0 x16,"512 MB, GDDR3, 512 bit",743 MHz,828 MHz,320 / 16 / 16,End-of-life
+806,Radeon HD 2900 XTX,ATI,R600,Never Released,PCIe 1.0 x16,"512 MB, GDDR3, 512 bit",743 MHz,828 MHz,320 / 16 / 16,End-of-life
+807,Radeon HD 2950 PRO,ATI,RV670,Never Released,PCIe 2.0 x16,"256 MB, GDDR3, 256 bit",600 MHz,600 MHz,320 / 16 / 16,End-of-life
+808,Radeon HD 2950 XTX,ATI,RV670,Never Released,PCIe 2.0 x16,"512 MB, GDDR4, 256 bit",777 MHz,1126 MHz,320 / 16 / 16,End-of-life
+809,Radeon HD 3450,ATI,RV620,"Dec 10th, 2007",PCIe 2.0 x16,"256 MB, DDR2, 64 bit",600 MHz,500 MHz,40 / 4 / 4,End-of-life
+810,Radeon HD 3450 X2,ATI,RV620,"Dec 10th, 2007",PCIe 2.0 x16,"512 MB, DDR2, 64 bit",600 MHz,500 MHz,40 / 4 / 4,End-of-life
+811,Radeon HD 3850,ATI,RV670,"Nov 19th, 2007",PCIe 2.0 x16,"512 MB, GDDR3, 256 bit",668 MHz,830 MHz,320 / 16 / 16,End-of-life
+812,Radeon HD 3870,ATI,RV670,"Nov 19th, 2007",PCIe 2.0 x16,"512 MB, GDDR4, 256 bit",777 MHz,1126 MHz,320 / 16 / 16,End-of-life
+813,Radeon HD 3870 AGP,ATI,RV670,Never Released,AGP 8x,"512 MB, GDDR4, 256 bit",777 MHz,1126 MHz,320 / 16 / 16,End-of-life
+814,Radeon X1050 AGP,ATI,RV360,"Nov 25th, 2007",AGP 8x,"128 MB, DDR, 128 bit",250 MHz,203 MHz,4 / 2 / 4 / 4,End-of-life
+815,Radeon X1550,ATI,RV515,2007,PCIe 1.0 x16,"256 MB, DDR2, 128 bit",600 MHz,400 MHz,4 / 2 / 4 / 4,End-of-life
+816,Radeon X1550,ATI,RV516,2007,PCIe 1.0 x16,"256 MB, DDR2, 128 bit",550 MHz,400 MHz,4 / 2 / 4 / 4,End-of-life
+817,Radeon X1550,ATI,RV505,2007,PCIe 1.0 x16,"128 MB, DDR2, 64 bit",500 MHz,333 MHz,4 / 2 / 4 / 4,End-of-life
+818,Radeon X1550 AGP,ATI,RV505,2007,AGP 8x,"256 MB, DDR2, 64 bit",600 MHz,330 MHz,4 / 2 / 4 / 4,End-of-life
+819,Radeon X1550 PCI,ATI,RV516,2007,PCI,"256 MB, DDR2, 64 bit",452 MHz,266 MHz,4 / 2 / 4 / 4,End-of-life
+820,Radeon X1600,ATI,RV516,2007,PCIe 1.0 x16,"512 MB, DDR2, 128 bit",635 MHz,400 MHz,4 / 2 / 4 / 4,End-of-life
+821,Radeon X1600 PRO AGP,ATI,RV530,"Oct 1st, 2007",AGP 8x,"256 MB, GDDR3, 128 bit",500 MHz,390 MHz,12 / 5 / 4 / 4,End-of-life
+822,Radeon X1600 SE,ATI,RV515,2007,PCIe 1.0 x16,"256 MB, DDR, 128 bit",635 MHz,250 MHz,4 / 2 / 4 / 4,End-of-life
+823,Radeon X1600 XT Dual,ATI,RV530,Never Released,PCIe 1.0 x16,"256 MB, GDDR3, 128 bit",590 MHz,690 MHz,12 / 5 / 4 / 4,End-of-life
+824,Radeon X1650,ATI,RV530,"Feb 1st, 2007",PCIe 1.0 x16,"256 MB, DDR2, 128 bit",500 MHz,400 MHz,12 / 5 / 4 / 4,End-of-life
+825,Radeon X1650,ATI,RV516,"Nov 20th, 2007",PCIe 1.0 x16,"256 MB, DDR2, 64 bit",635 MHz,400 MHz,4 / 2 / 4 / 4,End-of-life
+826,Radeon X1650 AGP,ATI,RV530,"Feb 1st, 2007",AGP 8x,"256 MB, DDR2, 128 bit",500 MHz,400 MHz,12 / 5 / 4 / 4,End-of-life
+827,Radeon X1650 GT,ATI,RV560,"May 1st, 2007",PCIe 1.0 x16,"128 MB, GDDR3, 128 bit",400 MHz,400 MHz,24 / 8 / 8 / 8,End-of-life
+828,Radeon X1650 GTO,ATI,RV530,"Dec 2nd, 2007",PCIe 1.0 x16,"256 MB, DDR2, 128 bit",587 MHz,392 MHz,12 / 5 / 4 / 4,End-of-life
+829,Radeon X1650 PRO,ATI,RV530,"Feb 1st, 2007",PCIe 1.0 x16,"256 MB, GDDR3, 128 bit",600 MHz,700 MHz,12 / 5 / 4 / 4,End-of-life
+830,Radeon X1650 SE,ATI,RV516,2007,PCIe 1.0 x16,"512 MB, DDR2, 128 bit",635 MHz,400 MHz,4 / 2 / 4 / 4,End-of-life
+831,Radeon X1650 SE,ATI,RV515,2007,PCIe 1.0 x16,"512 MB, DDR2, 128 bit",635 MHz,400 MHz,4 / 2 / 4 / 4,End-of-life
+832,Radeon X1700 FSC,ATI,RV535,"Nov 5th, 2007",PCIe 1.0 x16,"256 MB, GDDR3, 128 bit",587 MHz,695 MHz,12 / 5 / 4 / 4,End-of-life
+833,Radeon X1700 SE,ATI,RV560,"Nov 30th, 2007",PCIe 1.0 x16,"512 MB, DDR2, 128 bit",500 MHz,500 MHz,24 / 8 / 8 / 8,End-of-life
+834,Radeon X1950 GT,ATI,RV570,"Jan 29th, 2007",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",500 MHz,600 MHz,36 / 8 / 12 / 12,End-of-life
+835,Radeon X1950 GT AGP,ATI,RV570,"Feb 10th, 2007",AGP 8x,"256 MB, GDDR3, 256 bit",500 MHz,600 MHz,36 / 8 / 12 / 12,End-of-life
+836,Radeon X1950 PRO DUAL,ATI,RV570,"Jan 10th, 2007",PCIe 1.0 x16,"512 MB, GDDR3, 256 bit",575 MHz,690 MHz,36 / 8 / 12 / 12,End-of-life
+837,Radeon X1950 XTX Uber Edition,ATI,R580+,"Jan 19th, 2007",PCIe 1.0 x16,"512 MB, GDDR4, 256 bit",670 MHz,1050 MHz,48 / 8 / 16 / 16,End-of-life
+838,Radeon X550 XT,ATI,RV410,"Jan 24th, 2007",PCIe 1.0 x16,"128 MB, GDDR3, 128 bit",400 MHz,300 MHz,4 / 6 / 4 / 4,End-of-life
+839,Radeon X550 XTX,ATI,RV410,"Jan 24th, 2007",PCIe 1.0 x16,"128 MB, DDR, 64 bit",400 MHz,300 MHz,8 / 6 / 8 / 8,End-of-life
+840,Radeon X800 GT AGP,ATI,R420,"Nov 8th, 2007",AGP 8x,"256 MB, GDDR3, 256 bit",473 MHz,493 MHz,8 / 6 / 8 / 8,End-of-life
+841,Radeon X800 GTO,ATI,R423,"Dec 29th, 2007",PCIe 1.0 x16,"128 MB, DDR, 256 bit",400 MHz,350 MHz,12 / 6 / 12 / 12,End-of-life
+842,Radeon X800 GTO AGP,ATI,R420,"Nov 8th, 2007",AGP 8x,"256 MB, GDDR3, 256 bit",400 MHz,490 MHz,12 / 6 / 12 / 12,End-of-life
+843,Radeon Xpress 1100 IGP,ATI,RC410,"Oct 17th, 2007",PCIe 1.0 x16,System Shared,300 MHz,System Shared,2 / 2 / 2 / 2,End-of-life
+844,Radeon Xpress 1150 IGP,ATI,RS482,"Oct 17th, 2007",PCIe 1.0 x16,System Shared,400 MHz,System Shared,2 / 2 / 2 / 2,End-of-life
+845,Radeon Xpress 1200 IGP,ATI,RS690,"Feb 28th, 2007",PCIe 1.0 x16,System Shared,400 MHz,System Shared,4 / 2 / 4 / 4,End-of-life
+846,Radeon Xpress 1200 IGP,ATI,RS690,"Feb 28th, 2007",PCIe 1.0 x16,System Shared,400 MHz,System Shared,4 / 2 / 4 / 4,End-of-life
+847,Radeon Xpress 1200 Mobile IGP,ATI,RS600,"Feb 28th, 2007",PCIe 1.0 x16,System Shared,500 MHz,System Shared,4 / 2 / 4 / 4,End-of-life
+848,Radeon Xpress 1200 Mobile IGP,ATI,RS690,"Feb 28th, 2007",PCIe 1.0 x16,System Shared,400 MHz,System Shared,4 / 2 / 4 / 4,End-of-life
+849,Radeon Xpress 1250 IGP,ATI,RS690,"Feb 28th, 2007",PCIe 1.0 x16,System Shared,400 MHz,System Shared,4 / 2 / 4 / 4,End-of-life
+850,Radeon Xpress 1250 Mobile IGP,ATI,RS600,"Feb 28th, 2007",PCIe 1.0 x16,System Shared,500 MHz,System Shared,4 / 2 / 4 / 4,End-of-life
+851,Radeon Xpress 1250 Mobile IGP,ATI,RS690,"Feb 28th, 2007",PCIe 1.0 x16,System Shared,400 MHz,System Shared,4 / 2 / 4 / 4,End-of-life
+852,Radeon Xpress 1270 Mobile IGP,ATI,RS690,"Feb 28th, 2007",PCIe 1.0 x16,System Shared,400 MHz,System Shared,4 / 2 / 4 / 4,End-of-life
+853,Radeon Xpress 1270 Mobile IGP,ATI,RS690,"Feb 28th, 2007",PCIe 1.0 x16,System Shared,400 MHz,System Shared,4 / 2 / 4 / 4,End-of-life
+854,Xbox 360 GPU 80nm,ATI,Xenos Falcon,"Oct 27th, 2007",IGP,"512 MB, GDDR3, 128 bit",500 MHz,700 MHz,240 / 16 / 8,End-of-life
+855,All-In-Wonder X1900,ATI,R580,"Jan 13th, 2006",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",500 MHz,477 MHz,48 / 8 / 16 / 16,End-of-life
+856,FireMV 2200,ATI,RV370,2006,PCIe 1.0 x16,"128 MB, DDR, 64 bit",324 MHz,196 MHz,4 / 2 / 4 / 4,End-of-life
+857,FireMV 2200 PCI,ATI,RV280,2006,PCI,"64 MB, DDR, 64 bit",240 MHz,200 MHz,4 / 1 / 4 / 4,End-of-life
+858,Mobility FireGL V5200,ATI,M56,"Feb 1st, 2006",PCIe 1.0 x16,"256 MB, GDDR3, 128 bit",425 MHz,475 MHz,12 / 5 / 12 / 12,End-of-life
+859,Mobility Radeon X1300,ATI,M52,"Jan 19th, 2006",PCIe 1.0 x16,"64 MB, DDR, 64 bit",392 MHz,300 MHz,4 / 2 / 4 / 4,End-of-life
+860,Mobility Radeon X1350,ATI,M62,"Sep 18th, 2006",PCIe 1.0 x16,"128 MB, DDR2, 64 bit",419 MHz,392 MHz,4 / 2 / 4 / 4,End-of-life
+861,Mobility Radeon X1350,ATI,M62,"Sep 18th, 2006",PCIe 1.0 x16,"128 MB, DDR2, 64 bit",371 MHz,324 MHz,4 / 2 / 4 / 4,End-of-life
+862,Mobility Radeon X1400,ATI,M54,"Jan 19th, 2006",PCIe 1.0 x16,"128 MB, DDR2, 128 bit",445 MHz,250 MHz,4 / 2 / 4 / 4,End-of-life
+863,Mobility Radeon X1450,ATI,M64,"Sep 18th, 2006",PCIe 1.0 x16,"128 MB, DDR2, 128 bit",550 MHz,450 MHz,4 / 2 / 4 / 4,End-of-life
+864,Mobility Radeon X1600,ATI,M56,"Feb 1st, 2006",PCIe 1.0 x16,"256 MB, GDDR3, 128 bit",450 MHz,470 MHz,12 / 5 / 4 / 4,End-of-life
+865,Mobility Radeon X1700,ATI,M66,"Feb 1st, 2006",PCIe 1.0 x16,"256 MB, GDDR3, 128 bit",475 MHz,400 MHz,12 / 5 / 4 / 4,End-of-life
+866,Mobility Radeon X1800,ATI,M58,"Mar 1st, 2006",MXM-III,"256 MB, GDDR3, 256 bit",450 MHz,504 MHz,12 / 8 / 12 / 12,End-of-life
+867,Mobility Radeon X1800 XT,ATI,M58,"Mar 1st, 2006",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",540 MHz,675 MHz,16 / 8 / 16 / 16,End-of-life
+868,Radeon X1050,ATI,RV370,"Dec 7th, 2006",PCIe 1.0 x16,"128 MB, DDR2, 64 bit",400 MHz,333 MHz,4 / 2 / 4 / 4,End-of-life
+869,Radeon X1050 AGP,ATI,RV350,"Dec 7th, 2006",AGP 8x,"128 MB, DDR, 128 bit",250 MHz,200 MHz,4 / 2 / 4 / 4,End-of-life
+870,Radeon X1300 CE,ATI,RV505,"Oct 27th, 2006",PCIe 1.0 x16,"128 MB, DDR2, 64 bit",350 MHz,400 MHz,4 / 2 / 4 / 4,End-of-life
+871,Radeon X1300 PRO,ATI,RV516,"Nov 1st, 2006",PCIe 1.0 x16,"256 MB, DDR2, 128 bit",600 MHz,400 MHz,4 / 2 / 4 / 4,End-of-life
+872,Radeon X1300 XT,ATI,RV530,"Aug 12th, 2006",PCIe 1.0 x16,"256 MB, DDR2, 128 bit",500 MHz,400 MHz,12 / 5 / 4 / 4,End-of-life
+873,Radeon X1300 XT AGP,ATI,RV530,"Aug 12th, 2006",AGP 8x,"256 MB, GDDR3, 128 bit",500 MHz,400 MHz,12 / 5 / 4 / 4,End-of-life
+874,Radeon X1650 PRO,ATI,RV535,"Aug 23rd, 2006",PCIe 1.0 x16,"256 MB, GDDR3, 128 bit",600 MHz,700 MHz,12 / 5 / 4 / 4,End-of-life
+875,Radeon X1650 PRO AGP,ATI,RV535,"Oct 15th, 2006",AGP 8x,"256 MB, GDDR3, 128 bit",600 MHz,700 MHz,12 / 5 / 4 / 4,End-of-life
+876,Radeon X1650 XT,ATI,RV560,"Oct 30th, 2006",PCIe 1.0 x16,"256 MB, GDDR3, 128 bit",525 MHz,700 MHz,24 / 8 / 8 / 8,End-of-life
+877,Radeon X1650 XT AGP,ATI,RV560,"Oct 30th, 2006",AGP 8x,"512 MB, GDDR3, 128 bit",540 MHz,680 MHz,24 / 8 / 8 / 8,End-of-life
+878,Radeon X1650 XT Dual,ATI,RV560,"Oct 30th, 2006",PCIe 1.0 x16,"256 MB, GDDR3, 128 bit",525 MHz,700 MHz,24 / 8 / 8 / 8,End-of-life
+879,Radeon X1800 GTO,ATI,R520,"Mar 1st, 2006",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",500 MHz,495 MHz,12 / 8 / 12 / 12,End-of-life
+880,Radeon X1800 GTO2,ATI,R520,"Mar 1st, 2006",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",500 MHz,500 MHz,12 / 8 / 12 / 12,End-of-life
+881,Radeon X1900 CrossFire Edition,ATI,R580,"Jan 24th, 2006",PCIe 1.0 x16,"512 MB, GDDR3, 256 bit",625 MHz,725 MHz,48 / 8 / 16 / 16,End-of-life
+882,Radeon X1900 G5 Mac Edition,ATI,R580,"Nov 6th, 2006",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",575 MHz,600 MHz,36 / 8 / 12 / 12,End-of-life
+883,Radeon X1900 GT,ATI,R580,"May 1st, 2006",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",575 MHz,600 MHz,36 / 8 / 12 / 12,End-of-life
+884,Radeon X1900 XT,ATI,R580,"Jan 24th, 2006",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",625 MHz,725 MHz,48 / 8 / 16 / 16,End-of-life
+885,Radeon X1900 XTX,ATI,R580,"Jan 24th, 2006",PCIe 1.0 x16,"512 MB, GDDR3, 256 bit",650 MHz,775 MHz,48 / 8 / 16 / 16,End-of-life
+886,Radeon X1950 CrossFire Edition,ATI,R580+,"Sep 10th, 2006",PCIe 1.0 x16,"512 MB, GDDR4, 256 bit",650 MHz,1000 MHz,48 / 8 / 16 / 16,End-of-life
+887,Radeon X1950 PRO,ATI,RV570,"Oct 1st, 2006",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",575 MHz,690 MHz,36 / 8 / 12 / 12,End-of-life
+888,Radeon X1950 PRO AGP,ATI,RV570,"Oct 25th, 2006",AGP 8x,"512 MB, GDDR3, 256 bit",575 MHz,690 MHz,36 / 8 / 12 / 12,End-of-life
+889,Radeon X1950 XT,ATI,R580+,"Oct 17th, 2006",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",625 MHz,900 MHz,48 / 8 / 16 / 16,End-of-life
+890,Radeon X1950 XT AGP,ATI,R580+,"Oct 17th, 2006",AGP 8x,"256 MB, GDDR3, 256 bit",625 MHz,703 MHz,48 / 8 / 16 / 16,End-of-life
+891,Radeon X1950 XTX,ATI,R580+,"Oct 17th, 2006",PCIe 1.0 x16,"512 MB, GDDR4, 256 bit",650 MHz,1000 MHz,48 / 8 / 16 / 16,End-of-life
+892,Radeon X300 SE HyperMemory,ATI,RV370,"Oct 25th, 2006",PCIe 1.0 x16,"128 MB, DDR, 64 bit",325 MHz,300 MHz,4 / 2 / 4 / 4,End-of-life
+893,Radeon X850 CrossFire Edition,ATI,R480,"Sep 10th, 2006",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",520 MHz,540 MHz,16 / 6 / 16 / 16,End-of-life
+894,Radeon Xpress 1100 Mobile IGP,ATI,RS485,"May 23rd, 2006",PCIe 1.0 x16,System Shared,400 MHz,System Shared,2 / 2 / 2 / 2,End-of-life
+895,Radeon Xpress 1150 Mobile IGP,ATI,RS485,"May 23rd, 2006",PCIe 1.0 x16,System Shared,400 MHz,System Shared,2 / 2 / 2 / 2,End-of-life
+896,Wii GPU,ATI,Hollywood,"Nov 19th, 2006",IGP,"64 MB, GDDR3, 64 bit",243 MHz,243 MHz,4 / 1 / 4 / 4,End-of-life
+897,All-In-Wonder 2006 AGP Edition,ATI,RV350,"Apr 29th, 2005",AGP 8x,"256 MB, DDR, 128 bit",324 MHz,196 MHz,4 / 2 / 4 / 4,End-of-life
+898,All-In-Wonder 2006 PCIe Edition,ATI,RV515,"Dec 22nd, 2005",PCIe 1.0 x16,"256 MB, DDR2, 128 bit",450 MHz,400 MHz,4 / 2 / 4 / 4,End-of-life
+899,All-In-Wonder X1800 XL,ATI,R520,"Oct 27th, 2005",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",500 MHz,500 MHz,16 / 8 / 16 / 16,End-of-life
+900,All-In-Wonder X600 PRO,ATI,RV370,"Jul 1st, 2005",PCIe 1.0 x16,"256 MB, DDR, 128 bit",400 MHz,300 MHz,4 / 2 / 4 / 4,End-of-life
+901,All-In-Wonder X800 SE,ATI,R420,"Apr 27th, 2005",AGP 8x,"256 MB, GDDR3, 256 bit",425 MHz,400 MHz,8 / 6 / 8 / 8,End-of-life
+902,All-In-Wonder X800 VE,ATI,R420,"Apr 27th, 2005",AGP 8x,"256 MB, GDDR3, 256 bit",425 MHz,400 MHz,8 / 6 / 8 / 8,End-of-life
+903,All-In-Wonder X800 XL,ATI,R430,"Jan 21st, 2005",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",400 MHz,490 MHz,16 / 6 / 16 / 16,End-of-life
+904,FireGL V3300,ATI,RV515,"Oct 1st, 2005",PCIe 1.0 x16,"128 MB, DDR2, 64 bit",600 MHz,400 MHz,4 / 2 / 4 / 4,End-of-life
+905,FireGL V3350,ATI,RV515,"Oct 1st, 2005",PCIe 1.0 x16,"256 MB, DDR2, 64 bit",600 MHz,400 MHz,4 / 2 / 4 / 4,End-of-life
+906,FireGL V3400,ATI,RV530,"Oct 1st, 2005",PCIe 1.0 x16,"128 MB, GDDR3, 128 bit",500 MHz,500 MHz,12 / 5 / 4 / 4,End-of-life
+907,FireGL V5200,ATI,RV530,"Oct 1st, 2005",PCIe 1.0 x16,"128 MB, GDDR3, 128 bit",600 MHz,700 MHz,12 / 5 / 4 / 4,End-of-life
+908,FireGL V7200,ATI,R520,"Oct 1st, 2005",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",600 MHz,650 MHz,16 / 8 / 16 / 16,End-of-life
+909,FireGL V7300,ATI,R520,"Oct 1st, 2005",PCIe 1.0 x16,"512 MB, GDDR3, 256 bit",594 MHz,648 MHz,16 / 8 / 16 / 16,End-of-life
+910,FireGL V7350,ATI,R520,"Oct 1st, 2005",PCIe 1.0 x16,"1024 MB, GDDR3, 256 bit",600 MHz,650 MHz,16 / 8 / 16 / 16,End-of-life
+911,Mobility FireGL V5000,ATI,M26,"Feb 3rd, 2005",PCIe 1.0 x16,"128 MB, GDDR3, 128 bit",350 MHz,425 MHz,8 / 6 / 8 / 8,End-of-life
+912,Mobility Radeon X300,ATI,M22,"Nov 1st, 2005",PCIe 1.0 x16,"128 MB, DDR, 64 bit",350 MHz,250 MHz,4 / 2 / 4 / 4,End-of-life
+913,Mobility Radeon X300 IGP,ATI,RS480,2005,PCIe 1.0 x16,System Shared,300 MHz,System Shared,2 / 2 / 2 / 2,End-of-life
+914,Mobility Radeon X700,ATI,M26,"Mar 1st, 2005",PCIe 1.0 x16,"128 MB, DDR, 128 bit",350 MHz,300 MHz,8 / 6 / 8 / 4,End-of-life
+915,Mobility Radeon X700 XL,ATI,M26,"Mar 1st, 2005",PCIe 1.0 x16,"128 MB, DDR, 128 bit",350 MHz,330 MHz,8 / 6 / 8 / 4,End-of-life
+916,Mobility Radeon X800 XT,ATI,M28,"Jun 1st, 2005",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",480 MHz,550 MHz,16 / 6 / 16 / 16,End-of-life
+917,Radeon 9550 XT,ATI,RV350,"May 4th, 2005",AGP 8x,"128 MB, DDR, 128 bit",425 MHz,325 MHz,4 / 2 / 4 / 4,End-of-life
+918,Radeon X1300,ATI,RV516,"Oct 5th, 2005",PCIe 1.0 x16,"128 MB, DDR, 128 bit",450 MHz,250 MHz,4 / 2 / 4 / 4,End-of-life
+919,Radeon X1300,ATI,RV515,"Dec 1st, 2005",PCIe 1.0 x16,"256 MB, DDR, 128 bit",450 MHz,250 MHz,4 / 2 / 4 / 4,End-of-life
+920,Radeon X1300 AGP,ATI,RV515,"Dec 1st, 2005",AGP 8x,"256 MB, DDR, 128 bit",450 MHz,250 MHz,4 / 2 / 4 / 4,End-of-life
+921,Radeon X1300 LE,ATI,RV515,"Oct 5th, 2005",PCIe 1.0 x16,"64 MB, DDR, 64 bit",450 MHz,250 MHz,4 / 2 / 4 / 4,End-of-life
+922,Radeon X1300 PCI,ATI,RV515,"Oct 5th, 2005",PCI,"128 MB, DDR, 128 bit",450 MHz,250 MHz,4 / 2 / 4 / 4,End-of-life
+923,Radeon X1300 PCI,ATI,RV516,"Oct 5th, 2005",PCI,"128 MB, DDR2, 64 bit",450 MHz,250 MHz,4 / 2 / 4 / 4,End-of-life
+924,Radeon X1300 PRO,ATI,RV515,"Oct 1st, 2005",PCIe 1.0 x16,"128 MB, DDR2, 64 bit",600 MHz,400 MHz,4 / 2 / 4 / 4,End-of-life
+925,Radeon X1300 PRO AGP,ATI,RV515,"Oct 1st, 2005",AGP 8x,"256 MB, DDR, 128 bit",600 MHz,400 MHz,4 / 2 / 4 / 4,End-of-life
+926,Radeon X1600 PRO,ATI,RV530,"Oct 1st, 2005",PCIe 1.0 x16,"256 MB, GDDR3, 128 bit",500 MHz,390 MHz,12 / 5 / 4 / 4,End-of-life
+927,Radeon X1600 XT,ATI,RV530,"Oct 1st, 2005",PCIe 1.0 x16,"256 MB, GDDR3, 128 bit",590 MHz,690 MHz,12 / 5 / 4 / 4,End-of-life
+928,Radeon X1800 CrossFire Edition,ATI,R520,"Dec 20th, 2005",PCIe 1.0 x16,"512 MB, GDDR3, 256 bit",600 MHz,700 MHz,16 / 8 / 16 / 16,End-of-life
+929,Radeon X1800 XL,ATI,R520,"Oct 1st, 2005",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",500 MHz,500 MHz,16 / 8 / 16 / 16,End-of-life
+930,Radeon X1800 XT,ATI,R520,"Oct 1st, 2005",PCIe 1.0 x16,"512 MB, GDDR3, 256 bit",600 MHz,700 MHz,16 / 8 / 16 / 16,End-of-life
+931,Radeon X550,ATI,RV370,"Jul 1st, 2005",PCIe 1.0 x16,"128 MB, DDR, 128 bit",400 MHz,250 MHz,4 / 2 / 4 / 4,End-of-life
+932,Radeon X550 HyperMemory,ATI,RV370,"Jul 1st, 2005",PCIe 1.0 x16,"256 MB, DDR2, 128 bit",400 MHz,250 MHz,4 / 2 / 4 / 4,End-of-life
+933,Radeon X700 SE,ATI,RV410,"Apr 1st, 2005",PCIe 1.0 x16,"128 MB, DDR, 64 bit",400 MHz,250 MHz,4 / 6 / 4 / 4,End-of-life
+934,Radeon X740 XL,ATI,RV410,"Mar 7th, 2005",PCIe 1.0 x16,"128 MB, GDDR3, 128 bit",425 MHz,450 MHz,8 / 6 / 8 / 8,End-of-life
+935,Radeon X800 CrossFire Edition,ATI,R430,"Oct 28th, 2005",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",500 MHz,500 MHz,16 / 6 / 16 / 16,End-of-life
+936,Radeon X800 GT,ATI,R480,"Nov 1st, 2005",PCIe 1.0 x16,"128 MB, DDR, 256 bit",475 MHz,350 MHz,12 / 6 / 12 / 12,End-of-life
+937,Radeon X800 GT,ATI,R430,"Nov 1st, 2005",PCIe 1.0 x16,"128 MB, DDR, 256 bit",475 MHz,493 MHz,8 / 6 / 8 / 8,End-of-life
+938,Radeon X800 GT AGP,ATI,R481,"Nov 1st, 2005",AGP 8x,"256 MB, GDDR3, 256 bit",475 MHz,493 MHz,12 / 6 / 12 / 12,End-of-life
+939,Radeon X800 GTO,ATI,R480,"Nov 1st, 2005",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",400 MHz,400 MHz,12 / 6 / 12 / 12,End-of-life
+940,Radeon X800 GTO AGP,ATI,R481,"Oct 1st, 2005",AGP 8x,"256 MB, GDDR3, 256 bit",400 MHz,490 MHz,12 / 6 / 12 / 12,End-of-life
+941,Radeon X800 GTO AGP,ATI,R430,"Oct 1st, 2005",AGP 8x,"256 MB, GDDR3, 256 bit",400 MHz,490 MHz,12 / 6 / 12 / 12,End-of-life
+942,Radeon X800 GTO2,ATI,R480,"Sep 15th, 2005",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",400 MHz,490 MHz,16 / 6 / 16 / 16,End-of-life
+943,Radeon X850 PRO AGP,ATI,R481,"Sep 4th, 2005",AGP 8x,"256 MB, GDDR3, 256 bit",500 MHz,500 MHz,12 / 6 / 12 / 12,End-of-life
+944,Radeon X850 XT AGP,ATI,R481,"Feb 28th, 2005",AGP 8x,"256 MB, GDDR3, 256 bit",520 MHz,540 MHz,16 / 6 / 16 / 16,End-of-life
+945,Radeon X850 XT Platinum AGP,ATI,R481,"Feb 28th, 2005",AGP 8x,"256 MB, GDDR3, 256 bit",540 MHz,590 MHz,16 / 6 / 16 / 16,End-of-life
+946,Radeon Xpress  200M IGP,ATI,RS400,2005,PCIe 1.0 x16,System Shared,300 MHz,System Shared,2 / 2 / 2 / 2,End-of-life
+947,Radeon Xpress 1100 Mobile IGP,ATI,RC410,2005,PCIe 1.0 x16,System Shared,336 MHz,System Shared,2 / 2 / 2 / 2,End-of-life
+948,Radeon Xpress 1100 Mobile IGP,ATI,RS482,2005,PCIe 1.0 x16,System Shared,300 MHz,System Shared,2 / 2 / 2 / 2,End-of-life
+949,Radeon Xpress 200M IGP,ATI,RS480,2005,PCIe 1.0 x16,System Shared,300 MHz,System Shared,2 / 2 / 2 / 2,End-of-life
+950,Radeon Xpress 200M IGP,ATI,RC410,2005,PCIe 1.0 x16,System Shared,336 MHz,System Shared,2 / 2 / 2 / 2,End-of-life
+951,Radeon Xpress 200M IGP,ATI,RS482,2005,PCIe 1.0 x16,System Shared,300 MHz,System Shared,2 / 2 / 2 / 2,End-of-life
+952,Radeon Xpress 200M IGP,ATI,RS485,2005,PCIe 1.0 x16,System Shared,300 MHz,System Shared,2 / 2 / 2 / 2,End-of-life
+953,Xbox 360 GPU 90nm,ATI,Xenos Xenon,"Nov 22nd, 2005",IGP,"512 MB, GDDR3, 128 bit",500 MHz,700 MHz,240 / 16 / 8,End-of-life
+954,All-In-Wonder 9200,ATI,RV280,"Jan 26th, 2004",AGP 8x,"128 MB, DDR, 128 bit",250 MHz,200 MHz,4 / 1 / 4 / 4,End-of-life
+955,All-In-Wonder 9200 SE,ATI,RV280,"Jan 26th, 2004",AGP 8x,"128 MB, DDR, 64 bit",250 MHz,164 MHz,4 / 1 / 4 / 4,End-of-life
+956,All-In-Wonder 9600 XT,ATI,RV360,"Feb 6th, 2004",AGP 8x,"128 MB, DDR, 128 bit",527 MHz,324 MHz,4 / 2 / 4 / 4,End-of-life
+957,All-In-Wonder X800 GT,ATI,R430,"Sep 21st, 2004",PCIe 1.0 x16,"128 MB, GDDR3, 128 bit",398 MHz,492 MHz,8 / 6 / 8 / 8,End-of-life
+958,All-In-Wonder X800 XT,ATI,R420,"Sep 21st, 2004",AGP 8x,"256 MB, GDDR3, 256 bit",500 MHz,500 MHz,16 / 6 / 16 / 16,End-of-life
+959,FireGL V3100,ATI,RV370,"Sep 1st, 2004",PCIe 1.0 x16,"128 MB, DDR, 64 bit",391 MHz,196 MHz,4 / 2 / 4 / 4,End-of-life
+960,FireGL V3200,ATI,RV380,"Sep 1st, 2004",PCIe 1.0 x16,"128 MB, DDR, 128 bit",500 MHz,350 MHz,4 / 2 / 4 / 4,End-of-life
+961,FireGL V5000,ATI,RV410,"Sep 1st, 2004",PCIe 1.0 x16,"128 MB, GDDR3, 128 bit",425 MHz,430 MHz,8 / 6 / 8 / 8,End-of-life
+962,FireGL V5100,ATI,R423,"May 1st, 2004",PCIe 1.0 x16,"128 MB, DDR, 256 bit",450 MHz,350 MHz,12 / 6 / 12 / 12,End-of-life
+963,FireGL V7100,ATI,R423,"Dec 1st, 2004",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",493 MHz,475 MHz,16 / 6 / 16 / 16,End-of-life
+964,FireGL X3-256,ATI,R420,"Aug 3rd, 2004",AGP 8x,"256 MB, GDDR3, 256 bit",491 MHz,454 MHz,12 / 6 / 12 / 12,End-of-life
+965,Mobility FireGL T2e,ATI,M11,"Aug 1st, 2004",AGP 4x,"128 MB, DDR, 128 bit",450 MHz,225 MHz,4 / 2 / 4 / 4,End-of-life
+966,Mobility FireGL V3100,ATI,M22,"Jun 1st, 2004",PCIe 1.0 x16,"128 MB, DDR, 128 bit",350 MHz,200 MHz,4 / 2 / 4 / 4,End-of-life
+967,Mobility FireGL V3200,ATI,M24,"Jun 1st, 2004",PCIe 1.0 x16,"128 MB, DDR2, 128 bit",400 MHz,250 MHz,4 / 2 / 4 / 4,End-of-life
+968,Mobility Radeon 7000,ATI,M6,2004,AGP 4x,"16 MB, DDR, 32 bit",144 MHz,139 MHz,1 / 0 / 3 / 1,End-of-life
+969,Mobility Radeon 9500,ATI,M10,"Jun 1st, 2004",AGP 4x,"128 MB, DDR, 64 bit",230 MHz,190 MHz,4 / 2 / 4 / 4,End-of-life
+970,Mobility Radeon 9550,ATI,M12,"Jun 1st, 2004",AGP 4x,"64 MB, DDR, 64 bit",250 MHz,243 MHz,4 / 2 / 4 / 4,End-of-life
+971,Mobility Radeon 9600,ATI,M10,"Jun 1st, 2004",AGP 8x,"128 MB, DDR, 64 bit",300 MHz,200 MHz,4 / 2 / 4 / 4,End-of-life
+972,Mobility Radeon 9600 PRO,ATI,M10,"Jun 1st, 2004",AGP 8x,"128 MB, DDR, 128 bit",333 MHz,200 MHz,4 / 2 / 4 / 4,End-of-life
+973,Mobility Radeon 9600 PRO Turbo,ATI,M10,"Feb 13th, 2004",AGP 8x,"128 MB, DDR, 128 bit",337 MHz,243 MHz,4 / 2 / 4 / 4,End-of-life
+974,Mobility Radeon 9700,ATI,M11,"Jun 1st, 2004",AGP 8x,"64 MB, DDR, 128 bit",450 MHz,275 MHz,4 / 2 / 4 / 4,End-of-life
+975,Mobility Radeon 9700 SE,ATI,M10,"Jun 1st, 2004",AGP 4x,"128 MB, DDR, 64 bit",250 MHz,200 MHz,4 / 2 / 4 / 4,End-of-life
+976,Mobility Radeon 9800,ATI,M18,"Jul 1st, 2004",AGP 8x,"256 MB, DDR, 256 bit",350 MHz,300 MHz,8 / 4 / 8 / 8,End-of-life
+977,Mobility Radeon X600,ATI,M24,"Jun 1st, 2004",PCIe 1.0 x16,"128 MB, DDR, 128 bit",400 MHz,250 MHz,4 / 2 / 4 / 4,End-of-life
+978,Mobility Radeon X600 SE,ATI,M24,"Jun 1st, 2004",PCIe 1.0 x16,"64 MB, DDR, 128 bit",400 MHz,250 MHz,4 / 2 / 4 / 4,End-of-life
+979,Mobility Radeon X800,ATI,M28,"Nov 1st, 2004",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",400 MHz,400 MHz,12 / 6 / 12 / 12,End-of-life
+980,Radeon 7000 Mac Edition,ATI,RV100,"Mar 14th, 2004",AGP 4x,"32 MB, DDR, 64 bit",183 MHz,183 MHz,1 / 0 / 3 / 1,End-of-life
+981,Radeon 7000 Mac Edition PCI,ATI,RV100,"Mar 14th, 2004",PCI,"32 MB, DDR, 64 bit",183 MHz,183 MHz,1 / 0 / 3 / 1,End-of-life
+982,Radeon 9000 PRO Mac Edition,ATI,RV250,"Mar 14th, 2004",AGP 4x,"64 MB, DDR, 128 bit",275 MHz,275 MHz,4 / 1 / 4 / 4,End-of-life
+983,Radeon 9250,ATI,RV280,"Mar 1st, 2004",AGP 8x,"64 MB, DDR, 64 bit",240 MHz,200 MHz,4 / 1 / 4 / 4,End-of-life
+984,Radeon 9250 PCI,ATI,RV280,"Mar 1st, 2004",PCI,"128 MB, DDR, 64 bit",240 MHz,200 MHz,4 / 1 / 4 / 4,End-of-life
+985,Radeon 9800 PRO Mac Edition,ATI,R360,"Mar 4th, 2004",AGP Pro 8x,"128 MB, DDR, 256 bit",378 MHz,338 MHz,8 / 4 / 8 / 8,End-of-life
+986,Radeon 9800 XT Mac Edition,ATI,R360,"Mar 14th, 2004",AGP Pro 8x,"256 MB, DDR, 256 bit",412 MHz,365 MHz,8 / 4 / 8 / 8,End-of-life
+987,Radeon X300,ATI,RV370,"Sep 1st, 2004",PCIe 1.0 x16,"64 MB, DDR, 128 bit",375 MHz,200 MHz,4 / 2 / 4 / 4,End-of-life
+988,Radeon X300 LE,ATI,RV370,"Sep 1st, 2004",PCIe 1.0 x16,"64 MB, DDR, 128 bit",325 MHz,200 MHz,4 / 2 / 4 / 4,End-of-life
+989,Radeon X300 SE,ATI,RV370,"Sep 1st, 2004",PCIe 1.0 x16,"64 MB, DDR, 64 bit",325 MHz,200 MHz,4 / 2 / 4 / 4,End-of-life
+990,Radeon X600,ATI,RV370,"Sep 1st, 2004",PCIe 1.0 x16,"256 MB, DDR, 128 bit",400 MHz,250 MHz,4 / 2 / 4 / 4,End-of-life
+991,Radeon X600 PRO,ATI,RV370,"Sep 1st, 2004",PCIe 1.0 x16,"128 MB, DDR, 128 bit",400 MHz,300 MHz,4 / 2 / 4 / 4,End-of-life
+992,Radeon X600 PRO,ATI,RV380,"Sep 1st, 2004",PCIe 1.0 x16,"128 MB, DDR, 128 bit",400 MHz,300 MHz,4 / 2 / 4 / 4,End-of-life
+993,Radeon X600 SE,ATI,RV370,"Sep 1st, 2004",PCIe 1.0 x16,"128 MB, DDR, 64 bit",325 MHz,250 MHz,4 / 2 / 4 / 4,End-of-life
+994,Radeon X600 XT,ATI,RV380,"Sep 1st, 2004",PCIe 1.0 x16,"128 MB, DDR, 128 bit",500 MHz,370 MHz,4 / 2 / 4 / 4,End-of-life
+995,Radeon X700,ATI,RV410,"Sep 1st, 2004",PCIe 1.0 x16,"128 MB, DDR, 128 bit",400 MHz,250 MHz,8 / 6 / 8 / 8,End-of-life
+996,Radeon X700 AGP,ATI,RV410,"Sep 1st, 2004",AGP 8x,"128 MB, DDR, 128 bit",400 MHz,250 MHz,8 / 6 / 8 / 8,End-of-life
+997,Radeon X700 LE,ATI,RV410,"Dec 21st, 2004",PCIe 1.0 x16,"128 MB, DDR, 128 bit",400 MHz,350 MHz,8 / 6 / 8 / 8,End-of-life
+998,Radeon X700 PRO,ATI,RV410,"Sep 1st, 2004",PCIe 1.0 x16,"128 MB, GDDR3, 128 bit",425 MHz,430 MHz,8 / 6 / 8 / 8,End-of-life
+999,Radeon X700 PRO AGP,ATI,RV410,"Sep 1st, 2004",AGP 8x,"128 MB, DDR, 128 bit",425 MHz,472 MHz,8 / 6 / 8 / 8,End-of-life
+1000,Radeon X700 XT,ATI,RV410,"Sep 1st, 2004",PCIe 1.0 x16,"128 MB, GDDR3, 128 bit",475 MHz,525 MHz,8 / 6 / 8 / 8,End-of-life
+1001,Radeon X800,ATI,R430,"Dec 1st, 2004",PCIe 1.0 x16,"256 MB, DDR, 256 bit",400 MHz,350 MHz,12 / 6 / 12 / 12,End-of-life
+1002,Radeon X800 PRO,ATI,R423,"May 1st, 2004",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",475 MHz,450 MHz,12 / 6 / 12 / 12,End-of-life
+1003,Radeon X800 PRO AGP,ATI,R420,"May 1st, 2004",AGP 8x,"256 MB, GDDR3, 256 bit",475 MHz,450 MHz,12 / 6 / 12 / 12,End-of-life
+1004,Radeon X800 SE,ATI,R423,"Oct 4th, 2004",PCIe 1.0 x16,"128 MB, DDR, 256 bit",425 MHz,350 MHz,8 / 6 / 8 / 8,End-of-life
+1005,Radeon X800 SE AGP,ATI,R420,"Sep 1st, 2004",AGP 8x,"256 MB, DDR, 256 bit",450 MHz,400 MHz,8 / 6 / 8 / 8,End-of-life
+1006,Radeon X800 VE AGP,ATI,R420,"Sep 1st, 2004",AGP 8x,"256 MB, GDDR3, 256 bit",425 MHz,398 MHz,16 / 6 / 16 / 16,End-of-life
+1007,Radeon X800 XL,ATI,R430,"Dec 1st, 2004",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",400 MHz,490 MHz,16 / 6 / 16 / 16,End-of-life
+1008,Radeon X800 XL AGP,ATI,R430,"May 1st, 2004",AGP 8x,"256 MB, GDDR3, 256 bit",400 MHz,500 MHz,16 / 6 / 16 / 16,End-of-life
+1009,Radeon X800 XT,ATI,R423,"Dec 1st, 2004",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",500 MHz,500 MHz,16 / 6 / 16 / 16,End-of-life
+1010,Radeon X800 XT AGP,ATI,R420,"Mar 1st, 2004",AGP 8x,"256 MB, GDDR3, 256 bit",500 MHz,500 MHz,16 / 6 / 16 / 16,End-of-life
+1011,Radeon X800 XT Mac Edition,ATI,R423,"Dec 1st, 2004",AGP Pro 8x,"256 MB, GDDR3, 256 bit",475 MHz,500 MHz,16 / 6 / 16 / 16,End-of-life
+1012,Radeon X800 XT Platinum,ATI,R423,"Mar 1st, 2004",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",520 MHz,560 MHz,16 / 6 / 16 / 16,End-of-life
+1013,Radeon X800 XT Platinum AGP,ATI,R420,"May 1st, 2004",AGP 8x,"256 MB, GDDR3, 256 bit",520 MHz,560 MHz,16 / 6 / 16 / 16,End-of-life
+1014,Radeon X850 PRO,ATI,R480,"Dec 1st, 2004",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",507 MHz,520 MHz,12 / 6 / 12 / 12,End-of-life
+1015,Radeon X850 XT,ATI,R480,"Dec 1st, 2004",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",520 MHz,540 MHz,16 / 6 / 16 / 16,End-of-life
+1016,Radeon X850 XT Platinum,ATI,R480,"Dec 21st, 2004",PCIe 1.0 x16,"256 MB, GDDR3, 256 bit",540 MHz,590 MHz,16 / 6 / 16 / 16,End-of-life
+1017,Radeon Xpress 200 IGP,ATI,RC410,"Nov 8th, 2004",PCI,System Shared,300 MHz,System Shared,2 / 2 / 2 / 2,End-of-life
+1018,Radeon Xpress 200 IGP,ATI,RS480,"Nov 8th, 2004",PCIe 1.0 x16,System Shared,300 MHz,System Shared,4 / 2 / 4 / 4,End-of-life
+1019,All-In-Wonder 9000 PRO,ATI,RV250,"Mar 31st, 2003",AGP 8x,"64 MB, DDR, 128 bit",275 MHz,270 MHz,4 / 1 / 4 / 4,End-of-life
+1020,All-In-Wonder 9600,ATI,RV350,"Dec 3rd, 2003",AGP 8x,"128 MB, DDR, 128 bit",324 MHz,196 MHz,4 / 2 / 4 / 4,End-of-life
+1021,All-In-Wonder 9600 PRO,ATI,RV350,"Apr 1st, 2003",AGP 8x,"128 MB, DDR, 128 bit",398 MHz,324 MHz,4 / 2 / 4 / 4,End-of-life
+1022,All-In-Wonder 9700 PRO,ATI,R300,"Jan 22nd, 2003",AGP 8x,"128 MB, DDR, 256 bit",325 MHz,310 MHz,8 / 4 / 8 / 8,End-of-life
+1023,All-In-Wonder 9800 PRO,ATI,R350,"Jun 16th, 2003",AGP 8x,"128 MB, DDR, 256 bit",378 MHz,338 MHz,8 / 4 / 8 / 8,End-of-life
+1024,All-In-Wonder 9800 SE,ATI,R350,"Sep 10th, 2003",AGP 8x,"128 MB, DDR, 128 bit",378 MHz,297 MHz,4 / 4 / 4 / 4,End-of-life
+1025,FireGL 9600 T2-128,ATI,RV350,"Oct 1st, 2003",AGP 8x,"128 MB, DDR, 128 bit",398 MHz,297 MHz,4 / 2 / 4 / 4,End-of-life
+1026,FireGL 9600 T2-64S,ATI,RV350,"Oct 1st, 2003",AGP 8x,"64 MB, DDR, 128 bit",324 MHz,203 MHz,4 / 2 / 4 / 4,End-of-life
+1027,FireGL 9800 X2-256,ATI,R360,"Mar 1st, 2003",AGP 8x,"256 MB, DDR2, 256 bit",380 MHz,350 MHz,8 / 4 / 8 / 8,End-of-life
+1028,FireGL 9800 X2-256T,ATI,R360,"Oct 1st, 2003",AGP 8x,"256 MB, DDR2, 256 bit",412 MHz,344 MHz,8 / 4 / 8 / 8,End-of-life
+1029,Mobility FireGL T2,ATI,M10,"Nov 1st, 2003",AGP 4x,"128 MB, DDR, 128 bit",320 MHz,200 MHz,4 / 2 / 4 / 4,End-of-life
+1030,Mobility Radeon,ATI,M6,2003,AGP 4x,"16 MB, DDR, 64 bit",144 MHz,144 MHz,1 / 0 / 3 / 1,End-of-life
+1031,Mobility Radeon,ATI,M6,2003,AGP 4x,"16 MB, DDR, 64 bit",144 MHz,144 MHz,1 / 0 / 3 / 1,End-of-life
+1032,Mobility Radeon 7000 IGP,ATI,RS250,"Mar 1st, 2003",AGP 4x,System Shared,183 MHz,System Shared,2 / 0 / 3 / 1,End-of-life
+1033,Mobility Radeon 9000 IGP,ATI,RC300,"May 1st, 2003",AGP 4x,System Shared,300 MHz,System Shared,2 / 1 / 2 / 2,End-of-life
+1034,Mobility Radeon 9000 IGP,ATI,RS300,"May 1st, 2003",AGP 8x,System Shared,300 MHz,System Shared,2 / 1 / 2 / 2,End-of-life
+1035,Mobility Radeon 9000 IGP,ATI,RS350,"May 1st, 2003",AGP 4x,System Shared,222 MHz,System Shared,2 / 0 / 2 / 2,End-of-life
+1036,Mobility Radeon 9100 IGP,ATI,RS300,"Jun 23rd, 2003",AGP 4x,System Shared,300 MHz,System Shared,2 / 1 / 2 / 2,End-of-life
+1037,Mobility Radeon 9100 PRO IGP,ATI,RS350,"Jun 23rd, 2003",AGP 4x,System Shared,300 MHz,System Shared,2 / 0 / 2 / 2,End-of-life
+1038,Mobility Radeon 9200,ATI,M9,"Mar 1st, 2003",AGP 4x,"32 MB, DDR, 64 bit",250 MHz,200 MHz,4 / 1 / 4 / 4,End-of-life
+1039,Mobility Radeon 9200,ATI,M9+,"Mar 1st, 2003",AGP 8x,"32 MB, DDR, 256 bit",200 MHz,230 MHz,4 / 1 / 4 / 4,End-of-life
+1040,Radeon 9100,ATI,R200,"Apr 1st, 2003",AGP 4x,"64 MB, DDR, 128 bit",250 MHz,250 MHz,4 / 2 / 8 / 4,End-of-life
+1041,Radeon 9100 PCI,ATI,R200,"Apr 1st, 2003",PCI,"64 MB, DDR, 128 bit",250 MHz,250 MHz,4 / 2 / 8 / 4,End-of-life
+1042,Radeon 9200,ATI,RV280,"May 1st, 2003",AGP 8x,"128 MB, DDR, 128 bit",250 MHz,200 MHz,4 / 1 / 4 / 4,End-of-life
+1043,Radeon 9200 LE,ATI,RV280,"May 1st, 2003",AGP 8x,"64 MB, DDR, 128 bit",250 MHz,200 MHz,4 / 1 / 4 / 4,End-of-life
+1044,Radeon 9200 PCI,ATI,RV280,"May 1st, 2003",PCI,"128 MB, DDR, 128 bit",250 MHz,200 MHz,4 / 1 / 4 / 4,End-of-life
+1045,Radeon 9200 PRO,ATI,RV280,"May 1st, 2003",AGP 8x,"128 MB, DDR, 128 bit",240 MHz,166 MHz,4 / 1 / 4 / 4,End-of-life
+1046,Radeon 9200 SE,ATI,RV280,"Mar 1st, 2003",AGP 8x,"64 MB, DDR, 64 bit",200 MHz,166 MHz,4 / 1 / 4 / 4,End-of-life
+1047,Radeon 9200 SE PCI,ATI,RV280,"Mar 1st, 2003",PCI,"64 MB, DDR, 64 bit",200 MHz,166 MHz,4 / 1 / 4 / 4,End-of-life
+1048,Radeon 9500,ATI,R300,"Mar 1st, 2003",AGP 8x,"64 MB, DDR, 256 bit",275 MHz,270 MHz,4 / 4 / 4 / 4,End-of-life
+1049,Radeon 9550,ATI,RV350,"Oct 1st, 2003",AGP 8x,"64 MB, DDR, 128 bit",250 MHz,200 MHz,4 / 2 / 4 / 4,End-of-life
+1050,Radeon 9550 SE,ATI,RV350,"Mar 1st, 2003",AGP 8x,"64 MB, DDR, 64 bit",250 MHz,200 MHz,4 / 2 / 4 / 4,End-of-life
+1051,Radeon 9600,ATI,RV350,"Oct 1st, 2003",AGP 8x,"64 MB, DDR, 128 bit",324 MHz,189 MHz,4 / 2 / 4 / 4,End-of-life
+1052,Radeon 9600 PRO,ATI,RV350,"Oct 1st, 2003",AGP 8x,"128 MB, DDR, 128 bit",400 MHz,300 MHz,4 / 2 / 4 / 4,End-of-life
+1053,Radeon 9600 SE,ATI,RV350,"Oct 1st, 2003",AGP 8x,"64 MB, DDR, 64 bit",325 MHz,200 MHz,4 / 2 / 4 / 4,End-of-life
+1054,Radeon 9600 TX,ATI,R300,"Oct 7th, 2003",AGP 8x,"128 MB, DDR, 128 bit",297 MHz,270 MHz,8 / 4 / 8 / 8,End-of-life
+1055,Radeon 9600 XT,ATI,RV360,"Oct 1st, 2003",AGP 8x,"128 MB, DDR, 128 bit",500 MHz,300 MHz,4 / 2 / 4 / 4,End-of-life
+1056,Radeon 9800,ATI,R350,"Mar 1st, 2003",AGP 8x,"128 MB, DDR, 256 bit",325 MHz,290 MHz,8 / 4 / 8 / 8,End-of-life
+1057,Radeon 9800 PRO,ATI,R350,"Mar 1st, 2003",AGP 8x,"128 MB, DDR2, 256 bit",380 MHz,340 MHz,8 / 4 / 8 / 8,End-of-life
+1058,Radeon 9800 PRO,ATI,R360,"Oct 1st, 2003",AGP 8x,"256 MB, DDR, 256 bit",380 MHz,340 MHz,8 / 4 / 8 / 8,End-of-life
+1059,Radeon 9800 PRO MAXX,ATI,R350,Unknown,AGP 8x,"128 MB, DDR, 256 bit",380 MHz,340 MHz,8 / 4 / 8 / 8,End-of-life
+1060,Radeon 9800 SE,ATI,R350,"Mar 1st, 2003",AGP 8x,"128 MB, DDR, 128 bit",331 MHz,290 MHz,4 / 4 / 4 / 4,End-of-life
+1061,Radeon 9800 SE,ATI,R350,"Mar 1st, 2003",AGP 8x,"128 MB, DDR, 256 bit",378 MHz,297 MHz,4 / 4 / 4 / 4,End-of-life
+1062,Radeon 9800 XT,ATI,R360,"Oct 1st, 2003",AGP 8x,"256 MB, DDR, 256 bit",412 MHz,365 MHz,8 / 4 / 8 / 8,End-of-life
+1063,Radeon 9800 XXL,ATI,R360,"Oct 1st, 2003",AGP 8x,"128 MB, DDR, 256 bit",390 MHz,338 MHz,8 / 4 / 8 / 8,End-of-life
+1064,All-In-Wonder 9500,ATI,R300,"Jul 1st, 2002",AGP 8x,"128 MB, DDR, 128 bit",277 MHz,270 MHz,4 / 4 / 4 / 4,End-of-life
+1065,All-In-Wonder Radeon 7500,ATI,RV200,"Apr 16th, 2002",AGP 8x,"64 MB, DDR, 128 bit",260 MHz,180 MHz,2 / 0 / 6 / 2,End-of-life
+1066,All-In-Wonder Radeon 7500 VE,ATI,RV200,"Apr 16th, 2002",PCI,"64 MB, DDR, 128 bit",260 MHz,250 MHz,2 / 0 / 6 / 2,End-of-life
+1067,FireGL 9500 Z1-128,ATI,R300,"Oct 1st, 2002",AGP 8x,"128 MB, DDR, 256 bit",325 MHz,310 MHz,4 / 4 / 4 / 4,End-of-life
+1068,FireGL 9700 X1-128,ATI,R300,"Jul 23rd, 2002",AGP 8x,"128 MB, DDR, 256 bit",325 MHz,310 MHz,8 / 4 / 8 / 8,End-of-life
+1069,FireGL 9700 X1-256,ATI,R300,"Jul 23rd, 2002",AGP 8x,"256 MB, DDR, 256 bit",325 MHz,310 MHz,8 / 4 / 8 / 8,End-of-life
+1070,FireGL 9700 X1-256p,ATI,R300,"Jul 23rd, 2002",AGP Pro 8x,"256 MB, DDR, 256 bit",324 MHz,276 MHz,8 / 4 / 8 / 8,End-of-life
+1071,Mobility FireGL 9000,ATI,M9,2002,AGP 4x,"64 MB, DDR, 128 bit",250 MHz,200 MHz,4 / 1 / 4 / 4,End-of-life
+1072,Mobility Radeon 9000,ATI,M9,"Sep 1st, 2002",AGP 4x,"64 MB, DDR, 64 bit",240 MHz,200 MHz,4 / 1 / 4 / 4,End-of-life
+1073,Mobility Radeon 9000,ATI,M9,"Sep 1st, 2002",AGP 4x,"32 MB, DDR, 64 bit",240 MHz,200 MHz,4 / 1 / 4 / 4,End-of-life
+1074,Mobility Radeon 9000,ATI,M9,"Sep 1st, 2002",AGP 4x,"64 MB, DDR, 64 bit",240 MHz,200 MHz,4 / 1 / 4 / 4,End-of-life
+1075,Mobility Radeon-P,ATI,M6,2002,AGP 4x,"32 MB, DDR, 64 bit",166 MHz,166 MHz,1 / 0 / 3 / 1,End-of-life
+1076,Radeon 7500 Mac Edition,ATI,RV200,"Apr 16th, 2002",AGP 4x,"32 MB, DDR, 128 bit",260 MHz,180 MHz,2 / 1 / 6 / 2,End-of-life
+1077,Radeon 8500 LE,ATI,R200,"Feb 4th, 2002",AGP 4x,"64 MB, DDR, 128 bit",250 MHz,250 MHz,4 / 2 / 8 / 4,End-of-life
+1078,Radeon 8500 X4,ATI,R200,Never Released,PCI-X,"64 MB, DDR, 64 bit",250 MHz,250 MHz,4 / 2 / 8 / 4,End-of-life
+1079,Radeon 8500 XT,ATI,R250,Never Released,AGP 4x,"128 MB, DDR, 128 bit",300 MHz,300 MHz,4 / 2 / 8 / 4,End-of-life
+1080,Radeon 9000,ATI,RV250,"Jul 1st, 2002",AGP 4x,"64 MB, DDR, 128 bit",250 MHz,200 MHz,4 / 1 / 4 / 4,End-of-life
+1081,Radeon 9000 LE,ATI,RV250,"Jul 1st, 2002",AGP 4x,"64 MB, DDR, 128 bit",250 MHz,200 MHz,4 / 1 / 4 / 4,End-of-life
+1082,Radeon 9000 PRO,ATI,RV250,"Jul 18th, 2002",AGP 4x,"128 MB, DDR, 128 bit",275 MHz,275 MHz,4 / 1 / 4 / 4,End-of-life
+1083,Radeon 9500 PRO,ATI,R300,"Oct 1st, 2002",AGP 8x,"128 MB, DDR, 128 bit",275 MHz,270 MHz,8 / 4 / 8 / 8,End-of-life
+1084,Radeon 9700,ATI,R300,"Aug 19th, 2002",AGP 8x,"128 MB, DDR, 256 bit",275 MHz,270 MHz,8 / 4 / 8 / 8,End-of-life
+1085,Radeon 9700 PRO,ATI,R300,"Aug 19th, 2002",AGP 8x,"128 MB, DDR, 256 bit",325 MHz,310 MHz,8 / 4 / 8 / 8,End-of-life
+1086,Radeon 9700 PRO X4,ATI,R300,"Aug 19th, 2002",PCI,"128 MB, DDR, 256 bit",325 MHz,310 MHz,8 / 4 / 8 / 8,End-of-life
+1087,Radeon IGP 320,ATI,RS100,"Oct 5th, 2002",AGP 4x,System Shared,160 MHz,System Shared,1 / 0 / 1 / 1,End-of-life
+1088,Radeon IGP 320M,ATI,RS100,"Oct 5th, 2002",AGP 4x,System Shared,160 MHz,System Shared,1 / 0 / 1 / 1,End-of-life
+1089,Radeon IGP 330M,ATI,RS200,"May 1st, 2002",AGP 4x,System Shared,183 MHz,System Shared,0 / 1 / 2 / 2,End-of-life
+1090,Radeon IGP 340,ATI,RS200,"Oct 5th, 2002",AGP 4x,System Shared,183 MHz,System Shared,0 / 1 / 2 / 2,End-of-life
+1091,Radeon IGP 340M,ATI,RS200,"Oct 5th, 2002",AGP 4x,System Shared,183 MHz,System Shared,0 / 1 / 2 / 2,End-of-life
+1092,Radeon IGP 345M,ATI,RS200,"Oct 5th, 2002",AGP 4x,System Shared,183 MHz,System Shared,2 / 1 / 2 / 2,End-of-life
+1093,Radeon IGP 350M,ATI,RS200,"Oct 5th, 2002",AGP 4x,System Shared,183 MHz,System Shared,0 / 1 / 2 / 2,End-of-life
+1094,All-In-Wonder Radeon 8500,ATI,R200,"Nov 14th, 2001",AGP 8x,"128 MB, DDR, 128 bit",275 MHz,275 MHz,4 / 2 / 8 / 4,End-of-life
+1095,All-In-Wonder Radeon 8500DV,ATI,R200,"Aug 30th, 2001",AGP 8x,"64 MB, DDR, 128 bit",230 MHz,190 MHz,4 / 2 / 8 / 4,End-of-life
+1096,Fire GL4,ATI,RC1000,"Mar 14th, 2001",AGP Pro 8x,"128 MB, DDR, 256 bit",150 MHz,150 MHz,2 / 1 / 4 / 1,End-of-life
+1097,FireGL 8700,ATI,R200,"Aug 14th, 2001",AGP 4x,"64 MB, DDR, 128 bit",250 MHz,270 MHz,4 / 2 / 8 / 4,End-of-life
+1098,FireGL 8800,ATI,R200,"Aug 14th, 2001",AGP 4x,"128 MB, DDR, 128 bit",300 MHz,290 MHz,4 / 2 / 8 / 4,End-of-life
+1099,Mobility FireGL 7800,ATI,M7,"Sep 29th, 2001",AGP 4x,"64 MB, DDR, 128 bit",280 MHz,200 MHz,2 / 0 / 2 / 2,End-of-life
+1100,Mobility Radeon 7500,ATI,M7,"Dec 1st, 2001",AGP 4x,"32 MB, DDR, 64 bit",280 MHz,200 MHz,2 / 0 / 2 / 1,End-of-life
+1101,Mobility Radeon 7500,ATI,M7,"Dec 1st, 2001",AGP 4x,"32 MB, DDR, 64 bit",230 MHz,183 MHz,2 / 1 / 2 / 1,End-of-life
+1102,Mobility Radeon 7500C,ATI,M7,"Dec 1st, 2001",AGP 4x,"16 MB, DDR, 64 bit",230 MHz,183 MHz,2 / 1 / 2 / 1,End-of-life
+1103,Radeon 7000,ATI,RV100,"Feb 19th, 2001",AGP 4x,"32 MB, DDR, 64 bit",183 MHz,183 MHz,1 / 0 / 3 / 1,End-of-life
+1104,Radeon 7000 PCI,ATI,RV100,"Feb 19th, 2001",PCI,"32 MB, DDR, 64 bit",133 MHz,133 MHz,1 / 0 / 3 / 1,End-of-life
+1105,Radeon 7500,ATI,RV200,"Aug 14th, 2001",AGP 4x,"64 MB, DDR, 128 bit",290 MHz,230 MHz,2 / 1 / 6 / 2,End-of-life
+1106,Radeon 7500 LE,ATI,RV200,"Aug 14th, 2001",AGP 4x,"64 MB, DDR, 128 bit",250 MHz,175 MHz,2 / 1 / 6 / 2,End-of-life
+1107,Radeon 8500,ATI,R200,"Aug 14th, 2001",AGP 4x,"64 MB, DDR, 128 bit",275 MHz,275 MHz,4 / 2 / 8 / 4,End-of-life
+1108,Radeon DDR VIVO,ATI,Rage 6,"Aug 14th, 2001",AGP 4x,"64 MB, DDR, 128 bit",183 MHz,183 MHz,2 / 1 / 6 / 2,End-of-life
+1109,Radeon DDR VIVO OEM,ATI,Rage 6,"Aug 14th, 2001",AGP 4x,"64 MB, DDR, 128 bit",166 MHz,166 MHz,2 / 1 / 6 / 2,End-of-life
+1110,Radeon DDR VIVO SE,ATI,Rage 6,"Aug 14th, 2001",AGP 4x,"64 MB, DDR, 128 bit",187 MHz,180 MHz,2 / 1 / 6 / 2,End-of-life
+1111,Radeon LE,ATI,Rage 6,"May 1st, 2001",AGP 4x,"32 MB, DDR, 128 bit",148 MHz,148 MHz,2 / 1 / 6 / 2,End-of-life
+1112,Radeon VE AGP,ATI,Rage 6,"Feb 19th, 2001",AGP 4x,"32 MB, DDR, 64 bit",183 MHz,183 MHz,1 / 0 / 3 / 1,End-of-life
+1113,Radeon VE PCI,ATI,Rage 6,"Feb 19th, 2001",PCI,"32 MB, DDR, 64 bit",183 MHz,183 MHz,1 / 0 / 3 / 1,End-of-life
+1114,All-In-Wonder Radeon 7200,ATI,R100,"Jul 31st, 2000",PCI,"32 MB, DDR, 128 bit",166 MHz,166 MHz,2 / 1 / 6 / 2,End-of-life
+1115,Fire GL2,ATI,RC1000,"Jun 1st, 2000",AGP 4x,"64 MB, DDR, 256 bit",120 MHz,120 MHz,2 / 1 / 4 / 1,End-of-life
+1116,Fire GL3,ATI,RC1000,"Jun 1st, 2000",AGP 4x,"128 MB, DDR, 256 bit",120 MHz,125 MHz,2 / 1 / 4 / 1,End-of-life
+1117,GameCube GPU,ATI,Flipper,"Aug 24th, 2000",IGP,"16 MB, SDR, 64 bit",162 MHz,162 MHz,4 / 1 / 4 / 4,End-of-life
+1118,Radeon 7200,ATI,R100,"Jun 1st, 2000",AGP 4x,"32 MB, SDR, 128 bit",143 MHz,143 MHz,2 / 1 / 6 / 2,End-of-life
+1119,Radeon 7200,ATI,R100,"Apr 1st, 2000",AGP 4x,"32 MB, DDR, 128 bit",166 MHz,166 MHz,2 / 1 / 6 / 2,End-of-life
+1120,Radeon 7200 64 MB,ATI,R100,"Apr 1st, 2000",AGP 4x,"64 MB, DDR, 128 bit",166 MHz,166 MHz,2 / 1 / 6 / 2,End-of-life
+1121,Radeon DDR,ATI,Rage 6,"Apr 1st, 2000",AGP 4x,"32 MB, DDR, 128 bit",166 MHz,166 MHz,2 / 1 / 6 / 2,End-of-life
+1122,Radeon DDR MAXX,ATI,Rage 6,"Jun 1st, 2000",AGP 2x,"32 MB, DDR, 128 bit",148 MHz,148 MHz,2 / 1 / 6 / 2,End-of-life
+1123,Radeon SDR,ATI,Rage 6,"Jun 1st, 2000",AGP 4x,"32 MB, SDR, 128 bit",166 MHz,166 MHz,2 / 1 / 6 / 2,End-of-life
+1124,Radeon SDR PCI,ATI,Rage 6,"Jun 1st, 2000",PCI,"32 MB, SDR, 128 bit",166 MHz,166 MHz,2 / 1 / 6 / 2,End-of-life
+1125,All-In-Wonder 128,ATI,Rage 128,"Jun 16th, 1999",AGP 4x,"32 MB, SDR, 128 bit",90 MHz,90 MHz,2 / 0 / 2 / 2,End-of-life
+1126,All-In-Wonder 128 PCI,ATI,Rage 128,"Jun 16th, 1999",PCI,"16 MB, SDR, 128 bit",90 MHz,90 MHz,2 / 0 / 2 / 2,End-of-life
+1127,All-In-Wonder 128 PRO,ATI,Rage 128 PRO,"Jun 16th, 1999",AGP 4x,"32 MB, SDR, 128 bit",120 MHz,120 MHz,2 / 0 / 2 / 2,End-of-life
+1128,All-In-Wonder 128 PRO Ultra,ATI,Rage 128,"Jun 16th, 1999",AGP 4x,"32 MB, SDR, 128 bit",134 MHz,134 MHz,2 / 0 / 2 / 2,End-of-life
+1129,Fire GL1,ATI,IBM,"Mar 1st, 1999",AGP 2x,"32 MB, SDR, 256 bit",45 MHz,100 MHz,2 / 0 / 1 / 1,End-of-life
+1130,Rage 128 PRO,ATI,Rage 128 PRO,"Aug 1st, 1999",AGP 4x,"32 MB, SDR, 128 bit",118 MHz,143 MHz,2 / 0 / 2 / 2,End-of-life
+1131,Rage 128 PRO Ultra,ATI,Rage 128 PRO,"Aug 1st, 1999",AGP 4x,"32 MB, SDR, 64 bit",130 MHz,130 MHz,2 / 0 / 2 / 2,End-of-life
+1132,Rage 128 Ultra,ATI,Rage 128 PRO,"Aug 1st, 1999",AGP 4x,"16 MB, DDR, 64 bit",130 MHz,130 MHz,2 / 0 / 2 / 2,End-of-life
+1133,Rage Fury,ATI,Rage 128 PRO,"Aug 1st, 1999",AGP 2x,"32 MB, SDR, 128 bit",80 MHz,120 MHz,2 / 0 / 2 / 2,End-of-life
+1134,Rage Fury MAXX,ATI,Rage 128 PRO,"Oct 1st, 1999",AGP 4x,"32 MB, SDR, 128 bit",125 MHz,143 MHz,2 / 0 / 2 / 2,End-of-life
+1135,Rage Mobility 128 AGP 2X,ATI,M3,"Oct 1st, 1999",AGP 2x,"16 MB, SDR, 64 bit",105 MHz,105 MHz,2 / 0 / 2 / 2,End-of-life
+1136,Rage Mobility 128 AGP 4X,ATI,M4,"Oct 1st, 1999",AGP 4x,"16 MB, DDR, 64 bit",105 MHz,105 MHz,2 / 0 / 2 / 2,End-of-life
+1137,Rage Mobility-CL,ATI,Rage Mobility,"Feb 1st, 1999",AGP 2x,"8 MB, SDR, 64 bit",75 MHz,70 MHz,1 / 0 / 1 / 1,End-of-life
+1138,Rage Mobility-M,ATI,Rage Mobility,"Feb 1st, 1999",AGP 2x,"4 MB, SDR, 64 bit",75 MHz,70 MHz,1 / 0 / 1 / 1,End-of-life
+1139,Rage Mobility-M1,ATI,M1,"Feb 1st, 1999",AGP 2x,"8 MB, SDR, 64 bit",83 MHz,125 MHz,2 / 0 / 2 / 2,End-of-life
+1140,Rage Mobility-M3,ATI,M3,"Oct 1st, 1999",AGP 2x,"8 MB, SDR, 64 bit",105 MHz,105 MHz,2 / 0 / 2 / 2,End-of-life
+1141,Rage Mobility-M4,ATI,M4,"Oct 1st, 1999",AGP 4x,"16 MB, SDR, 64 bit",105 MHz,105 MHz,2 / 0 / 2 / 2,End-of-life
+1142,Rage Mobility-P,ATI,Rage Mobility,"Feb 1st, 1999",AGP 2x,"8 MB, SDR, 64 bit",75 MHz,70 MHz,1 / 0 / 1 / 1,End-of-life
+1143,Rage XL PCI,ATI,Rage XL,"Jan 11th, 1999",PCI,"8 MB, SDR, 32 bit",83 MHz,83 MHz,1 / 0 / 1 / 1,End-of-life
+1144,Rage 128 GL,ATI,Rage 128,"Aug 27th, 1998",AGP 2x,"32 MB, SDR, 128 bit",80 MHz,60 MHz,2 / 0 / 2 / 2,End-of-life
+1145,Rage 128 GL PCI,ATI,Rage 128,"Aug 27th, 1998",PCI,"32 MB, SDR, 128 bit",103 MHz,103 MHz,2 / 0 / 2 / 2,End-of-life
+1146,Rage 128 PRO Ultra GL,ATI,Rage 128,"Aug 1st, 1998",AGP 4x,"16 MB, DDR, 64 bit",130 MHz,130 MHz,2 / 0 / 2 / 2,End-of-life
+1147,Rage 128 VR AGP,ATI,Rage 128,"Aug 1st, 1998",AGP 2x,"32 MB, DDR, 64 bit",80 MHz,125 MHz,2 / 0 / 2 / 2,End-of-life
+1148,Rage 128 VR PCI,ATI,Rage 128,"Aug 1st, 1998",PCI,"32 MB, DDR, 64 bit",80 MHz,125 MHz,2 / 0 / 2 / 2,End-of-life
+1149,Rage XL PCI,ATI,Rage XL,"Aug 1st, 1998",PCI,"8 MB, SDR, 64 bit",125 MHz,83 MHz,1 / 0 / 1 / 1,End-of-life
+1150,3D Rage PRO AGP,ATI,Rage PRO,"Mar 1st, 1997",AGP 2x,"2 MB, SDR, 64 bit",75 MHz,75 MHz,1 / 0 / 1 / 1,End-of-life
+1151,3D Rage PRO PCI,ATI,Rage PRO,"Mar 1st, 1997",PCI,"8 MB, SDR, 64 bit",75 MHz,75 MHz,1 / 0 / 1 / 1,End-of-life
+1152,Rage LT PRO AGP,ATI,Mach64 LT,"Nov 1st, 1997",AGP 2x,"8 MB, SDR, 64 bit",75 MHz,100 MHz,1 / 0 / 1 / 1,End-of-life
+1153,Rage LT PRO AGP,ATI,Mach64 LT,"Nov 1st, 1997",AGP 2x,"8 MB, SDR, 64 bit",75 MHz,100 MHz,1 / 0 / 1 / 1,End-of-life
+1154,Rage PRO Turbo AGP,ATI,Rage PRO Turbo,"Mar 1st, 1997",AGP 2x,"4 MB, SDR, 64 bit",75 MHz,75 MHz,1 / 0 / 1 / 1,End-of-life
+1155,Rage PRO Turbo PCI,ATI,Rage PRO Turbo,"Mar 1st, 1997",PCI,"8 MB, SDR, 64 bit",75 MHz,75 MHz,1 / 0 / 1 / 1,End-of-life
+1156,3D Rage,ATI,Mach64 GT,"Apr 1st, 1996",PCI,"2 MB, EDO, 64 bit",44 MHz,66 MHz,1 / 0 / 1 / 1,End-of-life
+1157,3D Rage II,ATI,Mach64 GT-B,"Sep 5th, 1996",PCI,"4 MB, SDR, 64 bit",60 MHz,83 MHz,1 / 0 / 1 / 1,End-of-life
+1158,3D Rage II+ DVD,ATI,Mach64 GT-B,"Sep 1st, 1996",PCI,"4 MB, SDR, 64 bit",60 MHz,83 MHz,1 / 0 / 1 / 1,End-of-life
+1159,3D Rage IIC AGP,ATI,Rage IIC,"Sep 1st, 1996",AGP 2x,"4 MB, SDR, 64 bit",60 MHz,83 MHz,1 / 0 / 1 / 1,End-of-life
+1160,3D Rage IIC PCI,ATI,Rage IIC,"Sep 1st, 1996",PCI,"2 MB, SDR, 64 bit",60 MHz,83 MHz,1 / 0 / 1 / 1,End-of-life
+1161,All-In-Wonder 3D Rage II+ DVD,ATI,Mach64 GT-B,"Sep 1st, 1996",PCI,"4 MB, SDR, 64 bit",60 MHz,83 MHz,1 / 0 / 1 / 1,End-of-life
+1162,Video Xpression,ATI,Mach64,"May 21st, 1996",PCI,"1 MB, EDO, 64 bit",62 MHz,62 MHz,1 / 0 / 0 / 1,End-of-life
+1163,Video Xpression+,ATI,Mach64,"May 1st, 1996",PCI,"2 MB, EDO, 64 bit",62 MHz,62 MHz,1 / 0 / 0 / 1,End-of-life
+1164,Graphics Pro Turbo,ATI,Mach64,1995,PCI,"2 MB, VRAM, 64 bit",40 MHz,40 MHz,1 / 0 / 0 / 1,End-of-life
+1165,Graphics Xpression,ATI,Mach64,"Nov 1st, 1995",PCI,"2 MB, EDO, 64 bit",40 MHz,40 MHz,1 / 0 / 0 / 1,End-of-life
+1166,Graphics Xpression ISA,ATI,Mach64,1995,PCI,"2 MB, DRAM, 64 bit",40 MHz,40 MHz,1 / 0 / 0 / 1,End-of-life
+1167,Video Xpression,ATI,Mach64,"Oct 23rd, 1995",PCI,"1 MB, EDO, 64 bit",62 MHz,66 MHz,1 / 0 / 0 / 1,End-of-life
+1168,WinBoost,ATI,Mach64,"Nov 1st, 1995",PCI,"2 MB, EDO, 64 bit",40 MHz,40 MHz,1 / 0 / 0 / 1,End-of-life
+1169,WinCharger,ATI,Mach64,"Nov 1st, 1995",PCI,"2 MB, EDO, 64 bit",40 MHz,40 MHz,1 / 0 / 0 / 1,End-of-life
+1170,WinTurbo,ATI,Mach64,1995,PCI,"2 MB, VRAM, 64 bit",40 MHz,40 MHz,1 / 0 / 0 / 1,End-of-life
+1171,Graphics Ultra Pro PCI,ATI,Mach32,1993,PCI,"1 MB, DRAM, 64 bit",66 MHz,83 MHz,1 / 0 / 0 / 1,End-of-life
+1172,Graphics Ultra Pro VLB,ATI,Mach32,1993,VLB,"1 MB, VRAM, 64 bit",10 MHz,10 MHz,1 / 0 / 0 / 1,End-of-life
+1173,Graphics Ultra XLR VLB,ATI,Mach32,1993,VLB,"1 MB, VRAM, 64 bit",10 MHz,10 MHz,1 / 0 / 0 / 1,End-of-life
+1174,8514-Ultra,ATI,Mach8,1992,ISA 16-bit,"1 MB, VRAM, 32 bit",10 MHz,10 MHz,1 / 0 / 0 / 1,End-of-life
+1175,Graphics Ultra,ATI,Mach8,1992,ISA 16-bit,"1 MB, VRAM, 32 bit",10 MHz,10 MHz,1 / 0 / 0 / 1,End-of-life
+1176,Graphics Ultra Pro ISA,ATI,Mach32,1992,ISA 16-bit,"2 MB, DRAM, 64 bit",10 MHz,10 MHz,1 / 0 / 0 / 1,End-of-life
+1177,Graphics Ultra Pro ISA,ATI,Mach32,1992,ISA 16-bit,"2 MB, DRAM, 64 bit",10 MHz,10 MHz,1 / 0 / 0 / 1,End-of-life
+1178,Graphics Vantage,ATI,Mach8,1992,ISA 16-bit,"1 MB, DRAM, 32 bit",10 MHz,10 MHz,1 / 0 / 0 / 1,End-of-life
+1179,Graphics Wonder PCI,ATI,Mach32,1992,PCI,"1 MB, DRAM, 64 bit",10 MHz,10 MHz,1 / 0 / 0 / 1,End-of-life
+1180,Graphics Wonder VLB,ATI,Mach32,1992,VLB,"1 MB, DRAM, 64 bit",10 MHz,10 MHz,1 / 0 / 0 / 1,End-of-life
+1181,VGA Wonder XL24,ATI,28800-6,"Mar 16th, 1992",ISA 16-bit,"1 MB, DRAM, 32 bit",10 MHz,10 MHz,1 / 0 / 0 / 1,End-of-life
+1182,VGA Wonder,ATI,18800-1,"Feb 5th, 1990",ISA 8-bit,"256 KB, DRAM, 32 bit",10 MHz,10 MHz,1 / 0 / 0 / 1,End-of-life
+1183,VGA Wonder+,ATI,28800-5,"Nov 1st, 1990",ISA 16-bit,"512 KB, DRAM, 32 bit",10 MHz,10 MHz,1 / 0 / 0 / 1,End-of-life
+1184,EGA Wonder 480,ATI,16899-0,"Dec 26th, 1988",ISA 8-bit,"256 KB, DRAM, 32 bit",10 MHz,8 MHz,1 / 0 / 0 / 1,End-of-life
+1185,EGA Wonder 800+,ATI,18800-1,1988,ISA 8-bit,"256 KB, DRAM, 32 bit",25 MHz,8 MHz,1 / 0 / 0 / 1,End-of-life
+1186,EGA Wonder 800,ATI,16899-0,"Nov 16th, 1987",ISA 8-bit,"256 KB, DRAM, 32 bit",10 MHz,8 MHz,1 / 0 / 0 / 1,End-of-life
+1187,Graphics Solution Plus,ATI,CW16800-B,"Mar 23rd, 1987",ISA 8-bit,"64 KB, DRAM, 32 bit",10 MHz,5 MHz,0 / 0 / 0 / 0,End-of-life
+1188,VGA Improved Performance,ATI,16899-0,"Sep 28th, 1987",ISA 8-bit,"256 KB, DRAM, 32 bit",10 MHz,10 MHz,1 / 0 / 0 / 1,End-of-life
+1189,Color Emulation Card,ATI,CW16800-A,"Aug 4th, 1986",ISA 8-bit,"32 KB, DRAM, 32 bit",10 MHz,5 MHz,0 / 0 / 0 / 0,End-of-life
+1190,Graphics Solution,ATI,CW16800-A,"Sep 22nd, 1986",ISA 8-bit,"64 KB, DRAM, 32 bit",10 MHz,5 MHz,0 / 0 / 0 / 0,End-of-life
