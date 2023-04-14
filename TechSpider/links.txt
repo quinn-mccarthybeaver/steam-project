@@ -1,0 +1,234 @@
+MDA%2FCGA
+EGA
+VGA
+Mach 8
+Mach 32
+Mach 64
+Rage
+Rage 2
+Rage 3
+Rage 4
+Rage 6
+Radeon R100
+Radeon R200
+Radeon R400 AGP
+Radeon R300
+Radeon R400 PCIe
+Radeon R500 AGP
+Radeon R500 PCIe
+Radeon R600
+Radeon R700
+Evergreen
+Northern Islands
+Southern Islands
+Sea Islands
+Volcanic Islands
+Pirate Islands
+Arctic Islands
+Polaris
+Vega II
+Navi
+Navi II
+Navi III
+NV1
+Riva
+TNT2
+GeForce 256
+GeForce 2 MX PCI
+GeForce 2 MX
+GeForce 2
+GeForce 3
+GeForce 4 MX
+GeForce 4 Ti
+GeForce FX
+GeForce PCX
+GeForce 6 PCI
+GeForce 6 AGP
+GeForce 6 PCIe
+GeForce 7 AGP
+GeForce 7 PCIe
+GeForce 8
+GeForce 9
+GeForce 100
+GeForce 200
+GeForce 300
+GeForce 400
+GeForce 500
+GeForce 600
+GeForce 700
+GeForce 900
+GeForce 10
+GeForce 16
+GeForce 20
+GeForce 30
+GeForce 40
+Xe Graphics
+FireStream
+Rage GL
+Fire GL
+FireGL
+FirePro Terascale
+FirePro GCN
+Radeon Pro GCN
+Radeon Pro Polaris
+Radeon Pro Vega
+Radeon Pro Navi
+FirePro Data Center
+FirePro Server
+Radeon Instinct
+FireMV Multi-View
+FirePro Multi-View
+FirePro Remote
+Radeon Sky
+Quadro4 NVS
+Quadro NVS
+NVS
+Quadro Celsius
+Quadro2 Celcius
+Quadro4 Celcius
+Quadro FX Rankine
+Quadro FX Curie
+Quadro FX Tesla
+Quadro Fermi
+Quadro Kepler
+Quadro Maxwell
+Quadro Pascal
+Quadro Volta
+Quadro Turing
+Quadro Ampere
+Quadro Ada
+Quadro Plex
+Tesla
+Tesla Fermi
+Tesla Kepler
+Tesla Maxwell
+Tesla Pascal
+Tesla Volta
+Tesla Turing
+Tesla Ampere
+Tesla Ada
+Tesla Hopper
+GRID
+DRIVE
+Knights Ferry
+Knights Corner
+H3C Graphics
+Data Center GPU
+Rage Mobility
+M6
+M7
+M9
+M1x
+M2x
+M5x
+M6x
+M7x
+M8x
+M9x
+Manhattan
+Vancouver
+London
+Solar System
+Gem System
+Polaris Mobile
+Navi Mobile
+GeForce2 Go
+GeForce4 Go
+GeForce FX Go 5
+GeForce Go 6
+GeForce Go 7
+GeForce 8M
+GeForce 9M
+GeForce 100M
+GeForce 200M
+GeForce 300M
+GeForce 400M
+GeForce 500M
+GeForce 600M
+GeForce 700M
+GeForce 800M
+GeForce 900M
+GeForce 10 Mobile
+GeForce 16 Mobile
+GeForce 20 Mobile
+GeForce 30 Mobile
+GeForce 40 Mobile
+GeForce MX
+GeForce 600A
+GeForce 700A
+GeForce 800A
+GeForce 900A
+Mobility FireGL
+FirePro Mobility
+FirePro Mobile
+Radeon Pro Mobile
+Radeon Pro Mac
+NVS Mobile
+Quadro2 Go
+Quadro4 Go
+Quadro FX Go
+Quadro FX Mobile
+Quadro Fermi-M
+Quadro Kepler-M
+Quadro Maxwell-M
+Quadro Pascal-M
+Quadro Turing-M
+Quadro Ampere-M
+Quadro Ada-M
+Alchemist
+Vega
+GeForce 2 MX IGP
+GeForce 4 MX IGP
+GeForce 6 IGP
+GeForce 7 IGP
+GeForce 8 IGP
+GeForce 9 IGP
+Graphics
+Extreme Graphics
+GMA Graphics
+HD Graphics
+TeraScale IGP
+TeraScale 2 IGP
+TeraScale 3 IGP
+GCN 2.0 IGP
+GCN 3.0 IGP
+Vega IGP
+Vega II IGP
+Navi II IGP
+Navi III IGP
+Gem System Hybrid
+GeForce Go 6 IGP
+GeForce 7M IGP
+GeForce 8M IGP
+GeForce 9M IGP
+Graphics-M
+Extreme Graphics 2
+GMA Graphics-M
+HD Graphics-M
+HD Graphics-E
+GMA Graphics-T
+HD Graphics-T
+HD Graphics-W
+HD Graphics-WM
+Radeon IGP
+Quadro NVS IGP
+ION
+All-In-Wonder
+All-In-One
+Embedded
+Tegra
+XG40
+G Series
+QID
+Parhelia
+M
+Voodoo1
+Voodoo2
+Voodoo Banshee
+Voodoo3
+Voodoo4
+Voodoo4-2
+Voodoo5
+Spectre
+Mining GPUs
+Console GPU
