@@ -25,7 +25,7 @@ if pathlib.Path("../data/steamdb-info.csv").is_file():
 
 with open('../data/games-release-steamdb.csv', mode='r', ) as file:
     csvFile = csv.DictReader(file)
-    index = 3
+    index = 30
     try:
         for a, line in enumerate(csvFile):
             if a >= index:
