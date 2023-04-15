@@ -1,4 +1,4 @@
-,game,link,release,peak_players,positive_reviews,negative_reviews,total_reviews,rating
+id,game,link,release,peak_players,positive_reviews,negative_reviews,total_reviews,rating
 0,Pizza Tower,/app/2231450/,Jan 26 2023,"4,529","19,807",227,227,96.39%
 1,Resident Evil 4,/app/2050650/,Mar 24 2023,"168,191","61,752","1,616","1,616",95.75%
 2,The Murder of Sonic the Hedgehog,/app/2324650/,Mar 31 2023,"15,543","12,643",213,213,95.54%
