@@ -25,7 +25,7 @@ if pathlib.Path("../data/steamdb-info.csv").is_file():
 
 with open('../data/games-release-steamdb.csv', mode='r', ) as file:
     csvFile = csv.DictReader(file)
-    index = 30
+    index = 2554
     try:
         for a, line in enumerate(csvFile):
             if a >= index:
@@ -44,12 +44,21 @@ with open('../data/games-release-steamdb.csv', mode='r', ) as file:
                 info_table = soup.find("div", id="info").find("table", class_="table")
                 info_rows = info_table.find_all("tr")
 
-                ul = soup.find("ul", "app-chart-numbers-big").find_all("li")
-                plrn = ul[1].find('strong').text.strip()
-                tfpeak = ul[2].find('strong').text.strip()
-                allTime = ul[3].find('strong').text.strip()
-                allTime_date = ul[3].find('time', {'class': 'timeago'})['datetime']
-                print(allTime_date)
+                ul = ""
+                plrn = ""
+                tfpeak = ""
+                allTime = ""
+                allTime_date = ""
+
+                try:
+                    ul = soup.find("ul", "app-chart-numbers-big").find_all("li")
+                    plrn = ul[1].find('strong').text.strip()
+                    tfpeak = ul[2].find('strong').text.strip()
+                    allTime = ul[3].find('strong').text.strip()
+                    allTime_date = ul[3].find('time', {'class': 'timeago'})['datetime']
+                    print(allTime_date)
+                except:
+                    print(f"chart not found for {game}")
 
                 genre = ""
                 publisher = ""
@@ -92,6 +101,7 @@ with open('../data/games-release-steamdb.csv', mode='r', ) as file:
                 }
                 df = df.append(disct, ignore_index=True)
                 print(df.head())
-    except:
+    except Exception as e:
+        print(e)
         df.to_csv("../data/steamdb-info.csv")
     df.to_csv("../data/steamdb-info.csv")
