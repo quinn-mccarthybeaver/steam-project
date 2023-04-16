@@ -19,7 +19,7 @@ driver.add_cookie({"name": "botcheck", "value": cookie_value})
 time.sleep(40)
 
 with open('./direct_links_to_gpu_data.txt', 'r') as extensions:
-    line = 102
+    line = 882
     for a, extension in enumerate(extensions):
         if a >= line:
             print(a)
@@ -44,6 +44,6 @@ with open('./direct_links_to_gpu_data.txt', 'r') as extensions:
             else:
                 with open('./gpu_specs/' + extension[11:-1] + '.html', 'w+') as file:
                     file.write(str(soup))
-            sleep(randint(8, 12))
+            sleep(randint(4, 6))
 
 driver.close()
