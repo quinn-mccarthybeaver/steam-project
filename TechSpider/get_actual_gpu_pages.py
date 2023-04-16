@@ -20,7 +20,7 @@ time.sleep(2)
 
 
 with open('./direct_links_to_gpu_data.txt', 'r') as extensions:
-    line = 34
+    line = 52
     for a, extension in enumerate(extensions):
         print(a)
         if a >= line:
