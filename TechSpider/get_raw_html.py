@@ -12,7 +12,7 @@ driver = webdriver.Firefox()
 
 with open('links.txt') as gen_names:
     count = 0
-    if len(sys.argv) != 0:
+    if len(sys.argv) > 1:
         count = int(sys.argv[1])
         for i in range(0, count):
             gen_names.__next__()
