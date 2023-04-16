@@ -6,7 +6,6 @@ from random import randint
 from time import sleep
 import undetected_chromedriver as uc
 
-
 # import sys
 
 # direct_links_to_gpu_data.txt
@@ -16,10 +15,8 @@ driver.delete_all_cookies()
 driver.get(link)
 cookie_value = "0e5c8760ffb9213d5e8efd43ad5c15bc"
 driver.add_cookie({"name": "botcheck", "value": cookie_value})
-#solve captcha?
+# solve captcha?
 time.sleep(40)
-
-
 
 with open('./direct_links_to_gpu_data.txt', 'r') as extensions:
     line = 102
@@ -47,6 +44,6 @@ with open('./direct_links_to_gpu_data.txt', 'r') as extensions:
             else:
                 with open('./gpu_specs/' + extension[11:-1] + '.html', 'w+') as file:
                     file.write(str(soup))
-            sleep(randint(8,12))
+            sleep(randint(8, 12))
 
 driver.close()
