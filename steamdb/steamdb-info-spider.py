@@ -15,17 +15,21 @@ df = pd.DataFrame()
 driver = uc.Chrome()
 
 driver.get("https://steamdb.info")
-
+driver.delete_all_cookies()
 cookie_name = "__Host-steamdb"
-cookie_value = ""
+cookie_value = "0%3B4694406%3B58094db8c565c7aa52aca1b2d44f33f733998aad"
 driver.add_cookie({"name": cookie_name, "value": cookie_value})
+driver.get("https://steamdb.info")
+
+time.sleep(40)
+
 
 if pathlib.Path("../data/steamdb-info.csv").is_file():
     df = pandas.read_csv("../data/steamdb-info.csv", index_col=0)
 
 with open('../data/games-release-steamdb.csv', mode='r', ) as file:
     csvFile = csv.DictReader(file)
-    index = 2554
+    index = 14641
     try:
         for a, line in enumerate(csvFile):
             if a >= index:
@@ -101,6 +105,7 @@ with open('../data/games-release-steamdb.csv', mode='r', ) as file:
                 }
                 df = df.append(disct, ignore_index=True)
                 print(df.head())
+                time.sleep(2)
     except Exception as e:
         print(e)
         df.to_csv("../data/steamdb-info.csv")
