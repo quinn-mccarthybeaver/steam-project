@@ -1,4 +1,4 @@
-,game,link,release,peak_players,positive_reviews,negative_reviews,total_reviews,rating
+id,game,link,release,peak_players,positive_reviews,negative_reviews,total_reviews,rating
 0,RimWorld,/app/294100/,Oct 17 2018,"60,789","155,354","2,997","2,997",96.80%
 1,Bloons TD 6,/app/960090/,Dec 18 2018,"53,943","240,551","6,265","6,265",96.33%
 2,Celeste,/app/504230/,Jan 25 2018,"4,177","69,722","1,630","1,630",96.06%
