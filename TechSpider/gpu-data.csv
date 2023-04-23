@@ -1,4 +1,4 @@
-,card_name,foundry,process_size,transistors,die_size,architecture,slot_width,tdp,base_clock,mem_clock,directX_ver,opengl_ver,opencl_ver,vulkan_ver,cuda_ver,shader_model_ver,mem_size,mem_type,mem_bus,bandwidth,pixel_rate,texture_rate,FP16_rate,FP32_rate,FP64_rate,shading_units,production_status,release_date
+id,card_name,foundry,process_size,transistors,die_size,architecture,slot_width,tdp,base_clock,mem_clock,directX_ver,opengl_ver,opencl_ver,vulkan_ver,cuda_ver,shader_model_ver,mem_size,mem_type,mem_bus,bandwidth,pixel_rate,texture_rate,FP16_rate,FP32_rate,FP64_rate,shading_units,production_status,release_date
 0,Intel GMA 950,Intel,90 nm,unknown,unknown,Generation 3.5,IGP,7 W,250 MHz,System Shared,9.0,2.0,N/A,N/A,,2.0,System Shared,System Shared,System Shared,System Dependent,400.0 MPixel/s,1.600 GTexel/s,,,,,End-of-life,"Jun 1st, 2005"
 1,NVIDIA GeForce 7950 GX2,TSMC,90 nm,278 million,196 mm²,Curie,Dual-slot,110 W,,"600 MHz
 										
@@ -781,7 +781,7 @@
 310,NVIDIA GeForce RTX 2060 Max-Q Refresh,TSMC,12 nm,"10,800 million",445 mm²,Turing,MXM Module,115 W,960 MHz,"1353 MHz
 										
 					10.8 Gbps effective",12 Ultimate (12_2),4.6,3.0,1.3,7.5,6.7,6 GB,GDDR6,192 bit,259.8 GB/s,57.60 GPixel/s,144.0 GTexel/s,9.216 TFLOPS (2:1),4.608 TFLOPS,144.0 GFLOPS (1:32),1920,Active,"Jan 29th, 2019"
-311,AMD Aldebaran,TSMC,6 nm,"58,200 million",724 mm²,CDNA 2.0,,,,,N/A,N/A,3.0,N/A,,N/A,,,,,,,,,,7040 x2,,"Nov 8th, 2021"
+311,AMD Aldebaran,TSMC,6 nm,"58,200 million",724 mm²,CDNA 2.0,,,,,N/A,N/A,3.0,N/A,,N/A,,,,,,,,,,7040,,"Nov 8th, 2021"
 312,AMD Navi 21,TSMC,7 nm,"26,800 million",520 mm²,RDNA 2.0,,,,,12 Ultimate (12_2),4.6,2.1,1.3,,6.7,,,,,,,,,,5120,,"Oct 28th, 2020"
 313,NVIDIA GeForce 6800 LE,TSMC,130 nm,222 million,225 mm²,Curie,Single-slot,unknown,,"300 MHz
 										
@@ -3725,7 +3725,7 @@
 1500,3dfx Spectre 1000,TSMC,180 nm,30 million,131 mm²,Voodoo Scalable,Single-slot,30 W,,"200 MHz
 										
 					400 Mbps effective",8.0,1.1,N/A,N/A,,,64 MB,DDR,128 bit,6.400 GB/s,800.0 MPixel/s,800.0 MTexel/s,,,,,End-of-life,Never Released
-1501,AMD MI300,TSMC,5 nm,"146,000 million",1017 mm²,CDNA 3.0,,,,,N/A,N/A,3.0,N/A,,N/A,,,,,,,,,,3520 x4,,"Jan 4th, 2023"
+1501,AMD MI300,TSMC,5 nm,"146,000 million",1017 mm²,CDNA 3.0,,,,,N/A,N/A,3.0,N/A,,N/A,,,,,,,,,,3520,,"Jan 4th, 2023"
 1502,AMD Radeon R7 250E,TSMC,28 nm,"1,500 million",123 mm²,GCN 1.0,Single-slot,55 W,,"1125 MHz
 										
 					4.5 Gbps effective",12 (11_1),4.6,2.1 (1.2),1.2.170,,6.5 (5.1),1024 MB,GDDR5,128 bit,72.00 GB/s,12.80 GPixel/s,25.60 GTexel/s,,819.2 GFLOPS,51.20 GFLOPS (1:16),512,End-of-life,"Dec 20th, 2013"
