@@ -34,13 +34,44 @@ for filename in os.listdir(folder_path):
                                            'name': 'date'
                                        },
                                        series_kwargs={
-                                           'name': filename
+                                           'name': filename,
                                        })
 
         my_chart.add_series(series)
 
-as_js_literal = my_chart.to_js_literal()
+game_series = ScatterSeries.from_csv("./data/playerdata/test.csv",
+                                     property_column_map={
+                                         'x': 'all-time date',
+                                         'y': 'all-time peak',
+                                         'name': 'id'
+                                     },
+                                     series_kwargs={
+                                         'tooltip': {
+                                             'pointFormat': '<b>'
+                                                            'players:{point.y}'
+                                                            'time:{point.x}'
+                                                            'id:{point.name}</b>'
+                                         }
+                                     })
 
+#
+# # Create a scatter plot series for the game data
+# game_series = {
+#     'type': 'scatter',
+#     'name': game_data['game'][0],
+#     'marker': {
+#         'symbol': 'circle',
+#         'radius': 5,
+#         'fillColor': 'red'
+#     },
+#     'data': [[game_data['release'][0].strftime('%Y-%m-%d'), game_data['peak_players_date'][0].strftime('%Y-%m-%d')]]
+# }
+
+
+# Add the game series to the chart
+my_chart.add_series(game_series)
+
+as_js_literal = my_chart.to_js_literal()
 
 # my_png_image = my_chart.download_chart(
 #     format = 'png',
@@ -50,4 +81,3 @@ as_js_literal = my_chart.to_js_literal()
 with open('my_target_file.js', 'w') as file:
     file.write(as_js_literal)
     file.close()
-

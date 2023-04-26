@@ -9,7 +9,8 @@
             scrollbar: {
                 enabled: true,
                 showFull: false
-            }
+            },
+        max: 5000000
         },
     chart: {
         scrollablePlotArea: {
@@ -42,6 +43,9 @@
                 lineWidth: 1
             },
           turboThreshold: 0
-    }
+    },
+    dataLabels: {
+            enabled: true
+        }
   }
 }
