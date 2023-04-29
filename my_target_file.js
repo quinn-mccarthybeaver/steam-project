@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-var myChart =  Highcharts.chart('chart',
+var myChart = Highcharts.chart('chart',
 {
   chart: {
   scrollablePlotArea: {
