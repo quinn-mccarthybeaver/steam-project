@@ -1,8 +1,12 @@
 import csv
+import glob
+import os
+
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
+
 
 def load_data(filename):
     data = []
@@ -16,16 +20,18 @@ def load_data(filename):
             label.append(float(line[-1]))
     data = np.array(data)
     label = np.array(label)
-    return (data, label)
+    return data, label
+
 
 x, y = load_data('./final_data.csv')
 
-
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2)
+
 
 def rmse(predict, true):
     result = np.sqrt(np.mean((predict - true) ** 2))
     return result
+
 
 def normal_rmse(predict, true):
     normalizer = np.max(true) - np.min(true)
@@ -33,12 +39,14 @@ def normal_rmse(predict, true):
     result /= normalizer
     return result
 
+
 model = RandomForestRegressor()
 model.fit(x_train, y_train)
 print('random forest')
 print(rmse(model.predict(x_test), y_test))
 print(normal_rmse(model.predict(x_test), y_test))
 print(model.score(x_test, y_test))
+
 
 def graph_with_model(model, filename, title):
     x_real, y_real = load_data(filename)
@@ -51,8 +59,18 @@ def graph_with_model(model, filename, title):
     plt.xlabel('Months Since Release')
     plt.ylabel('Number of Active Users')
     plt.title(title)
+    plt.savefig("graphs/" + title)
     plt.show()
 
-graph_with_model(model, './Intel_HD_Graphics_4600.csv', 'Intel HD Graphics 4600')
-graph_with_model(model, './AMD_graphing_data.csv', 'AMD Radeon RX 500')
-graph_with_model(model, './Intel_graphing_data.csv', 'Intel HD Graphics 3000')
+
+folder_path = "cleaned_folder"
+files = glob.glob(os.path.join(folder_path, '*.csv'))
+for file_path in files:
+    with open(file_path) as f:
+        print(f.name)
+        try:
+            graph_with_model(model, f.name, f.name.replace("_", " ").replace(".csv", "").replace("cleaned folder/", ""))
+        except:
+            continue
+# graph_with_model(model, './AMD_graphing_data.csv', 'AMD Radeon RX 500')
+# graph_with_model(model, './Intel_graphing_data.csv', 'Intel HD Graphics 3000')

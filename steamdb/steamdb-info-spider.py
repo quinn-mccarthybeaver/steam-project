@@ -30,7 +30,7 @@ if pathlib.Path("../data/steamdb-info.csv").is_file():
 with open('../data/games-release-steamdb.csv', mode='r', ) as file:
     csvFile = csv.DictReader(file)
 
-    index = 36189
+    index = 37324
 
     try:
         for a, line in enumerate(csvFile):

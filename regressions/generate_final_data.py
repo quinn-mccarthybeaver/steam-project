@@ -1,6 +1,7 @@
 import csv
 from pprint import pprint
 from datetime import date
+import pandas as pd
 
 # original headers
 # 0   card
@@ -17,6 +18,7 @@ from datetime import date
 # day0 = datetime.strptime('2002-01-06', '%Y-%M-%d').date()
 day0 = date.fromisoformat('2002-01-06')
 
+
 def make_csv(card=None):
     lines = [['date', 'cores', 'tmus', 'rops', 'memory_size', 'bus_width', 'release_date', 'real_users']]
     with open('./data_with_names.csv', 'r') as file:
@@ -24,7 +26,7 @@ def make_csv(card=None):
         reader.__next__()
 
         for line in reader:
-            if card != None and line[0] != card:
+            if card is not None and line[0] != card:
                 continue
 
             now = date.fromisoformat(line[1])
@@ -39,10 +41,15 @@ def make_csv(card=None):
 
     return lines
 
+
 def write_csv(filename):
     with open(filename, 'w+') as file:
         writer = csv.writer(file)
         writer.writerows(lines)
+
+pd = pd.read_csv("../steamdb/card_users_dup_remove.csv")
+pd = pd['name']
+print(pd.head())
 
 # lines = make_csv()
 # write_csv('final_data.csv')
@@ -52,6 +59,10 @@ def write_csv(filename):
 
 # lines = make_csv(card='AMD Radeon RX 480')
 # write_csv('AMD_graphing_data_480.csv')
-
-lines = make_csv(card='Intel HD Graphics 4600')
-write_csv('./Intel_HD_Graphics_4600.csv')
+for name in pd:
+    lines = make_csv(card=name)
+    print(name)
+    try:
+        write_csv(f'./cleaned_folder/{name.replace(" ","_").replace("/","_")}.csv')
+    except:
+        continue
