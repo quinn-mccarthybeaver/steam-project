@@ -1,22 +1,14 @@
 import pandas
 import pandas as pd
-from highcharts_core import highcharts
 from highcharts_core.chart import Chart
 from highcharts_core.options import HighchartsOptions
-from highcharts_core.options.series.area import LineSeries, StreamGraphSeries, AreaRangeSeries
 from highcharts_core.options.series.bar import BarSeries, ColumnSeries
-from highcharts_core.options.series.histogram import HistogramSeries
 from highcharts_core.options.series.scatter import ScatterSeries
-from highcharts_core.options.series.spline import SplineSeries
 import os
 
-df = pd.DataFrame()
-df = pandas.read_csv("./steamdb/card_users_real.csv", index_col=0)
-folder_path = './steamdb/cards'
-# df = df.dropna(subset=['shading_units'])
-print(df.head())
+folder_path = '../TechSpider/cards'
 template_options = HighchartsOptions.from_js_literal(
-    'template.js'
+    '../template.js'
 )
 my_chart = Chart.from_options(template_options,
                               chart_kwargs={
@@ -54,29 +46,11 @@ game_series = ScatterSeries.from_csv("./data/playerdata/test.csv",
                                          }
                                      })
 
-#
-# # Create a scatter plot series for the game data
-# game_series = {
-#     'type': 'scatter',
-#     'name': game_data['game'][0],
-#     'marker': {
-#         'symbol': 'circle',
-#         'radius': 5,
-#         'fillColor': 'red'
-#     },
-#     'data': [[game_data['release'][0].strftime('%Y-%m-%d'), game_data['peak_players_date'][0].strftime('%Y-%m-%d')]]
-# }
-
 
 # Add the game series to the chart
 my_chart.add_series(game_series)
 
 as_js_literal = my_chart.to_js_literal()
-
-# my_png_image = my_chart.download_chart(
-#     format = 'png',
-#     filename = '/images/my-chart-file.png'
-# )
 
 with open('my_target_file.js', 'w') as file:
     file.write(as_js_literal)

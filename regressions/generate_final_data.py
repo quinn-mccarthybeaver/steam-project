@@ -47,7 +47,7 @@ def write_csv(filename):
         writer = csv.writer(file)
         writer.writerows(lines)
 
-pd = pd.read_csv("../steamdb/card_users_dup_remove.csv")
+pd = pd.read_csv("../TechSpider/card_users_dup_remove.csv")
 pd = pd['name']
 print(pd.head())
 

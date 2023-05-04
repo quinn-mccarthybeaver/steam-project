@@ -31,7 +31,7 @@ def add_rows(dates, categories, names, changes, percentages):
 
 def read_file():
     make_table()
-    file = open('shws.csv')
+    file = open('../shws.csv')
     reader = csv.reader(file)
     reader.__next__()
 
