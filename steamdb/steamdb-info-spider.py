@@ -27,10 +27,10 @@ time.sleep(40)
 if pathlib.Path("../data/steamdb-info.csv").is_file():
     df = pandas.read_csv("../data/steamdb-info.csv", index_col=0)
 
-with open('../data/games-release-steamdb.csv', mode='r', ) as file:
+with open('../data/games-release-steamdb.csv', mode='r', encoding="utf8" ) as file:
     csvFile = csv.DictReader(file)
 
-    index = 37324
+    index = 42411
 
     try:
         for a, line in enumerate(csvFile):
