@@ -10,3 +10,5 @@ This is where we trained our regression models and created charts to visualize t
 Code for scraping SteamDB
 * `Tech Spider`:
 Code for scraping data from Tech Radar
+
+For full project writeup, see [here](https://drive.google.com/file/d/1XljsIDV37SGh5vMHMuI2k2tJGbLT7JP6/view?usp=sharing).
